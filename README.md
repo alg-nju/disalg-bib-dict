@@ -51,6 +51,7 @@
  acmid = {279096},
  publisher = {Society for Industrial and Applied Mathematics},
  address = {Philadelphia, PA, USA},
- keywords = {distributed computing, fault tolerance, linear programming, load, percolation theory, quorum systems},
+ keywords = {distributed computing, fault tolerance, linear programming, load, 
+     percolation theory, quorum systems},
 } 
 ```
