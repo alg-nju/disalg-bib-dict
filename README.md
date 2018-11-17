@@ -157,7 +157,8 @@ journal = {ACM SIGACT News (Distributed Computing Column) 32, 4 (Whole Number 12
  acmid = {279096},
  publisher = {Society for Industrial and Applied Mathematics},
  address = {Philadelphia, PA, USA},
- keywords = {distributed computing, fault tolerance, linear programming, load, percolation theory, quorum systems},
+ keywords = {distributed computing, fault tolerance, linear programming, 
+     load, percolation theory, quorum systems},
 } 
 ```
 
