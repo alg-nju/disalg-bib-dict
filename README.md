@@ -20,7 +20,11 @@ day="01",
 volume="16",
 number="1",
 pages="1--20",
-abstract="We present an algorithm, called Disk Paxos, for implementing a reliable distributed system with a network of processors and disks. Like the original Paxos algorithm, Disk Paxos maintains consistency in the presence of arbitrary non-Byzantine faults. Progress can be guaranteed as long as a majority of the disks are available, even if all processors but one have failed.",
+abstract="We present an algorithm, called Disk Paxos, for implementing a reliable 
+    distributed system with a network of processors and disks. Like the original 
+    Paxos algorithm, Disk Paxos maintains consistency in the presence of arbitrary 
+    non-Byzantine faults. Progress can be guaranteed as long as a majority of the 
+    disks are available, even if all processors but one have failed.",
 issn="1432-0452",
 doi="10.1007/s00446-002-0070-8",
 url="https://doi.org/10.1007/s00446-002-0070-8"
@@ -66,7 +70,14 @@ author = {Lamport, Leslie},
 title = {Paxos Made Simple},
 year = {2001},
 month = {December},
-abstract = {At the PODC 2001 conference, I got tired of everyone saying how difficult it was to understand the Paxos algorithm, published in [122]. Although people got so hung up in the pseudo-Greek names that they found the paper hard to understand, the algorithm itself is very simple. So, I cornered a couple of people at the conference and explained the algorithm to them orally, with no paper. When I got home, I wrote down the explanation as a short note, which I later revised based on comments from Fred Schneider and Butler Lampson. The current version is 13 pages long, and contains no formula more complicated than n1 &gt; n2.},
+abstract = {At the PODC 2001 conference, I got tired of everyone saying how difficult 
+    it was to understand the Paxos algorithm, published in [122]. Although people got 
+    so hung up in the pseudo-Greek names that they found the paper hard to understand, 
+    the algorithm itself is very simple. So, I cornered a couple of people at the conference 
+    and explained the algorithm to them orally, with no paper. When I got home, I wrote 
+    down the explanation as a short note, which I later revised based on comments from 
+    Fred Schneider and Butler Lampson. The current version is 13 pages long, and contains 
+    no formula more complicated than n1 &gt; n2.},
 url = {https://www.microsoft.com/en-us/research/publication/paxos-made-simple/},
 pages = {51-58},
 journal = {ACM SIGACT News (Distributed Computing Column) 32, 4 (Whole Number 121, December 2001)},
