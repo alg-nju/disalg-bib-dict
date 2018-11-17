@@ -112,9 +112,15 @@ journal = {ACM SIGACT News (Distributed Computing Column) 32, 4 (Whole Number 12
 
 ```
 @inproceedings{Malek05,
- author = {Abd-El-Malek, Michael and Courtright,II, William V. and Cranor, Chuck and Ganger, Gregory R. and Hendricks, James and Klosterman, Andrew J. and Mesnier, Michael and Prasad, Manish and Salmon, Brandon and Sambasivan, Raja R. and Sinnamohideen, Shafeeq and Strunk, John D. and Thereska, Eno and Wachs, Matthew and Wylie, Jay J.},
+ author = {Abd-El-Malek, Michael and Courtright,II, William V. and Cranor, 
+     Chuck and Ganger, Gregory R. and Hendricks, James and Klosterman, 
+     Andrew J. and Mesnier, Michael and Prasad, Manish and Salmon, 
+     Brandon and Sambasivan, Raja R. and Sinnamohideen, 
+     Shafeeq and Strunk, John D. and Thereska, Eno and Wachs, 
+     Matthew and Wylie, Jay J.},
  title = {Ursa Minor: Versatile Cluster-based Storage},
- booktitle = {Proceedings of the 4th Conference on USENIX Conference on File and Storage Technologies - Volume 4},
+ booktitle = {Proceedings of the 4th Conference on USENIX Conference 
+     on File and Storage Technologies - Volume 4},
  series = {FAST'05},
  year = {2005},
  location = {San Francisco, CA},
