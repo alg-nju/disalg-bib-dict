@@ -751,7 +751,7 @@ url = {http://dx.doi.org/10.1007/978-3-642-25873-2_22 },
 
 
 
-###how
+### how
 
 ```
 @InProceedings{Howard17,
@@ -1108,7 +1108,8 @@ pages = {215--226},
 @inproceedings{Meiklejohn17,
  author = {Christopher S. Meiklejohn},
  title = {On the Design of Distributed Programming Models},
- booktitle = {Second Workshop on Programming Models and Languages for Distributed Computing, Co-located with ECOOP},
+ booktitle = {Second Workshop on Programming Models and Languages 
+     for Distributed Computing, Co-located with ECOOP},
  series = {PMLDC'11},
  year = {2017},
  location = {Barcelona, Spain},
