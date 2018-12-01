@@ -220,6 +220,33 @@ URL = {http://www.cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf},
 
 
 
+### bor
+
+```
+@Article{Borowsky01,
+author="Borowsky, E.
+and Gafni, E.
+and Lynch, N.
+and Rajsbaum, S.",
+title="The BG distributed simulation algorithm",
+journal="Distributed Computing",
+year="2001",
+month="Jul",
+day="01",
+volume="14",
+number="3",
+pages="127--146",
+abstract="We present a shared memory algorithm that allows a set of 
+    f+1 processes to wait-free ``simulate'' a larger system of 
+    n processes, that may also exhibit up to f stopping failures.",
+issn="1432-0452",
+doi="10.1007/PL00008933",
+url="https://doi.org/10.1007/PL00008933"
+}
+```
+
+
+
 ### bro
 
 ```
@@ -1042,6 +1069,69 @@ journal = {ACM SIGACT News (Distributed Computing Column) 32, 4 (Whole Number 12
 ### lyn
 
 ```
+@article{Lynch95,
+title = "Forward and Backward Simulations: I. Untimed Systems",
+journal = "Information and Computation",
+volume = "121",
+number = "2",
+pages = "214 - 233",
+year = "1995",
+issn = "0890-5401",
+doi = "https://doi.org/10.1006/inco.1995.1134",
+url = "http://www.sciencedirect.com/science/article/pii/S0890540185711340",
+author = "N. Lynch and F. Vaandrager",
+abstract = "A unified, comprehensive presentation of simulation techniques 
+    for verification of concurrent systems is given, in terms of a simple 
+    untimed automaton model. In particular, (1) refinements, (2) forward 
+    and backward simulations, (3) hybrid forward-backward and 
+    backward-forward simulations, and (4) history and prophecy relations 
+    are defined. History and prophecy relations are abstract versions of 
+    the history and prophecy variables of Abadi and Lamport, as well as 
+    the auxiliary variables of Owicki and Gries, Relationships between 
+    the different types of simulations, as well as soundness and completeness 
+    results, are stated and proved. Finally, it is shown how invariants 
+    can be incorporated into all the simulations. Even though many 
+    results are presented here for the first time, this paper can 
+    also be read as a survey (in a simple setting) of the research 
+    literature on simulation techniques. The development for untimed 
+    automata is designed to support a similar development for timed 
+    automata, Part II of this paper will show how the results of this 
+    paper can be carried over to the setting of timed automata."
+}
+```
+
+
+
+```
+@article{Lynch96,
+title = "Forward and Backward Simulations: II. Timing-Based Systems",
+journal = "Information and Computation",
+volume = "128",
+number = "1",
+pages = "1 - 25",
+year = "1996",
+issn = "0890-5401",
+doi = "https://doi.org/10.1006/inco.1996.0060",
+url = "http://www.sciencedirect.com/science/article/pii/S0890540196900607",
+author = "Nancy Lynch and Frits Vaandrager",
+abstract = "A general automaton model for timing-based systems is 
+    presented and is used as the context for developing a variety of 
+    simulation proof techniques for such systems. These techniques 
+    include (1) refinements, (2) forward and backward 
+    simulations, (3) hybrid forward–backward and backward–forward 
+    simulations, and (4) history and prophecy relations. Relationships 
+    between the different types of simulations, as well as soundness 
+    and completeness results, are stated and proved. These results 
+    are (with one exception) analogous to the results for untimed 
+    systems in Part I of this paper. In fact, many of the results for 
+    the timed case are obtained as consequences of the analogous results 
+    for the untimed case."
+}
+```
+
+
+
+```
 @inproceedings{Lynch97, 
  author={N. A. Lynch and A. A. Shvartsman}, 
  booktitle={Proceedings of IEEE 27th International Symposium on 
@@ -1195,6 +1285,46 @@ url="https://doi.org/10.1007/s004460050027"
 
 ## R
 
+### ree
+
+```
+@inproceedings{Reed08,
+ author = {Reed, Benjamin and Junqueira, Flavio P.},
+ title = {A Simple Totally Ordered Broadcast Protocol},
+ booktitle = {Proceedings of the 2Nd Workshop on 
+     Large-Scale Distributed Systems and Middleware},
+ series = {LADIS '08},
+ year = {2008},
+ isbn = {978-1-60558-296-2},
+ location = {Yorktown Heights, New York, USA},
+ pages = {2:1--2:6},
+ articleno = {2},
+ numpages = {6},
+ url = {http://doi.acm.org/10.1145/1529974.1529978},
+ doi = {10.1145/1529974.1529978},
+ acmid = {1529978},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+```
+
+
+
+### ren
+
+```
+@inproceedings{Renesse04,
+  title={Chain Replication for Supporting High Throughput and Availability.},
+  author={Van Renesse, Robbert and Schneider, Fred B},
+  booktitle={OSDI},
+  volume={4},
+  number={91--104},
+  year={2004}
+}
+```
+
+
+
 ### roy
 
 ```
@@ -1271,6 +1401,23 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
  keywords = {eventual consistency, large-scale distributed systems, 
      replicated shared objects},
  }
+```
+
+
+
+### ste
+
+```
+@article{Steinke04,
+  title={A unified theory of shared memory consistency},
+  author={Steinke, Robert C and Nutt, Gary J},
+  journal={Journal of the ACM (JACM)},
+  volume={51},
+  number={5},
+  pages={800--849},
+  year={2004},
+  publisher={ACM}
+}
 ```
 
 
