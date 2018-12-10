@@ -41,6 +41,25 @@ publisher = {IEEE Computer Society},
 ### ala
 
 ```
+@inproceedings {Alagappan18,
+author = {Ramnatthan Alagappan and Aishwarya Ganesan and 
+    Jing Liu and Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau},
+title = {Fault-Tolerance, Fast and Slow: Exploiting 
+    Failure Asynchrony in Distributed Systems},
+booktitle = {13th {USENIX} Symposium on Operating Systems 
+    Design and Implementation ({OSDI} 18)},
+year = {2018},
+isbn = {978-1-931971-47-8},
+address = {Carlsbad, CA},
+pages = {390--408},
+url = {https://www.usenix.org/conference/osdi18/presentation/alagappan},
+publisher = {{USENIX} Association},
+}
+```
+
+
+
+```
 @article{Alagiannis15,
  author = {Alagiannis, Ioannis and Borovica-Gajic, Renata and 
      Branco, Miguel and Idreos, Stratos and Ailamaki, Anastasia},
@@ -347,6 +366,27 @@ url = {http://dx.doi.org/10.14778/1454159.1454167},
 doi = {10.14778/1454159.1454167},
 publisher = {VLDB Endowment},
 }
+```
+
+```
+@inproceedings{Cooper10,
+ author = {Cooper, Brian F. and Silberstein, Adam and Tam, 
+     Erwin and Ramakrishnan, Raghu and Sears, Russell},
+ title = {Benchmarking Cloud Serving Systems with YCSB},
+ booktitle = {Proceedings of the 1st ACM Symposium on Cloud Computing},
+ series = {SoCC '10},
+ year = {2010},
+ isbn = {978-1-4503-0036-0},
+ location = {Indianapolis, Indiana, USA},
+ pages = {143--154},
+ numpages = {12},
+ url = {http://doi.acm.org/10.1145/1807128.1807152},
+ doi = {10.1145/1807128.1807152},
+ acmid = {1807152},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {benchmarking, cloud serving database},
+} 
 ```
 
 
@@ -1230,6 +1270,31 @@ publisher = {ACM},
 address = {New York, NY, USA},
 }
 ```
+
+
+
+### mor
+
+```
+@inproceedings{Moraru14,
+ author = {Moraru, Iulian and Andersen, David G. and Kaminsky, Michael},
+ title = {Paxos Quorum Leases: Fast Reads Without Sacrificing Writes},
+ booktitle = {Proceedings of the ACM Symposium on Cloud Computing},
+ series = {SOCC '14},
+ year = {2014},
+ isbn = {978-1-4503-3252-1},
+ location = {Seattle, WA, USA},
+ pages = {22:1--22:13},
+ articleno = {22},
+ numpages = {13},
+ url = {http://doi.acm.org/10.1145/2670979.2671001},
+ doi = {10.1145/2670979.2671001},
+ acmid = {2671001},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+```
+
 
 
 
