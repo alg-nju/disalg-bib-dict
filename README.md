@@ -1,5 +1,9 @@
 # BibDict
 
+A dictionary of bibs, mainly on distributed algorithm design and implementation.
+
+
+
 ## A 
 
 ### aba
@@ -1419,6 +1423,38 @@ url="https://doi.org/10.1007/s004460050027"
 
 
 ## S
+
+### saa
+
+```
+@InProceedings{Saad09,
+author="Chaouch-Saad, Mouna
+and Charron-Bost, Bernadette
+and Merz, Stephan",
+editor="Bournez, Olivier
+and Potapov, Igor",
+title="A Reduction Theorem for the Verification of 
+    Round-Based Distributed Algorithms",
+booktitle="Reachability Problems",
+year="2009",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="93--106",
+abstract="We consider the verification of algorithms expressed in 
+    the Heard-Of Model, a round-based computational model for 
+    fault-tolerant distributed computing. Rounds in this model 
+    are communication-closed, and we show that every execution 
+    recording individual events corresponds to a coarser-grained 
+    execution based on global rounds such that the local views of 
+    all processes are identical in the two executions. 
+    This result helps us to substantially mitigate state-space 
+    explosion and verify Consensus algorithms using standard 
+    model checking techniques.",
+isbn="978-3-642-04420-5"
+}
+```
+
+
 
 ### sha
 
