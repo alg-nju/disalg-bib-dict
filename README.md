@@ -9,6 +9,39 @@ A dictionary of bibs, mainly on distributed algorithm design and implementation.
 ### aba
 
 ```
+@Inproceedings{Abadi88,
+author = {Abadi, Martin and Lamport, Leslie},
+title = {The Existence of Refinement Mappings},
+year = {1988},
+month = {July},
+url = {https://www.microsoft.com/en-us/research/publication/
+    the-existence-of-refinement-mappings/},
+pages = {165-175},
+edition = {Proceedings of the 3rd Annual Symposium on Logic in Computer Science},
+note = {LICS 1988 Test of Time Award},
+}
+```
+
+
+
+```
+@article{Abadi91,
+title = "The existence of refinement mappings",
+journal = "Theoretical Computer Science",
+volume = "82",
+number = "2",
+pages = "253 - 284",
+year = "1991",
+issn = "0304-3975",
+doi = "https://doi.org/10.1016/0304-3975(91)90224-P",
+url = "http://www.sciencedirect.com/science/article/pii/030439759190224P",
+author = "Martín Abadi and Leslie Lamport",
+}
+```
+
+
+
+```
 @article{Abadi12, 
 author={Abadi, Daniel J.}, 
 title={Consistency Tradeoffs in Modern Distributed Database System Design: 
@@ -243,6 +276,42 @@ URL = {http://www.cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf},
 
 
 
+### bea
+
+```
+@inproceedings{Beaver10,
+ author = {Beaver, Doug and Kumar, Sanjeev and Li, Harry C. and 
+     Sobel, Jason and Vajgel, Peter},
+ title = {Finding a Needle in Haystack: Facebook's Photo Storage},
+ booktitle = {Proceedings of the 9th USENIX Conference on 
+     Operating Systems Design and Implementation},
+ series = {OSDI'10},
+ year = {2010},
+ location = {Vancouver, BC, Canada},
+ pages = {47--60},
+ numpages = {14},
+ url = {http://dl.acm.org/citation.cfm?id=1924943.1924947},
+ acmid = {1924947},
+ publisher = {USENIX Association},
+ address = {Berkeley, CA, USA},
+} 
+```
+
+
+
+### ber
+
+```
+@phdthesis{Bermbach14,
+    title={Benchmarking Eventually Consistent Distributed Storage Systems},
+    author={Bermbach, David},
+    school={Karlsruhe Institute of Technology},
+    year={2014},
+}
+```
+
+
+
 ### bor
 
 ```
@@ -265,6 +334,29 @@ abstract="We present a shared memory algorithm that allows a set of
 issn="1432-0452",
 doi="10.1007/PL00008933",
 url="https://doi.org/10.1007/PL00008933"
+}
+```
+
+
+
+### bre
+
+```
+@inproceedings{Brewer00,
+ author = {Brewer, Eric A.},
+ title = {Towards Robust Distributed Systems (Abstract)},
+ booktitle = {Proceedings of the Nineteenth Annual ACM Symposium on 
+     Principles of Distributed Computing},
+ series = {PODC'00},
+ year = {2000},
+ isbn = {1-58113-183-6},
+ location = {Portland, Oregon, USA},
+ pages = {7--},
+ url = {http://doi.acm.org/10.1145/343477.343502},
+ doi = {10.1145/343477.343502},
+ acmid = {343502},
+ publisher = {ACM},
+ address = {New York, NY, USA},
 }
 ```
 
@@ -473,6 +565,53 @@ publisher = {ACM},
 
 
 
+## E
+
+
+
+~~~
+@InProceedings{Emmi18,
+author="Emmi, Michael and Enea, Constantin",
+editor="Chockler, Hana and Weissenbacher, Georg",
+title="Monitoring Weak Consistency",
+booktitle="Computer Aided Verification",
+year="2018",
+publisher="Springer International Publishing",
+address="Cham",
+pages="487--506",
+isbn="978-3-319-96145-3"
+}
+~~~
+
+
+
+
+
+```
+@article{Emmi19,
+ author = {Emmi, Michael and Enea, Constantin},
+ title = {Weak-consistency Specification via Visibility Relaxation},
+ journal = {Proc. ACM Program. Lang.},
+ issue_date = {January 2019},
+ volume = {3},
+ number = {POPL},
+ month = jan,
+ year = {2019},
+ issn = {2475-1421},
+ pages = {60:1--60:28},
+ articleno = {60},
+ numpages = {28},
+ url = {http://doi.acm.org/10.1145/3290373},
+ doi = {10.1145/3290373},
+ acmid = {3290373},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {concurrency, specification, weak-consistency},
+} 
+```
+
+
+
 ## F
 
 ### fan
@@ -556,6 +695,25 @@ url="https://doi.org/10.1007/s00446-002-0070-8"
 
 
 
+### gar
+
+```
+@article{Garey78,
+author = {Garey, M. and Graham, R. and Johnson, D. and Knuth, D.},
+title = {Complexity Results for Bandwidth Minimization},
+journal = {SIAM Journal on Applied Mathematics},
+volume = {34},
+number = {3},
+pages = {477-495},
+year = {1978},
+doi = {10.1137/0134037},
+URL = {https://doi.org/10.1137/0134037},
+eprint = {https://doi.org/10.1137/0134037}
+}
+```
+
+
+
 ### gel
 
 ```
@@ -577,6 +735,32 @@ acmid = {2433},
 publisher = {ACM},
 address = {New York, NY, USA},
 }
+```
+
+
+
+### gen
+
+```
+@inproceedings{Geng18,
+  author    = {Yilong Geng and
+               Shiyu Liu and
+               Zi Yin and
+               Ashish Naik and
+               Balaji Prabhakar and
+               Mendel Rosenblum and
+               Amin Vahdat},
+  title     = {Exploiting a Natural Network Effect for 
+      Scalable, Fine-grained Clock
+               Synchronization},
+  booktitle = {15th {USENIX} Symposium on Networked Systems 
+      Design and Implementation, {NSDI} 2018, 
+      Renton, WA, USA, April 9-11, 2018},
+  pages     = {81--94},
+  year      = {2018},
+  crossref  = {DBLP:conf/nsdi/2018},
+  url       = {https://www.usenix.org/conference/nsdi18/presentation/geng},
+ }
 ```
 
 
@@ -645,6 +829,27 @@ publisher = {ACM},
 
 
 ```
+@inproceedings{Golab13,
+ author = {Golab, Wojciech and Hurwitz, Jeremy and Li, Xiaozhou (Steve)},
+ title = {On the k-Atomicity-Verification Problem},
+ booktitle = {Proceedings of the 2013 IEEE 33rd International 
+     Conference on Distributed Computing Systems},
+ series = {ICDCS '13},
+ year = {2013},
+ isbn = {978-0-7695-5000-8},
+ pages = {591--600},
+ numpages = {10},
+ url = {http://dx.doi.org/10.1109/ICDCS.2013.45},
+ doi = {10.1109/ICDCS.2013.45},
+ acmid = {2549701},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA},
+} 
+```
+
+
+
+```
 @inproceedings{Golab14,
  author = {Golab, Wojciech and Rahman, Muntasir Raihan and
      Auyoung, Alvin and Keeton, Kimberly and Gupta, Indranil},
@@ -654,6 +859,23 @@ publisher = {ACM},
  year = {2014},
  pages = {493--502},
  }
+```
+
+
+
+```
+@article{Golab18,
+    author = {Golab, W. and SteveLi, X. and López-Ortiz, A. and Nishimura, N.},
+    title = {Computing $k$-Atomicity in Polynomial Time},
+    journal = {SIAM Journal on Computing},
+    volume = {47},
+    number = {2},
+    pages = {420-455},
+    year = {2018},
+    doi = {10.1137/16M1056389},
+    URL = {https://doi.org/10.1137/16M1056389},
+    eprint = {https://doi.org/10.1137/16M1056389}
+}
 ```
 
 
@@ -867,6 +1089,26 @@ publisher = {USENIX},
 
 ## J
 
+### jai
+
+```
+@InProceedings{Jain15,
+author="Jain, Mitesh
+and Manolios, Panagiotis",
+editor="Kroening, Daniel
+and P{\u{a}}s{\u{a}}reanu, Corina S.",
+title="Skipping Refinement",
+booktitle="Computer Aided Verification",
+year="2015",
+publisher="Springer International Publishing",
+address="Cham",
+pages="103--119",
+isbn="978-3-319-21690-4"
+}
+```
+
+
+
 ### jun
 
 ```
@@ -908,6 +1150,80 @@ publisher = {IEEE},
  address = {Berkeley, CA, USA},
  }
 ```
+
+## K
+
+### kal
+
+
+
+```
+@inproceedings{Kaldor17,
+ author = {Kaldor, Jonathan and Mace, Jonathan and Bejda, Micha\l and 
+     Gao, Edison and Kuropatwa, Wiktor and O'Neill, Joe and 
+     Ong, Kian Win and Schaller, Bill and Shan, Pingjia and 
+     Viscomi, Brendan and Venkataraman, Vinod and 
+     Veeraraghavan, Kaushik and Song, Yee Jiun},
+ title = {Canopy: An End-to-End Performance Tracing And Analysis System},
+ booktitle = {Proceedings of the 26th Symposium on 
+     Operating Systems Principles},
+ series = {SOSP '17},
+ year = {2017},
+ isbn = {978-1-4503-5085-3},
+ location = {Shanghai, China},
+ pages = {34--50},
+ numpages = {17},
+ url = {http://doi.acm.org/10.1145/3132747.3132749},
+ doi = {10.1145/3132747.3132749},
+ acmid = {3132749},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+```
+
+
+
+
+
+### knu
+
+```
+@book{Knuth97a,
+ author = {Knuth, Donald E.},
+ title = {The Art of Computer Programming, Volume 1 (3rd Ed.): Fundamental 
+     Algorithms},
+ year = {1997},
+ isbn = {0-201-89683-4},
+ publisher = {Addison Wesley Longman Publishing Co., Inc.},
+ address = {Redwood City, CA, USA},
+}
+```
+
+```
+@book{Knuth97b,
+ author = {Knuth, Donald E.},
+ title = {The Art of Computer Programming, Volume 2 (3rd Ed.): 
+     Seminumerical Algorithms},
+ year = {1997},
+ isbn = {0-201-89684-2},
+ publisher = {Addison-Wesley Longman Publishing Co., Inc.},
+ address = {Boston, MA, USA},
+} 
+```
+
+
+
+```
+@book{Knuth98,
+ author = {Knuth, Donald E.},
+ title = {The Art of Computer Programming,  Volume 3: (2nd Ed.) 
+     Sorting and Searching},
+ year = {1998},
+ isbn = {0-201-89685-0},
+ publisher = {Addison Wesley Longman Publishing Co., Inc.},
+ address = {Redwood City, CA, USA},
+} 
+```
+
 
 
 
@@ -1198,15 +1514,16 @@ abstract = "A general automaton model for timing-based systems is
 
 ```
 @inproceedings{Malek05,
- author = {Abd-El-Malek, Michael and Courtright,II, William V. and Cranor, 
-​     Chuck and Ganger, Gregory R. and Hendricks, James and Klosterman, 
-​     Andrew J. and Mesnier, Michael and Prasad, Manish and Salmon, 
-​     Brandon and Sambasivan, Raja R. and Sinnamohideen, 
-​     Shafeeq and Strunk, John D. and Thereska, Eno and Wachs, 
-​     Matthew and Wylie, Jay J.},
+ author = {Abd-El-Malek, Michael and Courtright,II, William V. and
+     Cranor, Chuck and Ganger, Gregory R. and Hendricks, James and
+     Klosterman, Andrew J. and Mesnier, Michael and 
+     Prasad, Manish and Salmon, Brandon and 
+     Sambasivan, Raja R. and Sinnamohideen, Shafeeq and 
+     Strunk, John D. and Thereska, Eno and Wachs, Matthew and 
+     Wylie, Jay J.},
  title = {Ursa Minor: Versatile Cluster-based Storage},
- booktitle = {Proceedings of the 4th Conference on USENIX Conference 
-​     on File and Storage Technologies - Volume 4},
+ booktitle = {Proceedings of the 4th USENIX Conference
+     on File and Storage Technologies - Volume 4},
  series = {FAST'05},
  year = {2005},
  location = {San Francisco, CA},
@@ -1218,6 +1535,33 @@ abstract = "A general automaton model for timing-based systems is
  address = {Berkeley, CA, USA},
 } 
 ```
+
+
+
+### mac
+
+
+
+~~~
+@inproceedings{Mace15,
+ author = {Mace, Jonathan and Roelke, Ryan and Fonseca, Rodrigo},
+ title = {Pivot Tracing: Dynamic Causal Monitoring for Distributed Systems},
+ booktitle = {Proceedings of the 25th Symposium on Operating Systems Principles},
+ series = {SOSP'15},
+ year = {2015},
+ isbn = {978-1-4503-3834-9},
+ location = {Monterey, California},
+ pages = {378--393},
+ numpages = {16},
+ url = {http://doi.acm.org/10.1145/2815400.2815415},
+ doi = {10.1145/2815400.2815415},
+ acmid = {2815415},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+~~~
+
+
 
 
 
@@ -1298,6 +1642,28 @@ address = {New York, NY, USA},
  address = {New York, NY, USA},
 } 
 ```
+
+
+
+### mus
+
+```
+@inproceedings{Musuvathi02,
+  author    = {Madanlal Musuvathi and
+               David Y. W. Park and
+               Andy Chou and
+               Dawson R. Engler and
+               David L. Dill},
+  title     = {{CMC:} {A} Pragmatic Approach to Model Checking Real Code},
+  booktitle = {5th Symposium on Operating System Design and Implementation {(OSDI}
+               2002), Boston, Massachusetts, USA, December 9-11, 2002},
+  year      = {2002},
+  url       = {http://www.usenix.org/events/osdi02/tech/musuvathi.html},
+  timestamp = {Wed, 04 Jul 2018 13:06:35 +0200},
+ }
+```
+
+
 
 
 
@@ -1456,6 +1822,32 @@ isbn="978-3-642-04420-5"
 
 
 
+### sch
+
+```
+@article{Schneider90,
+ author = {Schneider, Fred B.},
+ title = {Implementing Fault-tolerant Services Using 
+     the State Machine Approach: A Tutorial},
+ journal = {ACM Comput. Surv.},
+ issue_date = {Dec. 1990},
+ volume = {22},
+ number = {4},
+ month = dec,
+ year = {1990},
+ issn = {0360-0300},
+ pages = {299--319},
+ numpages = {21},
+ url = {http://doi.acm.org/10.1145/98163.98167},
+ doi = {10.1145/98163.98167},
+ acmid = {98167},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+```
+
+
+
 ### sha
 
 ```
@@ -1482,8 +1874,10 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
 }
 ```
 
+
+
 ```
-@inproceedings{Shapiro11,
+@inproceedings{Shapiro11a,
  author = {Shapiro, Marc and Pregui\c{c}a, Nuno and 
      Baquero, Carlos and Zawirski, Marek},
  title = {Conflict-free Replicated Data Types},
@@ -1503,6 +1897,34 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
      replicated shared objects},
  }
 ```
+
+
+
+~~~
+@techreport{Shapiro11b,
+  TITLE = {{A comprehensive study of Convergent and Commutative 
+      Replicated Data Types}},
+  AUTHOR = {Shapiro, Marc and Pregui{\c c}a, Nuno and 
+      Baquero, Carlos and Zawirski, Marek},
+  URL = {https://hal.inria.fr/inria-00555588},
+  TYPE = {Research Report},
+  NUMBER = {RR-7506},
+  PAGES = {50},
+  INSTITUTION = {{Inria -- Centre Paris-Rocquencourt ; INRIA}},
+  YEAR = {2011},
+  MONTH = Jan,
+  KEYWORDS = {eventual consistency ; optimistic replication ; 
+      replicated data types ; distributed algorithms ; 
+      distributed systems ; Data replication ; commutative operations},
+  PDF = {https://hal.inria.fr/inria-00555588/file/techreport.pdf},
+  HAL_ID = {inria-00555588},
+  HAL_VERSION = {v1},
+}
+~~~
+
+
+
+
 
 
 
@@ -1632,6 +2054,54 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
  address = {Piscataway, NJ, USA},
  }
 ```
+
+
+
+## Y
+
+### yan
+
+```
+@proceedings{Yang04,
+  editor    = {Eric A. Brewer and
+               Peter Chen},
+  title     = {6th Symposium on Operating System Design and Implementation {(OSDI}
+               2004), San Francisco, California, USA, December 6-8, 2004},
+  publisher = {{USENIX} Association},
+  year      = {2004},
+  timestamp = {Wed, 04 Jul 2018 13:06:35 +0200},
+ }
+```
+
+### yu
+
+
+
+```
+@article{Yu02,
+ author = {Yu, Haifeng and Vahdat, Amin},
+ title = {Design and Evaluation of a Conit-based Continuous 
+     Consistency Model for Replicated Services},
+ journal = {ACM Trans. Comput. Syst.},
+ issue_date = {August 2002},
+ volume = {20},
+ number = {3},
+ month = aug,
+ year = {2002},
+ issn = {0734-2071},
+ pages = {239--282},
+ numpages = {44},
+ url = {http://doi.acm.org/10.1145/566340.566342},
+ doi = {10.1145/566340.566342},
+ acmid = {566342},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Conit, consistency model, continuous consistency, 
+     network services, relaxed consistency, replication},
+} 
+```
+
+
 
 
 
