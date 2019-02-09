@@ -276,6 +276,30 @@ URL = {http://www.cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf},
 
 
 
+### bal
+
+```
+@Inproceedings{Balakrishnan12,
+author = {Balakrishnan, Mahesh and Malkhi, Dahlia and 
+    Prabhakaran, Vijayan and Wobber, Ted and 
+    Wei, Michael and Davis, John},
+title = {CORFU: A Shared Log Design for Flash Clusters},
+booktitle = {9th USENIX Symposium on Networked Systems 
+    Design and Implementation (NSDI '12)},
+year = {2012},
+month = {April},
+publisher = {USENIX},
+url = {https://www.microsoft.com/en-us/research/publication/
+    corfu-a-shared-log-design-for-flash-clusters/},
+edition = {9th USENIX Symposium on Networked Systems 
+    Design and Implementation (NSDI '12)},
+}
+```
+
+
+
+
+
 ### bea
 
 ```
@@ -308,6 +332,31 @@ URL = {http://www.cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf},
     school={Karlsruhe Institute of Technology},
     year={2014},
 }
+```
+
+
+
+### bil
+
+```
+@inproceedings{Billes17,
+ author = {Billes, Marina and M{\o}ller, Anders and Pradel, Michael},
+ title = {Systematic Black-box Analysis of Collaborative Web Applications},
+ booktitle = {Proceedings of the 38th ACM SIGPLAN Conference on 
+     Programming Language Design and Implementation},
+ series = {PLDI 2017},
+ year = {2017},
+ isbn = {978-1-4503-4988-8},
+ location = {Barcelona, Spain},
+ pages = {171--184},
+ numpages = {14},
+ url = {http://doi.acm.org/10.1145/3062341.3062364},
+ doi = {10.1145/3062341.3062364},
+ acmid = {3062364},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Testing, collaborative editing, dynamic analysis},
+} 
 ```
 
 
@@ -2072,6 +2121,26 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
   timestamp = {Wed, 04 Jul 2018 13:06:35 +0200},
  }
 ```
+
+
+
+```
+@inproceedings{Yang06,
+  author    = {Junfeng Yang and
+               Can Sar and
+               Dawson R. Engler},
+  title     = {{EXPLODE:} {A} Lightweight, General System for 
+      Finding Serious Storage System Errors},
+  booktitle = {7th Symposium on Operating Systems Design and 
+      Implementation {(OSDI}'06), November 6-8, Seattle, WA, {USA}},
+  pages     = {131--146},
+  year      = {2006},
+  crossref  = {DBLP:conf/osdi/2006},
+  url       = {http://www.usenix.org/events/osdi06/tech/yang\_junfeng.html},
+}
+```
+
+
 
 ### yu
 
