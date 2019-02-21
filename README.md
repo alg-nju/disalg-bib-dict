@@ -1475,6 +1475,32 @@ journal = {ACM SIGACT News (Distributed Computing Column) 32, 4 (Whole Number 12
 
 
 
+### lu
+
+```
+@inproceedings{Lu15,
+ author = {Lu, Haonan and Veeraraghavan, Kaushik and Ajoux, Philippe and 
+     Hunt, Jim and Song, Yee Jiun and Tobagus, Wendy and 
+     Kumar, Sanjeev and Lloyd, Wyatt},
+ title = {Existential Consistency: Measuring and Understanding Consistency 
+     at Facebook},
+ booktitle = {Proceedings of the 25th Symposium on Operating Systems Principles},
+ series = {SOSP '15},
+ year = {2015},
+ isbn = {978-1-4503-3834-9},
+ location = {Monterey, California},
+ pages = {295--310},
+ numpages = {16},
+ url = {http://doi.acm.org/10.1145/2815400.2815426},
+ doi = {10.1145/2815400.2815426},
+ acmid = {2815426},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+```
+
+
+
 ### lyn
 
 ```
@@ -2144,10 +2170,32 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
 
 ### yu
 
+```
+@inproceedings{Yu02-PODC,
+ author = {Yu, Haifeng and Vahdat, Amin},
+ title = {Minimal Replication Cost for Availability},
+ booktitle = {Proceedings of the Twenty-first Annual Symposium on 
+     Principles of Distributed Computing},
+ series = {PODC '02},
+ year = {2002},
+ isbn = {1-58113-485-1},
+ location = {Monterey, California},
+ pages = {98--107},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/571825.571839},
+ doi = {10.1145/571825.571839},
+ acmid = {571839},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+```
+
+
+
 
 
 ```
-@article{Yu02,
+@article{Yu02-TOCS,
  author = {Yu, Haifeng and Vahdat, Amin},
  title = {Design and Evaluation of a Conit-based Continuous 
      Consistency Model for Replicated Services},
