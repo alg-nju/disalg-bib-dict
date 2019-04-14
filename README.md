@@ -688,8 +688,31 @@ isbn="978-3-319-96145-3"
 
 
 
+### fel
 
-### Fis
+```
+@inproceedings{Feldman10,
+ author = {Feldman, Ariel J. and Zeller, William P. and 
+     Freedman, Michael J. and Felten, Edward W.},
+ title = {SPORC: Group Collaboration Using Untrusted Cloud Resources},
+ booktitle = {Proceedings of the 9th USENIX Conference on 
+     Operating Systems Design and Implementation},
+ series = {OSDI'10},
+ year = {2010},
+ location = {Vancouver, BC, Canada},
+ pages = {337--350},
+ numpages = {14},
+ url = {http://dl.acm.org/citation.cfm?id=1924943.1924967},
+ acmid = {1924967},
+ publisher = {USENIX Association},
+ address = {Berkeley, CA, USA},
+} 
+```
+
+
+
+
+### fis
 
 ```
 @article{Fischer85,
@@ -2128,6 +2151,23 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
  publisher = {IEEE Press},
  address = {Piscataway, NJ, USA},
  }
+```
+
+
+```
+@inproceedings{Wei18,
+    author = {Hengfeng Wei and Yu Huang and Jian Lu},
+    title = {Specification and Implementation of Replicated List: 
+        The Jupiter Protocol Revisited},
+    booktitle = {22nd International Conference on Principles of Distributed 
+        Systems, {OPODIS} 2018, December 17-19, 2018, Hong Kong, China},
+    pages = {12:1--12:16},
+    year = {2018},
+    crossref = {DBLP:conf/opodis/2018},
+    url = {https://doi.org/10.4230/LIPIcs.OPODIS.2018.12},
+    doi = {10.4230/LIPIcs.OPODIS.2018.12},
+    timestamp = {Sat, 19 Jan 2019 13:30:42 +0100},
+}
 ```
 
 
