@@ -171,6 +171,30 @@ publisher = {{USENIX} Association},
 
 
 
+```
+@article{Alvaro18,
+ author = {Alvaro, Peter and Tymon, Severine},
+ title = {Abstracting the Geniuses Away from Failure Testing},
+ journal = {Commun. ACM},
+ issue_date = {January 2018},
+ volume = {61},
+ number = {1},
+ month = dec,
+ year = {2017},
+ issn = {0001-0782},
+ pages = {54--61},
+ numpages = {8},
+ url = {http://doi.acm.org/10.1145/3152483},
+ doi = {10.1145/3152483},
+ acmid = {3152483},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+```
+
+
+
+
 ### att
 
 ```
@@ -1141,6 +1165,53 @@ url = {http://dx.doi.org/10.1007/978-3-642-25873-2_22 },
 
 
 
+### hua
+
+```
+@inproceedings{Huang17,
+ author = {Huang, Peng and Guo, Chuanxiong and Zhou, Lidong and 
+     Lorch, Jacob R. and Dang, Yingnong and Chintalapati, Murali and Yao, Randolph},
+ title = {Gray Failure: The Achilles' Heel of Cloud-Scale Systems},
+ booktitle = {Proceedings of the 16th Workshop on Hot Topics in Operating Systems},
+ series = {HotOS '17},
+ year = {2017},
+ isbn = {978-1-4503-5068-6},
+ location = {Whistler, BC, Canada},
+ pages = {150--155},
+ numpages = {6},
+ url = {http://doi.acm.org/10.1145/3102980.3103005},
+ doi = {10.1145/3102980.3103005},
+ acmid = {3103005},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+```
+
+
+
+```
+@inproceedings{Huang18,
+ author = {Huang, Peng and Guo, Chuanxiong and Lorch, Jacob R. and 
+     Zhou, Lidong and Dang, Yingnong},
+ title = {Capturing and Enhancing in Situ System Observability 
+     for Failure Detection},
+ booktitle = {Proceedings of the 12th USENIX Conference on 
+     Operating Systems Design and Implementation},
+ series = {OSDI'18},
+ year = {2018},
+ isbn = {978-1-931971-47-8},
+ location = {Carlsbad, CA, USA},
+ pages = {1--16},
+ numpages = {16},
+ url = {http://dl.acm.org/citation.cfm?id=3291168.3291170},
+ acmid = {3291170},
+ publisher = {USENIX Association},
+ address = {Berkeley, CA, USA},
+} 
+```
+
+
+
 ### hun
 
 ```
@@ -1694,6 +1765,32 @@ pages = {215--226},
 
 
 
+### mic
+
+```
+@inproceedings{Michael19,
+ author = {Michael, Ellis and Woos, Doug and Anderson, Thomas and 
+ Ernst, Michael D. and Tatlock, Zachary},
+ title = {Teaching Rigorous Distributed Systems With Efficient Model Checking},
+ booktitle = {Proceedings of the Fourteenth EuroSys Conference 2019},
+ series = {EuroSys '19},
+ year = {2019},
+ isbn = {978-1-4503-6281-8},
+ location = {Dresden, Germany},
+ pages = {32:1--32:15},
+ articleno = {32},
+ numpages = {15},
+ url = {http://doi.acm.org/10.1145/3302424.3303947},
+ doi = {10.1145/3302424.3303947},
+ acmid = {3303947},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {distributed systems, education, model checking},
+} 
+```
+
+
+
 ### mis
 
 ```
@@ -2152,6 +2249,31 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
  address = {Piscataway, NJ, USA},
  }
 ```
+
+
+
+```
+@article{Wei17,
+ author = {Wei, Hengfeng and Huang, Yu and Lu, Jian},
+ title = {Probabilistically-Atomic 2-Atomicity: Enabling 
+     Almost Strong Consistency in Distributed Storage Systems},
+ journal = {IEEE Trans. Comput.},
+ issue_date = {March 2017},
+ volume = {66},
+ number = {3},
+ month = mar,
+ year = {2017},
+ issn = {0018-9340},
+ pages = {502--514},
+ numpages = {13},
+ url = {https://doi.org/10.1109/TC.2016.2601322},
+ doi = {10.1109/TC.2016.2601322},
+ acmid = {3057906},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA},
+} 
+```
+
 
 
 ```
