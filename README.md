@@ -2462,3 +2462,21 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
 ```
 
 
+
+```
+@inproceedings {Zhang18,
+author = {Qiao Zhang and Guo Yu and Chuanxiong Guo and Yingnong Dang and 
+    Nick Swanson and Xinsheng Yang and Randolph Yao and 
+    Murali Chintalapati and Arvind Krishnamurthy and Thomas Anderson},
+title = {Deepview: Virtual Disk Failure Diagnosis and Pattern Detection for Azure},
+booktitle = {15th {USENIX} Symposium on Networked Systems 
+    Design and Implementation ({NSDI} 18)},
+year = {2018},
+isbn = {978-1-939133-01-4},
+address = {Renton, WA},
+pages = {519--532},
+url = {https://www.usenix.org/conference/nsdi18/presentation/zhang-qiao},
+publisher = {{USENIX} Association},
+}
+```
+
