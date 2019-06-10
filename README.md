@@ -638,6 +638,59 @@ publisher = {ACM},
 
 
 
+### do
+
+```
+@inproceedings{Do13,
+ author = {Do, Thanh and Hao, Mingzhe and Leesatapornwongsa, Tanakorn 
+     and Patana-anake, Tiratat and Gunawi, Haryadi S.},
+ title = {Limplock: Understanding the Impact of Limpware on Scale-out Cloud Systems},
+ booktitle = {Proceedings of the 4th Annual Symposium on Cloud Computing},
+ series = {SOCC '13},
+ year = {2013},
+ isbn = {978-1-4503-2428-1},
+ location = {Santa Clara, California},
+ pages = {14:1--14:14},
+ articleno = {14},
+ numpages = {14},
+ url = {http://doi.acm.org/10.1145/2523616.2523627},
+ doi = {10.1145/2523616.2523627},
+ acmid = {2523627},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+```
+
+
+
+### dut
+
+
+
+```
+@article{Dutta10,
+ author = {Dutta, Partha and Guerraoui, Rachid and Levy, Ron R. and Vukoli\'{c}, Marko},
+ title = {Fast Access to Distributed Atomic Memory},
+ journal = {SIAM J. Comput.},
+ issue_date = {August 2010},
+ volume = {39},
+ number = {8},
+ month = dec,
+ year = {2010},
+ issn = {0097-5397},
+ pages = {3752--3783},
+ numpages = {32},
+ url = {http://dx.doi.org/10.1137/090757010},
+ doi = {10.1137/090757010},
+ acmid = {2078530},
+ publisher = {Society for Industrial and Applied Mathematics},
+ address = {Philadelphia, PA, USA},
+ keywords = {Byzantine failures, atomic registers, distributed algorithms, fault-tolerance, shared-memory emulations, time-complexity},
+} 
+```
+
+
+
 ## E
 
 
@@ -1001,6 +1054,30 @@ publisher = {ACM},
  }
 ```
 
+
+
+### gun
+
+```
+@inproceedings {Gunawi18,
+author = {Haryadi S. Gunawi and Riza O. Suminto and Russell Sears and 
+    Casey Golliher and Swaminathan Sundararaman and Xing Lin and 
+    Tim Emami and Weiguang Sheng and Nematollah Bidokhti and 
+    Caitie McCaffrey and Gary Grider and Parks M. Fields and 
+    Kevin Harms and Robert B. Ross and Andree Jacobson and 
+    Robert Ricci and Kirk Webb and Peter Alvaro and H. Birali Runesha and 
+    Mingzhe Hao and Huaicheng Li},
+title = {Fail-Slow at Scale: Evidence of Hardware Performance Faults 
+    in Large Production Systems},
+booktitle = {16th {USENIX} Conference on File and Storage Technologies ({FAST} 18)},
+year = {2018},
+isbn = {978-1-931971-42-3},
+address = {Oakland, CA},
+pages = {1--14},
+url = {https://www.usenix.org/conference/fast18/presentation/gunawi},
+publisher = {{USENIX} Association},
+}
+```
 
 
 
@@ -2168,6 +2245,26 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
 
 
 
+
+```
+@inproceedings {Tan19,
+author = {Cheng Tan and Ze Jin and Chuanxiong Guo and Tianrong Zhang 
+    and Haitao Wu and Karl Deng and Dongming Bi and Dong Xiang},
+title = {NetBouncer: Active Device and Link Failure Localization 
+    in Data Center Networks},
+booktitle = {16th {USENIX} Symposium on Networked Systems 
+    Design and Implementation ({NSDI} 19)},
+year = {2019},
+isbn = {978-1-931971-49-2},
+address = {Boston, MA},
+pages = {599--614},
+url = {https://www.usenix.org/conference/nsdi19/presentation/tan},
+publisher = {{USENIX} Association},
+}
+```
+
+
+
 ### ter
 
 ```
@@ -2290,6 +2387,34 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
     doi = {10.4230/LIPIcs.OPODIS.2018.12},
     timestamp = {Sat, 19 Jan 2019 13:30:42 +0100},
 }
+```
+
+
+
+### wil
+
+```
+@inproceedings{Wilcox15,
+ author = {Wilcox, James R. and Woos, Doug and Panchekha, Pavel and 
+     Tatlock, Zachary and Wang, Xi and Ernst, Michael D. and Anderson, Thomas},
+ title = {Verdi: A Framework for Implementing and Formally Verifying 
+     Distributed Systems},
+ booktitle = {Proceedings of the 36th ACM SIGPLAN Conference on 
+     Programming Language Design and Implementation},
+ series = {PLDI '15},
+ year = {2015},
+ isbn = {978-1-4503-3468-6},
+ location = {Portland, OR, USA},
+ pages = {357--368},
+ numpages = {12},
+ url = {http://doi.acm.org/10.1145/2737924.2737958},
+ doi = {10.1145/2737924.2737958},
+ acmid = {2737958},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Coq, Formal verification, Verdi, distributed systems, 
+     proof assistants},
+} 
 ```
 
 
