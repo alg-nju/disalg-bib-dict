@@ -663,6 +663,33 @@ publisher = {ACM},
 
 
 
+### dra
+
+```
+@inproceedings{Dragoi16,
+ author = {Dr\u{a}goi, Cezara and Henzinger, Thomas A. and Zufferey, Damien},
+ title = {PSync: A Partially Synchronous Language for Fault-tolerant 
+     Distributed Algorithms},
+ booktitle = {Proceedings of the 43rd Annual ACM SIGPLAN-SIGACT Symposium 
+     on Principles of Programming Languages},
+ series = {POPL '16},
+ year = {2016},
+ isbn = {978-1-4503-3549-2},
+ location = {St. Petersburg, FL, USA},
+ pages = {400--415},
+ numpages = {16},
+ url = {http://doi.acm.org/10.1145/2837614.2837650},
+ doi = {10.1145/2837614.2837650},
+ acmid = {2837650},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Automated verification, Consensus, Fault-tolerant 
+     distributed algorithms, Partial synchrony, Round model},
+} 
+```
+
+
+
 ### dut
 
 
@@ -1576,6 +1603,54 @@ journal = {ACM SIGACT News (Distributed Computing Column) 32, 4 (Whole Number 12
 
 
 
+### len
+
+```
+@inproceedings{Leners11,
+ author = {Leners, Joshua B. and Wu, Hao and Hung, Wei-Lun and 
+     Aguilera, Marcos K. and Walfish, Michael},
+ title = {Detecting Failures in Distributed Systems with the Falcon Spy Network},
+ booktitle = {Proceedings of the Twenty-Third ACM Symposium on 
+     Operating Systems Principles},
+ series = {SOSP '11},
+ year = {2011},
+ isbn = {978-1-4503-0977-6},
+ location = {Cascais, Portugal},
+ pages = {279--294},
+ numpages = {16},
+ url = {http://doi.acm.org/10.1145/2043556.2043583},
+ doi = {10.1145/2043556.2043583},
+ acmid = {2043583},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {STONITH, failure detectors, high availability, 
+     layer-specific monitors, layer-specific probes, reliable detection},
+} 
+```
+
+
+
+```
+@inproceedings{Leners13,
+ author = {Leners, Joshua B. and Gupta, Trinabh and 
+     Aguilera, Marcos K. and Walfish, Michael},
+ title = {Improving Availability in Distributed Systems with Failure Informers},
+ booktitle = {Proceedings of the 10th USENIX Conference on 
+     Networked Systems Design and Implementation},
+ series = {nsdi'13},
+ year = {2013},
+ location = {Lombard, IL},
+ pages = {427--442},
+ numpages = {16},
+ url = {http://dl.acm.org/citation.cfm?id=2482626.2482667},
+ acmid = {2482667},
+ publisher = {USENIX Association},
+ address = {Berkeley, CA, USA},
+} 
+```
+
+
+
 ### li
 
 ```
@@ -1642,6 +1717,35 @@ journal = {ACM SIGACT News (Distributed Computing Column) 32, 4 (Whole Number 12
  publisher = {USENIX Association},
  address = {Berkeley, CA, USA},
  }
+```
+
+
+
+### liu
+
+```
+@article{Liu17,
+    author = {Liu, Yanhong A. and Stoller, Scott D. and Lin, Bo},
+    title = {From Clarity to Efficiency for Distributed Algorithms},
+    journal = {ACM Trans. Program. Lang. Syst.},
+    issue_date = {July 2017},
+    volume = {39},
+    number = {3},
+    month = may,
+    year = {2017},
+    issn = {0164-0925},
+    pages = {12:1--12:41},
+    articleno = {12},
+    numpages = {41},
+    url = {http://doi.acm.org/10.1145/2994595},
+    doi = {10.1145/2994595},
+    acmid = {2994595},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    keywords = {Distributed algorithms, high-level queries and updates,
+        incrementalization, logic quantifications, message histories, 
+        synchronization conditions, yield points},
+} 
 ```
 
 
