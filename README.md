@@ -1429,6 +1429,28 @@ publisher = {IEEE},
 
 
 
+### kej
+
+```
+@inproceedings{Kejriwal16,
+    author = {Kejriwal, Ankita and Gopalan, Arjun and Gupta, Ashish and 
+        Jia, Zhihao and Yang, Stephen and Ousterhout, John},
+    title = {SLIK: Scalable Low-latency Indexes for a Key-value Store},
+    booktitle = {Proceedings of the 2016 USENIX Conference on 
+        Usenix Annual Technical Conference},
+    series = {USENIX ATC '16},
+    year = {2016},
+    isbn = {978-1-931971-30-0},
+    location = {Denver, CO, USA},
+    pages = {57--70},
+    numpages = {14},
+    url = {http://dl.acm.org/citation.cfm?id=3026959.3026966},
+    acmid = {3026966},
+    publisher = {USENIX Association},
+    address = {Berkeley, CA, USA},
+}
+```
+
 
 
 ### knu
@@ -1746,6 +1768,29 @@ journal = {ACM SIGACT News (Distributed Computing Column) 32, 4 (Whole Number 12
         incrementalization, logic quantifications, message histories, 
         synchronization conditions, yield points},
 } 
+```
+
+
+
+### llo
+
+```
+@inproceedings{Lloyd13,
+    author = {Lloyd, Wyatt and Freedman, Michael J. and 
+        Kaminsky, Michael and Andersen, David G.},
+    title = {Stronger Semantics for Low-latency Geo-replicated Storage},
+    booktitle = {Proceedings of the 10th USENIX Conference on 
+        Networked Systems Design and Implementation},
+    series = {nsdi'13},
+    year = {2013},
+    location = {Lombard, IL},
+    pages = {313--328},
+    numpages = {16},
+    url = {http://dl.acm.org/citation.cfm?id=2482626.2482657},
+    acmid = {2482657},
+    publisher = {USENIX Association},
+    address = {Berkeley, CA, USA},
+}
 ```
 
 
@@ -2528,15 +2573,22 @@ publisher = {{USENIX} Association},
 ### yan
 
 ```
-@proceedings{Yang04,
-  editor    = {Eric A. Brewer and
-               Peter Chen},
-  title     = {6th Symposium on Operating System Design and Implementation {(OSDI}
-               2004), San Francisco, California, USA, December 6-8, 2004},
-  publisher = {{USENIX} Association},
-  year      = {2004},
-  timestamp = {Wed, 04 Jul 2018 13:06:35 +0200},
- }
+@inproceedings{Yang04,
+ author = {Yang, Junfeng and Twohey, Paul and Engler, Dawson and 
+     Musuvathi, Madanlal},
+ title = {Using Model Checking to Find Serious File System Errors},
+ booktitle = {Proceedings of the 6th Conference on Symposium on 
+     Operating Systems Design \& Implementation - Volume 6},
+ series = {OSDI'04},
+ year = {2004},
+ location = {San Francisco, CA},
+ pages = {19--19},
+ numpages = {1},
+ url = {http://dl.acm.org/citation.cfm?id=1251254.1251273},
+ acmid = {1251273},
+ publisher = {USENIX Association},
+ address = {Berkeley, CA, USA},
+} 
 ```
 
 
