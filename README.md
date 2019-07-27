@@ -9,7 +9,7 @@ A dictionary of bibs, mainly on distributed algorithm design and implementation.
 ### aba
 
 ```
-@Inproceedings{Abadi88,
+@inproceedings{Abadi88,
 author = {Abadi, Martin and Lamport, Leslie},
 title = {The Existence of Refinement Mappings},
 year = {1988},
@@ -2800,5 +2800,5 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjAxOTYwXX0=
+eyJoaXN0b3J5IjpbLTEzOTIzOTMyNzJdfQ==
 -->
