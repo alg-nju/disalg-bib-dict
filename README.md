@@ -2119,6 +2119,28 @@ address = {New York, NY, USA},
 
 
 ## P
+
+### par
+
+```
+@inproceedings{Park19,
+  author    = {Seo Jin Park and
+               John K. Ousterhout},
+  title     = {Exploiting Commutativity For Practical Fast Replication},
+  booktitle = {16th {USENIX} Symposium on Networked Systems 
+      Design and Implementation, {NSDI} 2019, Boston, MA, February 26-28, 2019.},
+  pages     = {47--64},
+  year      = {2019},
+  crossref  = {DBLP:conf/nsdi/2019},
+  url       = {https://www.usenix.org/conference/nsdi19/presentation/park},
+  timestamp = {Mon, 11 Mar 2019 15:52:29 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/nsdi/ParkO19},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+
+
 ### pel
 
 ```
@@ -2466,6 +2488,22 @@ publisher = {{USENIX} Association},
  address = {New York, NY, USA},
  }
 ```
+
+
+
+### vuk
+
+```
+@book{Vukolic12,
+ author = {Marko Vukolic},
+ title = {Quorum Systems With Applications to Storage and Consensus},
+ year = {2012},
+ isbn = {9781608456840},
+ publisher = {Morgan \& Claypool Publishers},
+ }
+```
+
+
 
 
 
