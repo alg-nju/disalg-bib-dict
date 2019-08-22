@@ -1560,7 +1560,8 @@ address = {New York, NY, USA},
 ```
 @article{Lamport79,
  author = {Lamport, L.},
- title = {How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs},
+ title = {How to Make a Multiprocessor Computer That Correctly
+     Executes Multiprocess Programs},
  journal = {IEEE Trans. Comput.},
  issue_date = {September 1979},
  volume = {28},
@@ -2820,5 +2821,5 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTM0MDY1LC0xMzkyMzkzMjcyXX0=
+eyJoaXN0b3J5IjpbMTQwNDkyMjIxLC0xMzkyMzkzMjcyXX0=
 -->
