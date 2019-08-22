@@ -1557,7 +1557,25 @@ address = {New York, NY, USA},
 }
 ```
 
-
+@article{Lamport79,
+ author = {Lamport, L.},
+ title = {How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs},
+ journal = {IEEE Trans. Comput.},
+ issue_date = {September 1979},
+ volume = {28},
+ number = {9},
+ month = sep,
+ year = {1979},
+ issn = {0018-9340},
+ pages = {690--691},
+ numpages = {2},
+ url = {https://doi.org/10.1109/TC.1979.1675439},
+ doi = {10.1109/TC.1979.1675439},
+ acmid = {1311750},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA},
+ keywords = {Computer design, concurrent computing, hardware correctness, multiprocessing, parallel processing, parallel processing, Computer design, concurrent computing, hardware correctness, multiprocessing},
+}	
 
 ```
 @article{Lamport86a,
@@ -2800,5 +2818,5 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIzOTMyNzJdfQ==
+eyJoaXN0b3J5IjpbMTc2MTY5MDc4MCwtMTM5MjM5MzI3Ml19
 -->
