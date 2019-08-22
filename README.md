@@ -1557,6 +1557,7 @@ address = {New York, NY, USA},
 }
 ```
 
+```
 @article{Lamport79,
  author = {Lamport, L.},
  title = {How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs},
@@ -1574,8 +1575,9 @@ address = {New York, NY, USA},
  acmid = {1311750},
  publisher = {IEEE Computer Society},
  address = {Washington, DC, USA},
- keywords = {Computer design, concurrent computing, hardware correctness, multiprocessing, parallel processing, parallel processing, Computer design, concurrent computing, hardware correctness, multiprocessing},
-}	
+ }	
+```
+
 
 ```
 @article{Lamport86a,
@@ -2818,5 +2820,5 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTY5MDc4MCwtMTM5MjM5MzI3Ml19
+eyJoaXN0b3J5IjpbLTYzMTM0MDY1LC0xMzkyMzkzMjcyXX0=
 -->
