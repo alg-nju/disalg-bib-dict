@@ -2410,7 +2410,33 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
 }
 ~~~
 
+### siv
 
+```
+
+
+@inproceedings{Sivaramakrishnan15,
+    author = {Sivaramakrishnan, KC and Kaki, Gowtham and
+        Jagannathan, Suresh},
+    title = {Declarative Programming over Eventually Consistent
+        Data Stores},
+    booktitle = {Proceedings of the 36th ACM SIGPLAN Conference on
+        Programming Language Design and Implementation},
+    series = {PLDI '15},
+    year = {2015},
+    isbn = {978-1-4503-3468-6},
+    location = {Portland, OR, USA},
+    pages = {413--424},
+    numpages = {12},
+    url = {http://doi.acm.org/10.1145/2737924.2737981},
+    doi = {10.1145/2737924.2737981},
+    acmid = {2737981},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    keywords = {Availability, Axiomatic Contracts, CRDTs, Cassandra, Contract Classification, Decidable Logic, Distributed Transactions, Eventual Consistency, Haskell, Quelea, SMT solvers},
+} 
+
+```
 
 
 
@@ -2845,5 +2871,5 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1MzAwMzMxLDE0MDQ5MjIyMV19
+eyJoaXN0b3J5IjpbMTE2Nzg4Nzg2OCwxNDA0OTIyMjFdfQ==
 -->
