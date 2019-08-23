@@ -461,9 +461,12 @@ publisher = {USENIX},
 
 ```
 @inproceedings{Burckhardt14,
-    author = {Burckhardt, Sebastian and Gotsman, Alexey and Yang, Hongseok and Zawirski, Marek},
-    title = {Replicated Data Types: Specification, Verification, Optimality},
-    booktitle = {Proceedings of the 41st ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages},
+    author = {Burckhardt, Sebastian and Gotsman, Alexey and 
+        Yang, Hongseok and Zawirski, Marek},
+    title = {Replicated Data Types: Specification, 
+        Verification, Optimality},
+    booktitle = {Proceedings of the 41st ACM SIGPLAN-SIGACT
+        Symposium on Principles of Programming Languages},
     series = {POPL '14},
     year = {2014},
     isbn = {978-1-4503-2544-8},
@@ -2842,5 +2845,5 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU2MzY0MTUsMTQwNDkyMjIxXX0=
+eyJoaXN0b3J5IjpbODY1MzAwMzMxLDE0MDQ5MjIyMV19
 -->
