@@ -460,6 +460,27 @@ publisher = {USENIX},
 ### bur
 
 ```
+@inproceedings{Burckhardt14,
+    author = {Burckhardt, Sebastian and Gotsman, Alexey and Yang, Hongseok and Zawirski, Marek},
+    title = {Replicated Data Types: Specification, Verification, Optimality},
+    booktitle = {Proceedings of the 41st ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages},
+    series = {POPL '14},
+    year = {2014},
+    isbn = {978-1-4503-2544-8},
+    location = {San Diego, California, USA},
+    pages = {271--284},
+    numpages = {14},
+    url = {http://doi.acm.org/10.1145/2535838.2535848},
+    doi = {10.1145/2535838.2535848},
+    acmid = {2535848},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    keywords = {eventual consistency, replication, weak memory},
+} 
+```
+
+
+```
 @inproceedings{Burrows06,
 author = {Burrows, Mike},
 title = {The {Chubby} lock service for loosely-coupled distributed systems},
@@ -2821,5 +2842,5 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDkyMjIxXX0=
+eyJoaXN0b3J5IjpbLTE0NDU2MzY0MTUsMTQwNDkyMjIxXX0=
 -->
