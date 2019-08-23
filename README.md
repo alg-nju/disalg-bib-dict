@@ -2413,8 +2413,6 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
 ### siv
 
 ```
-
-
 @inproceedings{Sivaramakrishnan15,
     author = {Sivaramakrishnan, KC and Kaki, Gowtham and
         Jagannathan, Suresh},
@@ -2434,7 +2432,6 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
     publisher = {ACM},
     address = {New York, NY, USA},
 } 
-
 ```
 
 
@@ -2870,5 +2867,5 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODg4NTE3NiwxNDA0OTIyMjFdfQ==
+eyJoaXN0b3J5IjpbLTc3MzA4NTYyMiwxNDA0OTIyMjFdfQ==
 -->
