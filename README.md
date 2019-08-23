@@ -2433,7 +2433,6 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
     acmid = {2737981},
     publisher = {ACM},
     address = {New York, NY, USA},
-    keywords = {Availability, Axiomatic Contracts, CRDTs, Cassandra, Contract Classification, Decidable Logic, Distributed Transactions, Eventual Consistency, Haskell, Quelea, SMT solvers},
 } 
 
 ```
@@ -2871,5 +2870,5 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Nzg4Nzg2OCwxNDA0OTIyMjFdfQ==
+eyJoaXN0b3J5IjpbMTU2ODg4NTE3NiwxNDA0OTIyMjFdfQ==
 -->
