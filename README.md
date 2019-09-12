@@ -2671,7 +2671,29 @@ publisher = {{USENIX} Association},
 } 
 ```
 
+## X
 
+### xia
+
+```
+@inproceedings{Xiang19,
+ author = {Xiang, Zhuolun and Vaidya, Nitin H.},
+ title = {Partially Replicated Causally Consistent Shared Memory: Lower Bounds and An Algorithm},
+ booktitle = {Proceedings of the 2019 ACM Symposium on Principles of Distributed Computing},
+ series = {PODC '19},
+ year = {2019},
+ isbn = {978-1-4503-6217-7},
+ location = {Toronto ON, Canada},
+ pages = {425--434},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/3293611.3331600},
+ doi = {10.1145/3293611.3331600},
+ acmid = {3331600},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {causal consistency, distributed shared memory, lower bounds, tight conditions},
+}
+```
 
 ## Y
 
@@ -2867,5 +2889,6 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzA4NTYyMiwxNDA0OTIyMjFdfQ==
+eyJoaXN0b3J5IjpbMTc5NTI3MTIzOCwtNzczMDg1NjIyLDE0MD
+Q5MjIyMV19
 -->
