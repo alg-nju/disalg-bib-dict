@@ -537,6 +537,25 @@ publisher = {ACM},
 }
 ```
 
+### cho
+```
+@inproceedings{Chow14,
+ author = {Chow, Michael and Meisner, David and Flinn, Jason and Peek, Daniel and Wenisch, Thomas F.},
+ title = {The Mystery Machine: End-to-end Performance Analysis of Large-scale Internet Services},
+ booktitle = {Proceedings of the 11th USENIX Conference on Operating Systems Design and Implementation},
+ series = {OSDI'14},
+ year = {2014},
+ isbn = {978-1-931971-16-4},
+ location = {Broomfield, CO},
+ pages = {217--231},
+ numpages = {15},
+ url = {http://dl.acm.org/citation.cfm?id=2685048.2685066},
+ acmid = {2685066},
+ publisher = {USENIX Association},
+ address = {Berkeley, CA, USA},
+}
+```
+
 
 
 ### coo
@@ -2889,6 +2908,6 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTI3MTIzOCwtNzczMDg1NjIyLDE0MD
-Q5MjIyMV19
+eyJoaXN0b3J5IjpbLTMzODQyMjc1MSwxNzk1MjcxMjM4LC03Nz
+MwODU2MjIsMTQwNDkyMjIxXX0=
 -->
