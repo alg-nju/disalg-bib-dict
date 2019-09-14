@@ -1536,7 +1536,27 @@ publisher = {IEEE},
 } 
 ```
 
+### kor
 
+```
+@inproceedings{Korgaonkar19,
+ author = {Korgaonkar, Kunal and Izraelevitz, Joseph and Zhao, Jishen and Swanson, Steven},
+ title = {Vorpal: Vector Clock Ordering For Large Persistent Memory Systems},
+ booktitle = {Proceedings of the 2019 ACM Symposium on Principles of Distributed Computing},
+ series = {PODC '19},
+ year = {2019},
+ isbn = {978-1-4503-6217-7},
+ location = {Toronto ON, Canada},
+ pages = {435--444},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/3293611.3331598},
+ doi = {10.1145/3293611.3331598},
+ acmid = {3331598},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {clocks, computer architecture, distributed systems, non-volatile main memories, non-volatile memories, parallel architectures, persistent memories, scale-up architectures, storage architectures, vector clocks},
+}
+```
 
 
 ## L
@@ -2908,6 +2928,6 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODQyMjc1MSwxNzk1MjcxMjM4LC03Nz
-MwODU2MjIsMTQwNDkyMjIxXX0=
+eyJoaXN0b3J5IjpbLTE0NDAxNDU0MzIsLTMzODQyMjc1MSwxNz
+k1MjcxMjM4LC03NzMwODU2MjIsMTQwNDkyMjIxXX0=
 -->
