@@ -2285,7 +2285,27 @@ url="https://doi.org/10.1007/s004460050027"
 }
 ```
 
-###
+### rey
+
+```
+@inproceedings{Reynolds16,
+ author = {Reynolds, Patrick and Wiener, Janet L. and Mogul, Jeffrey C. and Aguilera, Marcos K. and Vahdat, Amin},
+ title = {WAP5: Black-box Performance Debugging for Wide-area Systems},
+ booktitle = {Proceedings of the 15th International Conference on World Wide Web},
+ series = {WWW '06},
+ year = {2006},
+ isbn = {1-59593-323-9},
+ location = {Edinburgh, Scotland},
+ pages = {347--356},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/1135777.1135830},
+ doi = {10.1145/1135777.1135830},
+ acmid = {1135830},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {black box systems, distributed systems, performance analysis, performance debugging},
+}
+```
 
 
 ### roy
@@ -2929,7 +2949,7 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4NDg4NTgzLC0xNDQwMTQ1NDMyLC0zMz
-g0MjI3NTEsMTc5NTI3MTIzOCwtNzczMDg1NjIyLDE0MDQ5MjIy
-MV19
+eyJoaXN0b3J5IjpbMTI2NDc5ODE3MCwtMTQ0MDE0NTQzMiwtMz
+M4NDIyNzUxLDE3OTUyNzEyMzgsLTc3MzA4NTYyMiwxNDA0OTIy
+MjFdfQ==
 -->
