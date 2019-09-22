@@ -523,6 +523,26 @@ publisher = {USENIX},
 } 
 ```
 
+```
+@article{Burns93,
+ author = {Burns, J.E. and Lynch, N.A.},
+ title = {Bounds on Shared Memory for Mutual Exclusion},
+ journal = {Inf. Comput.},
+ issue_date = {Dec. 1993},
+ volume = {107},
+ number = {2},
+ month = dec,
+ year = {1993},
+ issn = {0890-5401},
+ pages = {171--184},
+ numpages = {14},
+ url = {http://dx.doi.org/10.1006/inco.1993.1065},
+ doi = {10.1006/inco.1993.1065},
+ acmid = {175992},
+ publisher = {Academic Press, Inc.},
+ address = {Duluth, MN, USA},
+}
+```
 
 ```
 @inproceedings{Burrows06,
@@ -2990,5 +3010,5 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwMTA5NDQ4XX0=
+eyJoaXN0b3J5IjpbNTIxMzU1MDYsMzIwMTA5NDQ4XX0=
 -->
