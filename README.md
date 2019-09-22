@@ -75,7 +75,23 @@ publisher = {IEEE Computer Society},
 
 ### agu
 
-
+@inproceedings{Aguilera:2003:PDD:945445.945454,
+ author = {Aguilera, Marcos K. and Mogul, Jeffrey C. and Wiener, Janet L. and Reynolds, Patrick and Muthitacharoen, Athicha},
+ title = {Performance Debugging for Distributed Systems of Black Boxes},
+ booktitle = {Proceedings of the Nineteenth ACM Symposium on Operating Systems Principles},
+ series = {SOSP '03},
+ year = {2003},
+ isbn = {1-58113-757-5},
+ location = {Bolton Landing, NY, USA},
+ pages = {74--89},
+ numpages = {16},
+ url = {http://doi.acm.org/10.1145/945445.945454},
+ doi = {10.1145/945445.945454},
+ acmid = {945454},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {black box systems, distributed systems, performance analysis, performance debugging},
+}
 
 
 ### ala
@@ -2952,7 +2968,7 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzM3NTQ1MiwxMjY0Nzk4MTcwLC0xND
+eyJoaXN0b3J5IjpbMTA4Njk0Mjk2NCwxMjY0Nzk4MTcwLC0xND
 QwMTQ1NDMyLC0zMzg0MjI3NTEsMTc5NTI3MTIzOCwtNzczMDg1
 NjIyLDE0MDQ5MjIyMV19
 -->
