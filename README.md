@@ -75,7 +75,8 @@ publisher = {IEEE Computer Society},
 
 ### agu
 
-@inproceedings{Aguilera:2003:PDD:945445.945454,
+```
+@inproceedings{Aguilera03sosp,
  author = {Aguilera, Marcos K. and Mogul, Jeffrey C. and Wiener, Janet L. and Reynolds, Patrick and Muthitacharoen, Athicha},
  title = {Performance Debugging for Distributed Systems of Black Boxes},
  booktitle = {Proceedings of the Nineteenth ACM Symposium on Operating Systems Principles},
@@ -92,7 +93,26 @@ publisher = {IEEE Computer Society},
  address = {New York, NY, USA},
  keywords = {black box systems, distributed systems, performance analysis, performance debugging},
 }
+```
 
+```
+@inproceedings{Aguilera03podc,
+ author = {Aguilera, Marcos K. and Englert, Burkhard and Gafni, Eli},
+ title = {On Using Network Attached Disks As Shared Memory},
+ booktitle = {Proceedings of the Twenty-second Annual Symposium on Principles of Distributed Computing},
+ series = {PODC '03},
+ year = {2003},
+ isbn = {1-58113-708-7},
+ location = {Boston, Massachusetts},
+ pages = {315--324},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/872035.872082},
+ doi = {10.1145/872035.872082},
+ acmid = {872082},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+}
+``
 
 ### ala
 
@@ -2968,7 +2988,7 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Njk0Mjk2NCwxMjY0Nzk4MTcwLC0xND
-QwMTQ1NDMyLC0zMzg0MjI3NTEsMTc5NTI3MTIzOCwtNzczMDg1
-NjIyLDE0MDQ5MjIyMV19
+eyJoaXN0b3J5IjpbLTEyMzM4NTU0NzgsMTI2NDc5ODE3MCwtMT
+Q0MDE0NTQzMiwtMzM4NDIyNzUxLDE3OTUyNzEyMzgsLTc3MzA4
+NTYyMiwxNDA0OTIyMjFdfQ==
 -->
