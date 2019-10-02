@@ -294,6 +294,15 @@ publisher = {ACM},
  }
 ```
 
+```
+@book{Attiya14,
+ author = {Attiya, Hagit and Ellen, Faith},
+ title = {Impossibility Results for Distributed Computing},
+ year = {2014},
+ isbn = {9781627051712},
+ publisher = {Morgan \& Claypool},
+}
+```
 
 
 ```
@@ -917,7 +926,25 @@ isbn="978-3-319-96145-3"
 } 
 ```
 
+### fic
 
+
+```
+@Article{Fich2003,
+ author="Fich, Faith and Ruppert, Eric",
+ title="Hundreds of impossibility results for distributed computing",
+ journal="Distributed Computing",
+ year="2003",
+ month="Sep",
+ day="01",
+ volume="16",
+ number="2",
+ pages="121--163",
+ issn="1432-0452",
+ doi="10.1007/s00446-003-0091-y",
+ url="https://doi.org/10.1007/s00446-003-0091-y"
+}
+```
 
 
 ### fis
@@ -3010,5 +3037,5 @@ publisher = {{USENIX} Association},
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxMzU1MDYsMzIwMTA5NDQ4XX0=
+eyJoaXN0b3J5IjpbMTc1OTE2MTEwNV19
 -->
