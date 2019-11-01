@@ -479,6 +479,29 @@ publisher = {USENIX},
 ### cha
 
 ```
+@article{Chandra96,
+ author = {Chandra, Tushar Deepak and Toueg, Sam},
+ title = {Unreliable Failure Detectors for Reliable Distributed Systems},
+ journal = {J. ACM},
+ issue_date = {March 1996},
+ volume = {43},
+ number = {2},
+ month = mar,
+ year = {1996},
+ issn = {0004-5411},
+ pages = {225--267},
+ numpages = {43},
+ url = {http://doi.acm.org/10.1145/226643.226647},
+ doi = {10.1145/226643.226647},
+ acmid = {226647},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Byzantine Generals' problem, agreement problem, asynchronous systems, atomic broadcast, commit problem, consensus problem, crash failures, failure detection, fault-tolerance, message passing, partial synchrony, processor failures},
+} 
+```
+
+
+```
 @inproceedings{Chandra07,
 author = {Chandra, Tushar D. and Griesemer, Robert and Redstone, Joshua},
 title = {Paxos Made Live: An Engineering Perspective},
@@ -661,6 +684,29 @@ publisher = {ACM},
 } 
 ```
 
+### dol
+
+
+```
+@article{Dolev87,
+ author = {Dolev, Danny and Dwork, Cynthia and Stockmeyer, Larry},
+ title = {On the Minimal Synchronism Needed for Distributed Consensus},
+ journal = {J. ACM},
+ issue_date = {Jan. 1987},
+ volume = {34},
+ number = {1},
+ month = jan,
+ year = {1987},
+ issn = {0004-5411},
+ pages = {77--97},
+ numpages = {21},
+ url = {http://doi.acm.org/10.1145/7531.7533},
+ doi = {10.1145/7531.7533},
+ acmid = {7533},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+}
+```
 
 
 ### dra
@@ -1957,7 +2003,21 @@ abstract = "A general automaton model for timing-based systems is
 ~~~
 
 
+### mar
 
+```
+@InProceedings{Maric17,
+ author="Mari{\'{c}}, Ognjen and Sprenger, Christoph and Basin, David",
+ editor="Majumdar, Rupak and Kun{\v{c}}ak, Viktor",
+ title="Cutoff Bounds for Consensus Algorithms",
+ booktitle="Computer Aided Verification",
+ year="2017",
+ publisher="Springer International Publishing",
+ address="Cham",
+ pages="217--237",
+ isbn="978-3-319-63390-9"
+}
+```
 
 
 ### mat
@@ -2604,6 +2664,29 @@ publisher = {{USENIX} Association},
 } 
 ```
 
+## X
+
+### xia
+
+```
+@inproceedings{Xiang19,
+ author = {Xiang, Zhuolun and Vaidya, Nitin H.},
+ title = {Partially Replicated Causally Consistent Shared Memory: Lower Bounds and An Algorithm},
+ booktitle = {Proceedings of the 2019 ACM Symposium on Principles of Distributed Computing},
+ series = {PODC '19},
+ year = {2019},
+ isbn = {978-1-4503-6217-7},
+ location = {Toronto ON, Canada},
+ pages = {425--434},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/3293611.3331600},
+ doi = {10.1145/3293611.3331600},
+ acmid = {3331600},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {causal consistency, distributed shared memory, lower bounds, tight conditions},
+} 
+```
 
 
 ## Y
@@ -2799,3 +2882,24 @@ publisher = {{USENIX} Association},
 }
 ```
 
+### zhe
+
+```
+@article{Zheng17,
+ author = {Zheng, Jianjun and Lin, Qian and Xu, Jiatao and Wei, Cheng and Zeng, Chuwei and Yang, Pingan and Zhang, Yunfan},
+ title = {PaxosStore: High-availability Storage Made Practical in WeChat},
+ journal = {Proc. VLDB Endow.},
+ issue_date = {August 2017},
+ volume = {10},
+ number = {12},
+ month = aug,
+ year = {2017},
+ issn = {2150-8097},
+ pages = {1730--1741},
+ numpages = {12},
+ url = {https://doi.org/10.14778/3137765.3137778},
+ doi = {10.14778/3137765.3137778},
+ acmid = {3137778},
+ publisher = {VLDB Endowment},
+} 
+```
