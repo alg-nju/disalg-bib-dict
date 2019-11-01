@@ -9,7 +9,7 @@ A dictionary of bibs, mainly on distributed algorithm design and implementation.
 ### aba
 
 ```
-@Inproceedings{Abadi88,
+@inproceedings{Abadi88,
 author = {Abadi, Martin and Lamport, Leslie},
 title = {The Existence of Refinement Mappings},
 year = {1988},
@@ -73,6 +73,47 @@ publisher = {IEEE Computer Society},
  }
 ```
 
+### agu
+
+```
+@inproceedings{Aguilera03sosp,
+ author = {Aguilera, Marcos K. and Mogul, Jeffrey C. and Wiener, Janet L. and Reynolds, Patrick and Muthitacharoen, Athicha},
+ title = {Performance Debugging for Distributed Systems of Black Boxes},
+ booktitle = {Proceedings of the Nineteenth ACM Symposium on Operating Systems Principles},
+ series = {SOSP '03},
+ year = {2003},
+ isbn = {1-58113-757-5},
+ location = {Bolton Landing, NY, USA},
+ pages = {74--89},
+ numpages = {16},
+ url = {http://doi.acm.org/10.1145/945445.945454},
+ doi = {10.1145/945445.945454},
+ acmid = {945454},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {black box systems, distributed systems, performance analysis, performance debugging},
+}
+```
+
+
+```
+@inproceedings{Aguilera03podc,
+ author = {Aguilera, Marcos K. and Englert, Burkhard and Gafni, Eli},
+ title = {On Using Network Attached Disks As Shared Memory},
+ booktitle = {Proceedings of the Twenty-second Annual Symposium on Principles of Distributed Computing},
+ series = {PODC '03},
+ year = {2003},
+ isbn = {1-58113-708-7},
+ location = {Boston, Massachusetts},
+ pages = {315--324},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/872035.872082},
+ doi = {10.1145/872035.872082},
+ acmid = {872082},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+}
+```
 
 
 ### ala
@@ -253,6 +294,15 @@ publisher = {ACM},
  }
 ```
 
+```
+@book{Attiya14,
+ author = {Attiya, Hagit and Ellen, Faith},
+ title = {Impossibility Results for Distributed Computing},
+ year = {2014},
+ isbn = {9781627051712},
+ publisher = {Morgan \& Claypool},
+}
+```
 
 
 ```
@@ -460,6 +510,50 @@ publisher = {USENIX},
 ### bur
 
 ```
+@inproceedings{Burckhardt14,
+    author = {Burckhardt, Sebastian and Gotsman, Alexey and 
+        Yang, Hongseok and Zawirski, Marek},
+    title = {Replicated Data Types: Specification, 
+        Verification, Optimality},
+    booktitle = {Proceedings of the 41st ACM SIGPLAN-SIGACT
+        Symposium on Principles of Programming Languages},
+    series = {POPL '14},
+    year = {2014},
+    isbn = {978-1-4503-2544-8},
+    location = {San Diego, California, USA},
+    pages = {271--284},
+    numpages = {14},
+    url = {http://doi.acm.org/10.1145/2535838.2535848},
+    doi = {10.1145/2535838.2535848},
+    acmid = {2535848},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    keywords = {eventual consistency, replication, weak memory},
+} 
+```
+
+```
+@article{Burns93,
+ author = {Burns, J.E. and Lynch, N.A.},
+ title = {Bounds on Shared Memory for Mutual Exclusion},
+ journal = {Inf. Comput.},
+ issue_date = {Dec. 1993},
+ volume = {107},
+ number = {2},
+ month = dec,
+ year = {1993},
+ issn = {0890-5401},
+ pages = {171--184},
+ numpages = {14},
+ url = {http://dx.doi.org/10.1006/inco.1993.1065},
+ doi = {10.1006/inco.1993.1065},
+ acmid = {175992},
+ publisher = {Academic Press, Inc.},
+ address = {Duluth, MN, USA},
+}
+```
+
+```
 @inproceedings{Burrows06,
 author = {Burrows, Mike},
 title = {The {Chubby} lock service for loosely-coupled distributed systems},
@@ -510,6 +604,25 @@ pages = {4:1--4:26},
 articleno = {4},
 url = {http://doi.acm.org/10.1145/1365815.1365816},
 publisher = {ACM},
+}
+```
+
+### cho
+```
+@inproceedings{Chow14,
+ author = {Chow, Michael and Meisner, David and Flinn, Jason and Peek, Daniel and Wenisch, Thomas F.},
+ title = {The Mystery Machine: End-to-end Performance Analysis of Large-scale Internet Services},
+ booktitle = {Proceedings of the 11th USENIX Conference on Operating Systems Design and Implementation},
+ series = {OSDI'14},
+ year = {2014},
+ isbn = {978-1-931971-16-4},
+ location = {Broomfield, CO},
+ pages = {217--231},
+ numpages = {15},
+ url = {http://dl.acm.org/citation.cfm?id=2685048.2685066},
+ acmid = {2685066},
+ publisher = {USENIX Association},
+ address = {Berkeley, CA, USA},
 }
 ```
 
@@ -813,7 +926,25 @@ isbn="978-3-319-96145-3"
 } 
 ```
 
+### fic
 
+
+```
+@Article{Fich2003,
+ author="Fich, Faith and Ruppert, Eric",
+ title="Hundreds of impossibility results for distributed computing",
+ journal="Distributed Computing",
+ year="2003",
+ month="Sep",
+ day="01",
+ volume="16",
+ number="2",
+ pages="121--163",
+ issn="1432-0452",
+ doi="10.1007/s00446-003-0091-y",
+ url="https://doi.org/10.1007/s00446-003-0091-y"
+}
+```
 
 
 ### fis
@@ -1493,7 +1624,27 @@ publisher = {IEEE},
 } 
 ```
 
+### kor
 
+```
+@inproceedings{Korgaonkar19,
+ author = {Korgaonkar, Kunal and Izraelevitz, Joseph and Zhao, Jishen and Swanson, Steven},
+ title = {Vorpal: Vector Clock Ordering For Large Persistent Memory Systems},
+ booktitle = {Proceedings of the 2019 ACM Symposium on Principles of Distributed Computing},
+ series = {PODC '19},
+ year = {2019},
+ isbn = {978-1-4503-6217-7},
+ location = {Toronto ON, Canada},
+ pages = {435--444},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/3293611.3331598},
+ doi = {10.1145/3293611.3331598},
+ acmid = {3331598},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {clocks, computer architecture, distributed systems, non-volatile main memories, non-volatile memories, parallel architectures, persistent memories, scale-up architectures, storage architectures, vector clocks},
+}
+```
 
 
 ## L
@@ -1557,6 +1708,27 @@ address = {New York, NY, USA},
 }
 ```
 
+```
+@article{Lamport79,
+ author = {Lamport, L.},
+ title = {How to Make a Multiprocessor Computer That Correctly
+     Executes Multiprocess Programs},
+ journal = {IEEE Trans. Comput.},
+ issue_date = {September 1979},
+ volume = {28},
+ number = {9},
+ month = sep,
+ year = {1979},
+ issn = {0018-9340},
+ pages = {690--691},
+ numpages = {2},
+ url = {https://doi.org/10.1109/TC.1979.1675439},
+ doi = {10.1109/TC.1979.1675439},
+ acmid = {1311750},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA},
+ }	
+```
 
 
 ```
@@ -2201,6 +2373,27 @@ url="https://doi.org/10.1007/s004460050027"
 }
 ```
 
+### rey
+
+```
+@inproceedings{Reynolds16,
+ author = {Reynolds, Patrick and Wiener, Janet L. and Mogul, Jeffrey C. and Aguilera, Marcos K. and Vahdat, Amin},
+ title = {WAP5: Black-box Performance Debugging for Wide-area Systems},
+ booktitle = {Proceedings of the 15th International Conference on World Wide Web},
+ series = {WWW '06},
+ year = {2006},
+ isbn = {1-59593-323-9},
+ location = {Edinburgh, Scotland},
+ pages = {347--356},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/1135777.1135830},
+ doi = {10.1145/1135777.1135830},
+ acmid = {1135830},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {black box systems, distributed systems, performance analysis, performance debugging},
+}
+```
 
 
 ### roy
@@ -2365,7 +2558,29 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
 }
 ~~~
 
+### siv
 
+```
+@inproceedings{Sivaramakrishnan15,
+    author = {Sivaramakrishnan, KC and Kaki, Gowtham and
+        Jagannathan, Suresh},
+    title = {Declarative Programming over Eventually Consistent
+        Data Stores},
+    booktitle = {Proceedings of the 36th ACM SIGPLAN Conference on
+        Programming Language Design and Implementation},
+    series = {PLDI '15},
+    year = {2015},
+    isbn = {978-1-4503-3468-6},
+    location = {Portland, OR, USA},
+    pages = {413--424},
+    numpages = {12},
+    url = {http://doi.acm.org/10.1145/2737924.2737981},
+    doi = {10.1145/2737924.2737981},
+    acmid = {2737981},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+} 
+```
 
 
 
@@ -2604,7 +2819,29 @@ publisher = {{USENIX} Association},
 } 
 ```
 
+## X
 
+### xia
+
+```
+@inproceedings{Xiang19,
+ author = {Xiang, Zhuolun and Vaidya, Nitin H.},
+ title = {Partially Replicated Causally Consistent Shared Memory: Lower Bounds and An Algorithm},
+ booktitle = {Proceedings of the 2019 ACM Symposium on Principles of Distributed Computing},
+ series = {PODC '19},
+ year = {2019},
+ isbn = {978-1-4503-6217-7},
+ location = {Toronto ON, Canada},
+ pages = {425--434},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/3293611.3331600},
+ doi = {10.1145/3293611.3331600},
+ acmid = {3331600},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {causal consistency, distributed shared memory, lower bounds, tight conditions},
+}
+```
 
 ## Y
 
@@ -2799,3 +3036,6 @@ publisher = {{USENIX} Association},
 }
 ```
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTc1OTE2MTEwNV19
+-->
