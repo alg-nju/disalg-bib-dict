@@ -2015,6 +2015,27 @@ journal = {ACM SIGACT News (Distributed Computing Column) 32, 4 (Whole Number 12
 ```
 
 
+```
+@inproceedings{Lu19,
+ author = {Lu, Jie and Liu, Chen and Li, Lian and Feng, Xiaobing and Tan, Feng and Yang, Jun and You, Liang},
+ title = {CrashTuner: Detecting Crash-recovery Bugs in Cloud Systems via Meta-info Analysis},
+ booktitle = {Proceedings of the 27th ACM Symposium on Operating Systems Principles},
+ series = {SOSP '19},
+ year = {2019},
+ isbn = {978-1-4503-6873-5},
+ location = {Huntsville, Ontario, Canada},
+ pages = {114--130},
+ numpages = {17},
+ url = {http://doi.acm.org/10.1145/3341301.3359645},
+ doi = {10.1145/3341301.3359645},
+ acmid = {3359645},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {bug detection, cloud computing, crash recovery bugs, distributed systems, fault injection, fault tolerance},
+} 
+
+```
+
 
 ### lyn
 
@@ -2527,6 +2548,26 @@ isbn="978-3-642-04420-5"
 ```
 
 
+### sco
+
+```
+@inproceedings{Scott16,
+ author = {Scott, Colin and Panda, Aurojit and Brajkovic, Vjekoslav and Necula, George and Krishnamurthy, Arvind and Shenker, Scott},
+ title = {Minimizing Faulty Executions of Distributed Systems},
+ booktitle = {Proceedings of the 13th Usenix Conference on Networked Systems Design and Implementation},
+ series = {NSDI'16},
+ year = {2016},
+ isbn = {978-1-931971-29-4},
+ location = {Santa Clara, CA},
+ pages = {291--309},
+ numpages = {19},
+ url = {http://dl.acm.org/citation.cfm?id=2930611.2930631},
+ acmid = {2930631},
+ publisher = {USENIX Association},
+ address = {Berkeley, CA, USA},
+}
+```
+
 
 ### sha
 
@@ -2981,9 +3022,6 @@ publisher = {{USENIX} Association},
 ```
 
 
-
-
-
 ## Z
 
 ### zaw
@@ -3080,6 +3118,22 @@ publisher = {{USENIX} Association},
 }
 ```
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTE2MTEwNV19
--->
+
+```
+@inproceedings{Zhao14,
+ author = {Zhao, Xu and Zhang, Yongle and Lion, David and Ullah, Muhammad Faizan and Luo, Yu and Yuan, Ding and Stumm, Michael},
+ title = {Lprof: A Non-intrusive Request Flow Profiler for Distributed Systems},
+ booktitle = {Proceedings of the 11th USENIX Conference on Operating Systems Design and Implementation},
+ series = {OSDI'14},
+ year = {2014},
+ isbn = {978-1-931971-16-4},
+ location = {Broomfield, CO},
+ pages = {629--644},
+ numpages = {16},
+ url = {http://dl.acm.org/citation.cfm?id=2685048.2685099},
+ acmid = {2685099},
+ publisher = {USENIX Association},
+ address = {Berkeley, CA, USA},
+} 
+```
+
