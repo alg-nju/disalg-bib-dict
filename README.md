@@ -234,6 +234,17 @@ publisher = {{USENIX} Association},
 ```
 
 
+### asp
+
+```
+@book{Aspnes19,
+    author = {James Aspnes},
+    title = {Notes on Theory of Distributed Systems},
+    year = {2019},
+    isbn = {},
+    publisher = {Yale University, CPSC 465/565},
+}
+```
 
 
 ### att
@@ -2120,6 +2131,28 @@ abstract = "A general automaton model for timing-based systems is
 
 
 ## M
+
+### ma
+
+```
+@inproceedings{Ma19,
+ author = {Ma, Haojun and Goel, Aman and Jeannin, Jean-Baptiste and Kapritsos, Manos and Kasikci, Baris and Sakallah, Karem A.},
+ title = {I4: Incremental Inference of Inductive Invariants for Verification of Distributed Protocols},
+ booktitle = {Proceedings of the 27th ACM Symposium on Operating Systems Principles},
+ series = {SOSP '19},
+ year = {2019},
+ isbn = {978-1-4503-6873-5},
+ location = {Huntsville, Ontario, Canada},
+ pages = {370--384},
+ numpages = {15},
+ url = {http://doi.acm.org/10.1145/3341301.3359651},
+ doi = {10.1145/3341301.3359651},
+ acmid = {3359651},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+```
+
 
 ### mal
 
