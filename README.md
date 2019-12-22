@@ -521,6 +521,27 @@ publisher = {USENIX},
 ### bur
 
 ```
+@inproceedings{Burckhardt10,
+ author = {Burckhardt, Sebastian and Kothari, Pravesh and Musuvathi, Madanlal and Nagarakatte, Santosh},
+ title = {A Randomized Scheduler with Probabilistic Guarantees of Finding Bugs},
+ booktitle = {Proceedings of the Fifteenth International Conference on Architectural Support for Programming Languages and Operating Systems},
+ series = {ASPLOS XV},
+ year = {2010},
+ isbn = {978-1-60558-839-1},
+ location = {Pittsburgh, Pennsylvania, USA},
+ pages = {167--178},
+ numpages = {12},
+ url = {http://doi.acm.org/10.1145/1736020.1736040},
+ doi = {10.1145/1736020.1736040},
+ acmid = {1736040},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {concurrency, race conditions, randomized algorithms, testing},
+} 
+```
+
+
+```
 @inproceedings{Burckhardt14,
     author = {Burckhardt, Sebastian and Gotsman, Alexey and 
         Yang, Hongseok and Zawirski, Marek},
@@ -1830,6 +1851,26 @@ journal = {ACM SIGACT News (Distributed Computing Column) 32, 4 (Whole Number 12
 ```
 
 
+### lee
+
+```
+@inproceedings{Leesatapornwongsa14,
+ author = {Leesatapornwongsa, Tanakorn and Hao, Mingzhe and Joshi, Pallavi and Lukman, Jeffrey F. and Gunawi, Haryadi S.},
+ title = {SAMC: Semantic-aware Model Checking for Fast Discovery of Deep Bugs in Cloud Systems},
+ booktitle = {Proceedings of the 11th USENIX Conference on Operating Systems Design and Implementation},
+ series = {OSDI'14},
+ year = {2014},
+ isbn = {978-1-931971-16-4},
+ location = {Broomfield, CO},
+ pages = {399--414},
+ numpages = {16},
+ url = {http://dl.acm.org/citation.cfm?id=2685048.2685080},
+ acmid = {2685080},
+ publisher = {USENIX Association},
+ address = {Berkeley, CA, USA},
+} 
+```
+
 
 ### len
 
@@ -2385,6 +2426,33 @@ address = {New York, NY, USA},
  publisher = {USENIX Association},
  address = {Berkeley, CA, USA},
 } 
+```
+
+
+### ozk
+
+```
+@article{Ozkan18,
+ author = {Ozkan, Burcu Kulahcioglu and Majumdar, Rupak and Niksic, Filip and Befrouei, Mitra Tabaei and Weissenbacher, Georg},
+ title = {Randomized Testing of Distributed Systems with Probabilistic Guarantees},
+ journal = {Proc. ACM Program. Lang.},
+ issue_date = {November 2018},
+ volume = {2},
+ number = {OOPSLA},
+ month = oct,
+ year = {2018},
+ issn = {2475-1421},
+ pages = {160:1--160:28},
+ articleno = {160},
+ numpages = {28},
+ url = {http://doi.acm.org/10.1145/3276530},
+ doi = {10.1145/3276530},
+ acmid = {3276530},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {distributed systems, hitting families, online chain partitioning, partially ordered sets, random testing},
+} 
+
 ```
 
 
