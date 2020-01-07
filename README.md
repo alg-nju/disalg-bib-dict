@@ -2910,6 +2910,28 @@ publisher = {{USENIX} Association},
 
 ## W
 
+### wang
+
+```
+  @inproceedings{Wang19,
+ author = {Wang, Chao and Enea, Constantin and Mutluergil, Suha Orhun and Petri, Gustavo},
+ title = {Replication-Aware Linearizability},
+ year = {2019},
+ isbn = {9781450367127},
+ publisher = {Association for Computing Machinery},
+ address = {New York, NY, USA},
+ url = {https://doi.org/10.1145/3314221.3314617},
+ doi = {10.1145/3314221.3314617},
+ booktitle = {Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation},
+ pages = {980–993},
+ numpages = {14},
+ keywords = {consistency, verification, replicated data types},
+ location = {Phoenix, AZ, USA},
+ series = {PLDI 2019}
+}
+
+```
+
 ### wei
 
 ```
