@@ -462,15 +462,26 @@ day="01",
 volume="14",
 number="3",
 pages="127--146",
-abstract="We present a shared memory algorithm that allows a set of 
-    f+1 processes to wait-free ``simulate'' a larger system of 
-    n processes, that may also exhibit up to f stopping failures.",
 issn="1432-0452",
 doi="10.1007/PL00008933",
 url="https://doi.org/10.1007/PL00008933"
 }
 ```
 
+
+### bra
+
+```
+@article{Bravo15,
+author = {Bravo, Manuel and Diegues, Nuno and Zeng, J. and Romano, Paolo and Rodrigues, Luís},
+year = {2015},
+month = {01},
+pages = {18-31},
+title = {On the use of clocks to enforce consistency in the cloud},
+volume = {38},
+journal = {IEEE Data Eng. Bull.}
+}
+```
 
 
 ### bre
@@ -603,6 +614,27 @@ publisher = {USENIX},
 ## C
 
 ### cha
+
+```
+@article{Chandy86,
+author = {Chandy, K. M. and Misra, Jayadev},
+title = {How Processes Learn},
+year = {1986},
+issue_date = {January 1986},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg},
+volume = {1},
+number = {1},
+issn = {0178-2770},
+url = {https://doi.org/10.1007/BF01843569},
+doi = {10.1007/BF01843569},
+journal = {Distrib. Comput.},
+month = jan,
+pages = {40–52},
+numpages = {13}
+}
+```
+
 
 ```
 @inproceedings{Chandra07,
@@ -1043,12 +1075,6 @@ day="01",
 volume="16",
 number="1",
 pages="1--20",
-abstract="We present an algorithm, called Disk Paxos, for implementing
-    a reliable distributed system with a network of processors and disks. 
-    Like the original Paxos algorithm, Disk Paxos maintains consistency 
-    in the presence of arbitrary non-Byzantine faults. Progress can be 
-    guaranteed as long as a majority of the disks are available, 
-    even if all processors but one have failed.",
 issn="1432-0452",
 doi="10.1007/s00446-002-0070-8",
 url="https://doi.org/10.1007/s00446-002-0070-8"
@@ -1458,6 +1484,29 @@ url = {http://dx.doi.org/10.1007/978-3-642-25873-2_22 },
 ### hua
 
 ```
+@article{Huang10,
+author = {Huang, Yu and Cao, Jiannong and Jin, Beihong and Tao, Xianping and Lu, Jian and Feng, Yulin},
+title = {Flexible Cache Consistency Maintenance over Wireless Ad Hoc Networks},
+year = {2010},
+issue_date = {August 2010},
+publisher = {IEEE Press},
+volume = {21},
+number = {8},
+issn = {1045-9219},
+url = {https://doi.org/10.1109/TPDS.2009.168},
+doi = {10.1109/TPDS.2009.168},
+journal = {IEEE Trans. Parallel Distrib. Syst.},
+month = aug,
+pages = {1150–1161},
+numpages = {12},
+keywords = {wireless ad hoc network., Data dissemination and sharing, cache consistency, Data dissemination and sharing, cache consistency, wireless ad hoc network.}
+}
+  
+
+```
+
+
+```
 @inproceedings{Huang17,
  author = {Huang, Peng and Guo, Chuanxiong and Zhou, Lidong and 
      Lorch, Jacob R. and Dang, Yingnong and Chintalapati, Murali and Yao, Randolph},
@@ -1521,6 +1570,27 @@ publisher = {USENIX},
 
 
 ## J
+
+### jag
+
+```
+@InProceedings{Jagadeesan14,
+author="Jagadeesan, Radha
+and Riely, James",
+editor="Esparza, Javier
+and Fraigniaud, Pierre
+and Husfeldt, Thore
+and Koutsoupias, Elias",
+title="Between Linearizability and Quiescent Consistency",
+booktitle="Automata, Languages, and Programming",
+year="2014",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="220--231",
+isbn="978-3-662-43951-7"
+}
+```
+
 
 ### jai
 
@@ -2103,23 +2173,6 @@ issn = "0890-5401",
 doi = "https://doi.org/10.1006/inco.1995.1134",
 url = "http://www.sciencedirect.com/science/article/pii/S0890540185711340",
 author = "N. Lynch and F. Vaandrager",
-abstract = "A unified, comprehensive presentation of simulation techniques 
-    for verification of concurrent systems is given, in terms of a simple 
-    untimed automaton model. In particular, (1) refinements, (2) forward 
-    and backward simulations, (3) hybrid forward-backward and 
-    backward-forward simulations, and (4) history and prophecy relations 
-    are defined. History and prophecy relations are abstract versions of 
-    the history and prophecy variables of Abadi and Lamport, as well as 
-    the auxiliary variables of Owicki and Gries, Relationships between 
-    the different types of simulations, as well as soundness and completeness 
-    results, are stated and proved. Finally, it is shown how invariants 
-    can be incorporated into all the simulations. Even though many 
-    results are presented here for the first time, this paper can 
-    also be read as a survey (in a simple setting) of the research 
-    literature on simulation techniques. The development for untimed 
-    automata is designed to support a similar development for timed 
-    automata, Part II of this paper will show how the results of this 
-    paper can be carried over to the setting of timed automata."
 }
 ```
 
@@ -2137,18 +2190,6 @@ issn = "0890-5401",
 doi = "https://doi.org/10.1006/inco.1996.0060",
 url = "http://www.sciencedirect.com/science/article/pii/S0890540196900607",
 author = "Nancy Lynch and Frits Vaandrager",
-abstract = "A general automaton model for timing-based systems is 
-    presented and is used as the context for developing a variety of 
-    simulation proof techniques for such systems. These techniques 
-    include (1) refinements, (2) forward and backward 
-    simulations, (3) hybrid forward–backward and backward–forward 
-    simulations, and (4) history and prophecy relations. Relationships 
-    between the different types of simulations, as well as soundness 
-    and completeness results, are stated and proved. These results 
-    are (with one exception) analogous to the results for untimed 
-    systems in Part I of this paper. In fact, many of the results for 
-    the timed case are obtained as consequences of the analogous results 
-    for the untimed case."
 }
 ```
 
@@ -2608,16 +2649,6 @@ year="2009",
 publisher="Springer Berlin Heidelberg",
 address="Berlin, Heidelberg",
 pages="93--106",
-abstract="We consider the verification of algorithms expressed in 
-    the Heard-Of Model, a round-based computational model for 
-    fault-tolerant distributed computing. Rounds in this model 
-    are communication-closed, and we show that every execution 
-    recording individual events corresponds to a coarser-grained 
-    execution based on global rounds such that the local views of 
-    all processes are identical in the two executions. 
-    This result helps us to substantially mitigate state-space 
-    explosion and verify Consensus algorithms using standard 
-    model checking techniques.",
 isbn="978-3-642-04420-5"
 }
 ```
@@ -2866,6 +2897,31 @@ publisher = {{USENIX} Association},
 
 
 ## V
+
+### vio
+
+
+```
+  @article{Viotti16,
+ author = {Viotti, Paolo and Vukoliundefined, Marko},
+ title = {Consistency in Non-Transactional Distributed Storage Systems},
+ year = {2016},
+ issue_date = {July 2016},
+ publisher = {Association for Computing Machinery},
+ address = {New York, NY, USA},
+ volume = {49},
+ number = {1},
+ issn = {0360-0300},
+ url = {https://doi.org/10.1145/2926965},
+ doi = {10.1145/2926965},
+ journal = {ACM Comput. Surv.},
+ month = jun,
+ articleno = {Article 19},
+ numpages = {34},
+ keywords = {distributed storage, Consistency}
+}
+```
+
 
 ### vog
 
