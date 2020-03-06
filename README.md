@@ -575,6 +575,26 @@ publisher = {USENIX},
 } 
 ```
 
+
+@article{Burckhardt14-book,
+author = {Burckhardt, Sebastian},
+title = {Principles of Eventual Consistency},
+year = {2014},
+issue_date = {October 2014},
+publisher = {Now Publishers Inc.},
+address = {Hanover, MA, USA},
+volume = {1},
+number = {1–2},
+issn = {2325-1107},
+url = {https://doi.org/10.1561/2500000011},
+doi = {10.1561/2500000011},
+journal = {Found. Trends Program. Lang.},
+month = oct,
+pages = {1–150},
+numpages = {150}
+}
+
+
 ```
 @article{Burns93,
  author = {Burns, J.E. and Lynch, N.A.},
@@ -670,6 +690,7 @@ url = {http://doi.acm.org/10.1145/1365815.1365816},
 publisher = {ACM},
 }
 ```
+
 
 ### cho
 ```
@@ -1253,7 +1274,7 @@ publisher = {ACM},
 
 ```
 @article{Golab18,
-    author = {Golab, W. and SteveLi, X. and López-Ortiz, A. and Nishimura, N.},
+    author = {Golab, W. and SteveLi, X. and Lopez-Ortiz, A. and Nishimura, N.},
     title = {Computing $k$-Atomicity in Polynomial Time},
     journal = {SIAM Journal on Computing},
     volume = {47},
@@ -1497,7 +1518,7 @@ url = {https://doi.org/10.1109/TPDS.2009.168},
 doi = {10.1109/TPDS.2009.168},
 journal = {IEEE Trans. Parallel Distrib. Syst.},
 month = aug,
-pages = {1150–1161},
+pages = {1150-1161},
 numpages = {12},
 keywords = {wireless ad hoc network., Data dissemination and sharing, cache consistency, Data dissemination and sharing, cache consistency, wireless ad hoc network.}
 }
@@ -2090,6 +2111,26 @@ journal = {ACM SIGACT News (Distributed Computing Column) 32, 4 (Whole Number 12
 
 
 ### llo
+
+
+
+@inproceedings{LLoyd11,
+    author = {Lloyd, Wyatt and Freedman, Michael J. and Kaminsky, Michael and Andersen, David G.},
+    title = {Don't Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS},
+    year = {2011},
+    isbn = {9781450309776},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/2043556.2043593},
+    doi = {10.1145/2043556.2043593},
+    booktitle = {Proceedings of the Twenty-Third ACM Symposium on Operating Systems Principles},
+    pages = {401-416},
+    numpages = {16},
+    keywords = {causal + consistency, scalable wide-area replication, ALPS systems, key-value storage, read transactions},
+    location = {Cascais, Portugal},
+    series = {SOSP'11}
+}
+
 
 ```
 @inproceedings{Lloyd13,
