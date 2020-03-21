@@ -382,8 +382,19 @@ edition = {9th USENIX Symposium on Networked Systems
 ```
 
 
+### bar
 
-
+```
+@book{Barroso18,
+author = {Barroso, Luiz Andre and Holzle, Urs and Ranganathan, Parthasarathy and Martonosi, Margaret},
+title = {The Datacenter As a Computer: Designing Warehouse-Scale Machines},
+year = {2018},
+isbn = {1681734354},
+publisher = {Morgan \& Claypool Publishers},
+edition = {3rd}
+}
+```
+  
 
 ### bea
 
@@ -465,6 +476,20 @@ pages="127--146",
 issn="1432-0452",
 doi="10.1007/PL00008933",
 url="https://doi.org/10.1007/PL00008933"
+}
+```
+
+
+### bos
+
+```
+@book{Bost10,
+editor = {Charron-Bost, Bernadette and Pedone, Fernando and Schiper, Andr\'{e}},
+title = {Replication: Theory and Practice},
+year = {2010},
+isbn = {3642112935},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg}
 }
 ```
 
@@ -633,6 +658,21 @@ publisher = {USENIX},
 
 ## C
 
+### cac
+
+
+```
+@book{Cachin11,
+author = {Cachin, Christian and Guerraoui, Rachid and Rodrigues, Lus},
+title = {Introduction to Reliable and Secure Distributed Programming},
+year = {2011},
+isbn = {3642152597},
+publisher = {Springer Publishing Company, Incorporated},
+edition = {2nd}
+}
+```
+
+
 ### cha
 
 ```
@@ -784,6 +824,26 @@ publisher = {USENIX},
 
 
 ## D
+
+```
+@inproceedings{Dang19,
+author = {Dang, Hung and Dinh, Tien Tuan Anh and Loghin, Dumitrel and Chang, Ee-Chien and Lin, Qian and Ooi, Beng Chin},
+title = {Towards Scaling Blockchain Systems via Sharding},
+year = {2019},
+isbn = {9781450356435},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3299869.3319889},
+doi = {10.1145/3299869.3319889},
+booktitle = {Proceedings of the 2019 International Conference on Management of Data},
+pages = {123–140},
+numpages = {18},
+keywords = {blockchain, sharding, distributed transactions},
+location = {Amsterdam, Netherlands},
+series = {SIGMOD'19}
+}
+```
+
 
 ### dec
 
@@ -1393,6 +1453,19 @@ publisher = {{USENIX} Association},
 }
 ```
 
+
+### hei
+
+```
+@techreport{Heimerdinger92,
+title={A Conceptual Framework for System Fault Tolerance},
+author={Walter Heimerdinger and Charles Weinstock},
+year={1992},
+number={CMU/SEI-92-TR-033},
+institution={Software Engineering Institute, Carnegie Mellon University},
+address={Pittsburgh, PA},
+url={http://resources.sei.cmu.edu/library/asset-view.cfm?AssetID=11747} }
+```
 
 
 ### hel
@@ -2346,6 +2419,26 @@ pages = {215--226},
 ```
 
 
+### mck
+
+```
+@inproceedings{McKeen13,
+author = {McKeen, Frank and Alexandrovich, Ilya and Berenzon, Alex and Rozas, Carlos V. and Shafi, Hisham and Shanbhogue, Vedvyas and Savagaonkar, Uday R.},
+title = {Innovative Instructions and Software Model for Isolated Execution},
+year = {2013},
+isbn = {9781450321181},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/2487726.2488368},
+doi = {10.1145/2487726.2488368},
+booktitle = {Proceedings of the 2nd International Workshop on Hardware and Architectural Support for Security and Privacy},
+articleno = {Article 10},
+numpages = {1},
+location = {Tel-Aviv, Israel},
+series = {HASP ’13}
+}
+```
+
 
 ### mei
 
@@ -3002,7 +3095,25 @@ publisher = {{USENIX} Association},
 ```
 
 
-
+```
+@article{Vukotic19,
+author = {Vukotic, Ivana and Rahli, Vincent and Esteves-Ver\'{\i}ssimo, Paulo},
+title = {Asphalion: Trustworthy Shielding against Byzantine Faults},
+year = {2019},
+issue_date = {October 2019},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {3},
+number = {OOPSLA},
+url = {https://doi.org/10.1145/3360564},
+doi = {10.1145/3360564},
+journal = {Proc. ACM Program. Lang.},
+month = oct,
+articleno = {Article 138},
+numpages = {32},
+keywords = {MinBFT, Hybrid protocols, Fault-tolerance, Coq, Monad, Byzantine faults, Knowledge calculus, Step-indexing, Compositional reasoning, Formal verification, Distributed systems}
+}
+```
 
 
 ## W
