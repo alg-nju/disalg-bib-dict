@@ -456,6 +456,62 @@ edition = {3rd}
 ```
 
 
+### bir
+
+```
+@book{Birman05,
+author = {Birman, Kenneth P.},
+title = {Reliable Distributed Systems: Technologies, Web Services, and Applications},
+year = {2005},
+isbn = {0387215093},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg}
+}
+  
+
+```
+
+
+### bis
+
+```
+@InProceedings{Biswas19cav,
+author="Biswas, Ranadeep
+and Emmi, Michael
+and Enea, Constantin",
+editor="Dillig, Isil
+and Tasiran, Serdar",
+title="On the Complexity of Checking Consistency for Replicated Data Types",
+booktitle="Computer Aided Verification",
+year="2019",
+publisher="Springer International Publishing",
+address="Cham",
+pages="324--343",
+isbn="978-3-030-25543-5"
+}
+```
+
+
+```
+@article{Biswas19oopsla,
+author = {Biswas, Ranadeep and Enea, Constantin},
+title = {On the Complexity of Checking Transactional Consistency},
+year = {2019},
+issue_date = {October 2019},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {3},
+number = {OOPSLA},
+url = {https://doi.org/10.1145/3360591},
+doi = {10.1145/3360591},
+journal = {Proc. ACM Program. Lang.},
+month = oct,
+articleno = {Article 165},
+numpages = {28},
+keywords = {transactional databases, testing, consistency, axiomatic specifications}
+}
+```
+
 
 ### bor
 
@@ -697,6 +753,50 @@ numpages = {13}
 
 
 ```
+@article{Chandra96unreliable,
+author = {Chandra, Tushar Deepak and Toueg, Sam},
+title = {Unreliable Failure Detectors for Reliable Distributed Systems},
+year = {1996},
+issue_date = {March 1996},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {43},
+number = {2},
+issn = {0004-5411},
+url = {https://doi.org/10.1145/226643.226647},
+doi = {10.1145/226643.226647},
+journal = {J. ACM},
+month = mar,
+pages = {225–267},
+numpages = {43},
+keywords = {processor failures, Byzantine Generals’ problem, crash failures, consensus problem, agreement problem, failure detection, asynchronous systems, fault-tolerance, atomic broadcast, message passing, commit problem, partial synchrony}
+}
+```  
+
+
+```
+@article{Chandra96weakest,
+    author = {Chandra, Tushar Deepak and Hadzilacos, Vassos and Toueg, Sam},
+    title = {The Weakest Failure Detector for Solving Consensus},
+    year = {1996},
+    issue_date = {July 1996},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {43},
+    number = {4},
+    issn = {0004-5411},
+    url = {https://doi.org/10.1145/234533.234549},
+    doi = {10.1145/234533.234549},
+    journal = {J. ACM},
+    month = jul,
+    pages = {685-722},
+    numpages = {38},
+    keywords = {message passing, processor failures, crash failures, Byzantine Generals problem, partial synchrony, asynchronous systems, failure detection, commit problem, agreement problem, fault-tolerance, atomic broadcast, consensus problem}
+}
+```  
+
+
+```
 @inproceedings{Chandra07,
 author = {Chandra, Tushar D. and Griesemer, Robert and Redstone, Joshua},
 title = {Paxos Made Live: An Engineering Perspective},
@@ -733,6 +833,29 @@ publisher = {ACM},
 
 
 ### cho
+
+```
+@article{Chockler01,
+author = {Chockler, Gregory V. and Keidar, Idit and Vitenberg, Roman},
+title = {Group Communication Specifications: A Comprehensive Study},
+year = {2001},
+issue_date = {December 2001},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {33},
+number = {4},
+issn = {0360-0300},
+url = {https://doi.org/10.1145/503112.503113},
+doi = {10.1145/503112.503113},
+journal = {ACM Comput. Surv.},
+month = dec,
+pages = {427–469},
+numpages = {43},
+keywords = {partitionable group membership, Group communication systems, specifications of group communication systems, process group membership, virtual synchrony, view synchrony}
+}
+```
+
+
 ```
 @inproceedings{Chow14,
  author = {Chow, Michael and Meisner, David and Flinn, Jason and Peek, Daniel and Wenisch, Thomas F.},
@@ -1001,7 +1124,7 @@ publisher = {ACM},
 
 ## E
 
-
+### emm
 
 ~~~
 @InProceedings{Emmi18,
@@ -1044,6 +1167,27 @@ isbn="978-3-319-96145-3"
 } 
 ```
 
+
+### eng
+
+```
+@InProceedings{Englert09,
+    author="Englert, Burkhard
+    and Georgiou, Chryssis
+    and Musial, Peter M.
+    and Nicolaou, Nicolas
+    and Shvartsman, Alexander A.",
+    editor="Abdelzaher, Tarek
+    and Raynal, Michel
+    and Santoro, Nicola",
+    title="On the Efficiency of Atomic Multi-reader, Multi-writer Distributed Memory",
+    booktitle="Principles of Distributed Systems",
+    year="2009",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    pages="240--254",
+}
+```
 
 
 ## F
@@ -1139,6 +1283,29 @@ address = {New York, NY, USA},
 ```
 
 
+### fre
+
+```
+@article{Freiling11,
+    author = {Freiling, Felix C. and Guerraoui, Rachid and Kuznetsov, Petr},
+    title = {The Failure Detector Abstraction},
+    year = {2011},
+    issue_date = {January 2011},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {43},
+    number = {2},
+    issn = {0360-0300},
+    url = {https://doi.org/10.1145/1883612.1883616},
+    doi = {10.1145/1883612.1883616},
+    journal = {ACM Comput. Surv.},
+    month = feb,
+    articleno = {9},
+    numpages = {40},
+    keywords = {atomic commit, liveness, synchrony, safety, agreement problem, fault tolerance, message passing, consensus, Distributed system}
+}
+```
+
 
 ## G
 
@@ -1232,6 +1399,23 @@ address = {New York, NY, USA},
  }
 ```
 
+
+### geo
+
+```
+@article{Georgiou09,
+    title = "Fault-tolerant semifast implementations of atomic read/write registers",
+    journal = "Journal of Parallel and Distributed Computing",
+    volume = "69",
+    number = "1",
+    pages = "62 - 79",
+    year = "2009",
+    issn = "0743-7315",
+    doi = "https://doi.org/10.1016/j.jpdc.2008.05.004",
+    url = "http://www.sciencedirect.com/science/article/pii/S0743731508001007",
+    author = "Chryssis Georgiou and Nicolas C. Nicolaou and Alexander A. Shvartsman",
+}
+```
 
 
 ### gib
@@ -1862,6 +2046,26 @@ publisher = {IEEE},
  publisher = {ACM},
  address = {New York, NY, USA},
  keywords = {clocks, computer architecture, distributed systems, non-volatile main memories, non-volatile memories, parallel architectures, persistent memories, scale-up architectures, storage architectures, vector clocks},
+}
+```
+
+
+### kri
+
+```
+@InProceedings{Krishna20,
+author="Krishna, Siddharth
+and Emmi, Michael
+and Enea, Constantin
+and Jovanovi{\'{c}}, Dejan",
+editor="M{\"u}ller, Peter",
+title="Verifying Visibility-Based Weak Consistency",
+booktitle="Programming Languages and Systems",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="280--307",
+isbn="978-3-030-44914-8"
 }
 ```
 
@@ -2580,6 +2784,25 @@ address = {New York, NY, USA},
 ​     load, percolation theory, quorum systems},
 } 
 ```
+
+### nar
+
+```
+@InProceedings{Nargar19,
+author="Nagar, Kartik
+and Jagannathan, Suresh",
+editor="Dillig, Isil
+and Tasiran, Serdar",
+title="Automated Parameterized Verification of CRDTs",
+booktitle="Computer Aided Verification",
+year="2019",
+publisher="Springer International Publishing",
+address="Cham",
+pages="459--477",
+isbn="978-3-030-25543-5"
+}
+```
+
 
 ## O
 
@@ -3381,6 +3604,25 @@ keywords = {MinBFT, Hybrid protocols, Fault-tolerance, Coq, Monad, Byzantine fau
  }
 ```
 
+### zen
+
+```
+@InProceedings{Zennou19,
+author="Zennou, Rachid
+and Bouajjani, Ahmed
+and Enea, Constantin
+and Erradi, Mohammed",
+editor="Dillig, Isil
+and Tasiran, Serdar",
+title="Gradual Consistency Checking",
+booktitle="Computer Aided Verification",
+year="2019",
+publisher="Springer International Publishing",
+address="Cham",
+pages="267--285",
+isbn="978-3-030-25543-5"
+}
+```
 
 
 ### zha
