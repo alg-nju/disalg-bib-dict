@@ -570,20 +570,6 @@ url="https://doi.org/10.1007/PL00008933"
 ```
 
 
-### bos
-
-```
-@book{Bost10,
-editor = {Charron-Bost, Bernadette and Pedone, Fernando and Schiper, Andr\'{e}},
-title = {Replication: Theory and Practice},
-year = {2010},
-isbn = {3642112935},
-publisher = {Springer-Verlag},
-address = {Berlin, Heidelberg}
-}
-```
-
-
 ### bra
 
 ```
@@ -869,7 +855,6 @@ publisher = {ACM},
 ```
 
 
-
 ```
 @article{Chang08,
 author = {Chang, Fay and Dean, Jeffrey and Ghemawat, Sanjay and 
@@ -886,6 +871,17 @@ pages = {4:1--4:26},
 articleno = {4},
 url = {http://doi.acm.org/10.1145/1365815.1365816},
 publisher = {ACM},
+}
+```
+
+```
+@book{Charron10,
+editor = {Charron-Bost, Bernadette and Pedone, Fernando and Schiper, Andr\'{e}},
+title = {Replication: Theory and Practice},
+year = {2010},
+isbn = {3642112935},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg}
 }
 ```
 
