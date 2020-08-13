@@ -116,6 +116,20 @@ publisher = {IEEE Computer Society},
 ```
 
 
+```
+@article{Aguilera16,
+  author    = {Marcos K. Aguilera and
+               Douglas B. Terry},
+  title     = {The Many Faces of Consistency},
+  journal   = {{IEEE} Data Eng. Bull.},
+  volume    = {39},
+  number    = {1},
+  pages     = {3--13},
+  year      = {2016},
+}
+```
+
+
 ### ala
 
 ```
@@ -378,6 +392,26 @@ url = {https://www.microsoft.com/en-us/research/publication/
     corfu-a-shared-log-design-for-flash-clusters/},
 edition = {9th USENIX Symposium on Networked Systems 
     Design and Implementation (NSDI '12)},
+}
+```
+
+
+### baq
+
+```
+@InProceedings{Baquero14,
+author="Baquero, Carlos
+and Almeida, Paulo S{\'e}rgio
+and Shoker, Ali",
+editor="Magoutis, Kostas
+and Pietzuch, Peter",
+title="Making Operation-Based CRDTs Operation-Based",
+booktitle="Distributed Applications and Interoperable Systems",
+year="2014",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="126--140",
+isbn="978-3-662-43352-2"
 }
 ```
 
@@ -656,7 +690,7 @@ publisher = {USENIX},
 } 
 ```
 
-
+```
 @article{Burckhardt14-book,
 author = {Burckhardt, Sebastian},
 title = {Principles of Eventual Consistency},
@@ -674,7 +708,7 @@ month = oct,
 pages = {1–150},
 numpages = {150}
 }
-
+```
 
 ```
 @article{Burns93,
@@ -727,6 +761,30 @@ publisher = {Springer Publishing Company, Incorporated},
 edition = {2nd}
 }
 ```
+
+
+### cer
+
+```
+@article{Cerone18,
+author = {Cerone, Andrea and Gotsman, Alexey},
+title = {Analysing Snapshot Isolation},
+year = {2018},
+issue_date = {March 2018},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {65},
+number = {2},
+issn = {0004-5411},
+url = {https://doi.org/10.1145/3152396},
+doi = {10.1145/3152396},
+journal = {J. ACM},
+month = jan,
+articleno = {11},
+numpages = {41},
+keywords = {transaction chopping, Distributed computing models, robustness, snapshot isolation}
+}
+```  
 
 
 ### cha
@@ -948,6 +1006,8 @@ publisher = {USENIX},
 
 ## D
 
+### dan
+
 ```
 @inproceedings{Dang19,
 author = {Dang, Hung and Dinh, Tien Tuan Anh and Loghin, Dumitrel and Chang, Ee-Chien and Lin, Qian and Ooi, Beng Chin},
@@ -1092,6 +1152,28 @@ publisher = {ACM},
 } 
 ```
 
+
+### du
+
+
+```
+@inproceedings{Du14,
+author = {Du, Jiaqing and Iorgulescu, C\u{a}lin and Roy, Amitabha and Zwaenepoel, Willy},
+title = {GentleRain: Cheap and Scalable Causal Consistency with Physical Clocks},
+year = {2014},
+isbn = {9781450332521},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/2670979.2670983},
+doi = {10.1145/2670979.2670983},
+booktitle = {Proceedings of the ACM Symposium on Cloud Computing},
+pages = {1–13},
+numpages = {13},
+keywords = {Geo-replication, Distributed Consistency, Key Value Stores, Causal Consistency},
+location = {Seattle, WA, USA},
+series = {SOCC'14}
+}
+```
 
 
 ### dut
@@ -1828,6 +1910,27 @@ keywords = {wireless ad hoc network., Data dissemination and sharing, cache cons
 ```
 
 
+```
+@inproceedings{Huang20,
+author = {Huang, Kaile and Huang, Yu and Wei, Hengfeng},
+title = {Fine-Grained Analysis on Fast Implementations of Distributed Multi-Writer Atomic Registers},
+year = {2020},
+isbn = {9781450375825},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3382734.3405698},
+doi = {10.1145/3382734.3405698},
+booktitle = {Proceedings of the 39th Symposium on Principles of Distributed Computing},
+pages = {200–209},
+numpages = {10},
+keywords = {fast implementation, impossibility result, atomicity, chain argument},
+location = {Virtual Event, Italy},
+series = {PODC'20}
+}
+  
+
+```
+
 
 ### hun
 
@@ -2198,6 +2301,26 @@ journal = {ACM SIGACT News (Distributed Computing Column) 32, 4 (Whole Number 12
 }
 ```
 
+
+```
+@article{Lamport10,
+author = {Lamport, Leslie and Malkhi, Dahlia and Zhou, Lidong},
+title = {Reconfiguring a State Machine},
+year = {2010},
+issue_date = {March 2010},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {41},
+number = {1},
+issn = {0163-5700},
+url = {https://doi.org/10.1145/1753171.1753191},
+doi = {10.1145/1753171.1753191},
+journal = {SIGACT News},
+month = mar,
+pages = {63–73},
+numpages = {11}
+}
+```  
 
 
 ```
@@ -2659,6 +2782,31 @@ series = {HASP ’13}
 ```
 
 
+### mer
+
+```
+@article{Merritt93,
+author = {Merritt, Michael and Taubenfeld, Gadi},
+title = {Knowledge in Shared Memory Systems},
+year = {1993},
+issue_date = {December 1993},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg},
+volume = {7},
+number = {2},
+issn = {0178-2770},
+url = {https://doi.org/10.1007/BF02280839},
+doi = {10.1007/BF02280839},
+journal = {Distrib. Comput.},
+month = dec,
+pages = {99–109},
+numpages = {11},
+keywords = {wakeup, agreement, renaming, impossibility, knowledge, consensus, shared memory, lower bounds, fault-tolerance}
+}
+  
+
+```
+
 
 ### mic
 
@@ -2854,6 +3002,27 @@ isbn="978-3-030-25543-5"
 ```
 
 
+```
+@article{Ozkan19,
+author = {Ozkan, Burcu Kulahcioglu and Majumdar, Rupak and Oraee, Simin},
+title = {Trace Aware Random Testing for Distributed Systems},
+year = {2019},
+issue_date = {October 2019},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {3},
+number = {OOPSLA},
+url = {https://doi.org/10.1145/3360606},
+doi = {10.1145/3360606},
+journal = {Proc. ACM Program. Lang.},
+month = oct,
+articleno = {180},
+numpages = {29},
+keywords = {hitting families, distributed systems, random testing, partial order reduction}
+}
+```  
+
+
 ## P
 
 ### par
@@ -3010,6 +3179,31 @@ isbn="978-3-642-04420-5"
 }
 ```
 
+
+### sak
+
+```
+@article{Saks00,
+author = {Saks, Michael and Zaharoglou, Fotios},
+title = {Wait-Free k-Set Agreement is Impossible: The Topology of Public Knowledge},
+year = {2000},
+issue_date = {March 2000},
+publisher = {Society for Industrial and Applied Mathematics},
+address = {USA},
+volume = {29},
+number = {5},
+issn = {0097-5397},
+url = {https://doi.org/10.1137/S0097539796307698},
+doi = {10.1137/S0097539796307698},
+journal = {SIAM J. Comput.},
+month = mar,
+pages = {1449–1483},
+numpages = {35},
+keywords = {Sperner's lemma, wait-free, consensus, distributed computing}
+}
+  
+
+```
 
 
 ### sch
