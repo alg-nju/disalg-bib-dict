@@ -589,23 +589,33 @@ journal = {IEEE Data Eng. Bull.}
 
 ```
 @inproceedings{Brewer00,
- author = {Brewer, Eric A.},
- title = {Towards Robust Distributed Systems (Abstract)},
- booktitle = {Proceedings of the Nineteenth Annual ACM Symposium on 
-     Principles of Distributed Computing},
- series = {PODC'00},
- year = {2000},
- isbn = {1-58113-183-6},
- location = {Portland, Oregon, USA},
- pages = {7--},
- url = {http://doi.acm.org/10.1145/343477.343502},
- doi = {10.1145/343477.343502},
- acmid = {343502},
- publisher = {ACM},
- address = {New York, NY, USA},
+author = {Brewer, Eric A.},
+title = {Towards Robust Distributed Systems (Abstract)},
+year = {2000},
+isbn = {1581131836},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/343477.343502},
+doi = {10.1145/343477.343502},
+booktitle = {Proceedings of the Nineteenth Annual ACM Symposium on Principles of Distributed Computing},
+pages = {7},
+numpages = {1},
+location = {Portland, Oregon, USA},
+series = {PODC'00}
 }
 ```
 
+```
+@ARTICLE{Brewer12,  
+author={E. {Brewer}}, 
+journal={Computer},   
+title={CAP twelve years later: How the "rules" have changed},   
+year={2012},  
+volume={45},  
+number={2},  
+pages={23-29},
+}
+```
 
 
 ### bro
@@ -928,6 +938,24 @@ keywords = {partitionable group membership, Group communication systems, specifi
 }
 ```
 
+
+### cir
+
+@InProceedings{Cirisci20,
+author="{\c{C}}irisci, Berk
+and Enea, Constantin
+and Farzan, Azadeh
+and Mutluergil, Suha Orhun",
+editor="Lahiri, Shuvendu K.
+and Wang, Chao",
+title="Root Causing Linearizability Violations",
+booktitle="Computer Aided Verification",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="350--375",
+isbn="978-3-030-53288-8"
+}
 
 
 ### coo
@@ -2903,6 +2931,24 @@ address = {New York, NY, USA},
 
 
 ## N
+
+### nag
+
+@InProceedings{Nagar20,
+author="Nagar, Kartik
+and Mukherjee, Prasita
+and Jagannathan, Suresh",
+editor="Lahiri, Shuvendu K.
+and Wang, Chao",
+title="Semantics, Specification, and Bounded Verification of Concurrent Libraries in Replicated Systems",
+booktitle="Computer Aided Verification",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="251--274",
+isbn="978-3-030-53288-8"
+}
+
 
 ### nao
 
