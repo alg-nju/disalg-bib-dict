@@ -3716,6 +3716,22 @@ keywords = {MinBFT, Hybrid protocols, Fault-tolerance, Coq, Monad, Byzantine fau
 } 
 ```
 
+
+### wu
+
+```
+@INPROCEEDINGS{Wu18,  
+author={C. {Wu} and J. {Faleiro} and Y. {Lin} and J. {Hellerstein}},
+booktitle={2018 IEEE 34th International Conference on Data Engineering (ICDE)},   
+title={Anna: A KVS for Any Scale},  
+year={2018},  
+volume={},  
+number={},  
+pages={401-412},
+}
+```
+
+
 ## X
 
 ### xia
