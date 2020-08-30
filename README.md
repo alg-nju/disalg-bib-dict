@@ -357,6 +357,28 @@ publisher = {ACM},
 
 ## B
 
+### bai
+
+```
+@article{Bailis14,
+author = {Bailis, Peter and Fekete, Alan and Franklin, Michael J. and Ghodsi, Ali and Hellerstein, Joseph M. and Stoica, Ion},
+title = {Coordination Avoidance in Database Systems},
+year = {2014},
+issue_date = {November 2014},
+publisher = {VLDB Endowment},
+volume = {8},
+number = {3},
+issn = {2150-8097},
+url = {https://doi.org/10.14778/2735508.2735509},
+doi = {10.14778/2735508.2735509},
+journal = {Proc. VLDB Endow.},
+month = nov,
+pages = {185–196},
+numpages = {12}
+}
+```
+
+
 ### bak
 
 ```
