@@ -178,6 +178,23 @@ publisher = {{USENIX} Association},
 ### alv
 
 ```
+@inproceedings{Alvaro11,
+  author    = {Peter Alvaro and
+               Neil Conway and
+               Joseph M. Hellerstein and
+               William R. Marczak},
+  title     = {Consistency Analysis in Bloom: a {CALM} and Collected Approach},
+  booktitle = {{CIDR} 2011, Fifth Biennial Conference on Innovative Data Systems
+               Research, Asilomar, CA, USA, January 9-12, 2011, Online Proceedings},
+  pages     = {249--260},
+  publisher = {www.cidrdb.org},
+  year      = {2011},
+  url       = {http://cidrdb.org/cidr2011/Papers/CIDR11\_Paper35.pdf},
+  timestamp = {Thu, 12 Mar 2020 11:32:38 +0100},
+}
+```
+
+```
  @inproceedings{Alvaro13,
  author = {Alvaro, Peter and Bailis, Peter and Conway, Neil and 
      Hellerstein, Joseph M.},
