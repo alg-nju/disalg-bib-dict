@@ -377,7 +377,43 @@ publisher = {ACM},
 ### bai
 
 ```
-@article{Bailis14,
+@article{Bailis12,
+author = {Bailis, Peter and Venkataraman, Shivaram and Franklin, Michael J. and Hellerstein, Joseph M. and Stoica, Ion},
+title = {Probabilistically Bounded Staleness for Practical Partial Quorums},
+year = {2012},
+issue_date = {April 2012},
+publisher = {VLDB Endowment},
+volume = {5},
+number = {8},
+issn = {2150-8097},
+url = {https://doi.org/10.14778/2212351.2212359},
+doi = {10.14778/2212351.2212359},
+journal = {Proc. VLDB Endow.},
+month = apr,
+pages = {776–787},
+numpages = {12}
+}
+```
+
+```
+@article{Bailis14-vldbj,
+  author    = {Peter Bailis and
+               Shivaram Venkataraman and
+               Michael J. Franklin and
+               Joseph M. Hellerstein and
+               Ion Stoica},
+  title     = {Quantifying eventual consistency with {PBS}},
+  journal   = {{VLDB} J.},
+  volume    = {23},
+  number    = {2},
+  pages     = {279--302},
+  year      = {2014},
+}
+```
+
+
+```
+@article{Bailis14-pvldb,
 author = {Bailis, Peter and Fekete, Alan and Franklin, Michael J. and Ghodsi, Ali and Hellerstein, Joseph M. and Stoica, Ion},
 title = {Coordination Avoidance in Database Systems},
 year = {2014},
@@ -582,6 +618,22 @@ month = oct,
 articleno = {Article 165},
 numpages = {28},
 keywords = {transactional databases, testing, consistency, axiomatic specifications}
+}
+```
+
+
+### bit
+
+```
+@inproceedings {Bittman19,
+author = {Daniel Bittman and Ethan L. Miller and Peter Alvaro},
+title = {Co-evolving Tracing and Fault Injection with Box of Pain},
+booktitle = {11th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 19)},
+year = {2019},
+address = {Renton, WA},
+url = {https://www.usenix.org/conference/hotcloud19/presentation/bittman},
+publisher = {{USENIX} Association},
+month = jul,
 }
 ```
 
@@ -1065,6 +1117,26 @@ publisher = {USENIX},
 }
 ```
 
+### cro
+
+```
+@inproceedings{Crooks17,
+author = {Crooks, Natacha and Pu, Youer and Alvisi, Lorenzo and Clement, Allen},
+title = {Seeing is Believing: A Client-Centric Specification of Database Isolation},
+year = {2017},
+isbn = {9781450349925},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3087801.3087802},
+doi = {10.1145/3087801.3087802},
+booktitle = {Proceedings of the ACM Symposium on Principles of Distributed Computing},
+pages = {73–82},
+numpages = {10},
+keywords = {cloud storage, distributed storage, isolation, concurrency control, distributed systems, weak consistency, acid, consistency, database, serializability, eventual consistency, transactions},
+location = {Washington, DC, USA},
+series = {PODC'17}
+}
+```
 
 
 ## D
@@ -2036,6 +2108,31 @@ isbn="978-3-662-43951-7"
 ```
 
 
+### jah
+
+```
+@article{Jhala09,
+author = {Jhala, Ranjit and Majumdar, Rupak},
+title = {Software Model Checking},
+year = {2009},
+issue_date = {October 2009},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {41},
+number = {4},
+issn = {0360-0300},
+url = {https://doi.org/10.1145/1592434.1592438},
+doi = {10.1145/1592434.1592438},
+abstract = {We survey recent progress in software model checking.},
+journal = {ACM Comput. Surv.},
+month = oct,
+articleno = {21},
+numpages = {54},
+keywords = {liveness, Software model checking, enumerative and symbolic model checking, counterexample-guided refinement, abstraction, safety}
+}
+```
+
+
 ### jai
 
 ```
@@ -2545,6 +2642,23 @@ numpages = {11}
 
 
 ### liu
+
+```
+@inproceedings{Liu08,
+author = {Liu, Xuezheng and Guo, Zhenyu and Wang, Xi and Chen, Feibo and Lian, Xiaochen and Tang, Jian and Wu, Ming and Kaashoek, M. Frans and Zhang, Zheng},
+title = {D<sup>3</sup>S: Debugging Deployed Distributed Systems},
+year = {2008},
+isbn = {1119995555221},
+publisher = {USENIX Association},
+address = {USA},
+booktitle = {Proceedings of the 5th USENIX Symposium on Networked Systems Design and Implementation},
+pages = {423–437},
+numpages = {15},
+location = {San Francisco, California},
+series = {NSDI'08}
+}
+```
+
 
 ```
 @article{Liu17,
@@ -3814,6 +3928,17 @@ pages={401-412},
 }
 ```
 
+```
+@InProceedings{Yang09,
+author = {Yang, Junfeng and Chen, Tisheng and Wu, Ming and Xu, Zhilei and Liu, Xuezheng and Lin, Haoxiang and Yang, Mao and Long, Fan and Zhang, Lintao and Zhou, Lidong},
+title = {MODIST: Transparent Model Checking of Unmodified Distributed Systems},
+booktitle = {NSDI'09},
+year = {2009},
+month = {April},
+publisher = {USENIX},
+pages = {213-228},
+}
+```
 
 
 ### yu
