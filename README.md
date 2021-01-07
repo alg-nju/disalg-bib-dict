@@ -174,6 +174,41 @@ publisher = {{USENIX} Association},
 ```
 
 
+### alf
+
+```
+@inproceedings {Alfatafta20,
+author = {Mohammed Alfatafta and Basil Alkhatib and Ahmed Alquraan and Samer Al-Kiswany},
+title = {Toward a Generic Fault Tolerance Technique for Partial Network Partitioning},
+booktitle = {14th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 20)},
+year = {2020},
+isbn = {978-1-939133-19-9},
+pages = {351--368},
+url = {https://www.usenix.org/conference/osdi20/presentation/alfatafta},
+publisher = {{USENIX} Association},
+month = nov,
+}
+```
+
+
+### alq
+
+```
+@inproceedings{10.5555/3291168.3291173,
+author = {Alquraan, Ahmed and Takruri, Hatem and Alfatafta, Mohammed and Al-Kiswany, Samer},
+title = {An Analysis of Network-Partitioning Failures in Cloud Systems},
+year = {2018},
+isbn = {9781931971478},
+publisher = {USENIX Association},
+address = {USA},
+booktitle = {Proceedings of the 13th USENIX Conference on Operating Systems Design and Implementation},
+pages = {51-68},
+numpages = {18},
+location = {Carlsbad, CA, USA},
+series = {OSDI'18}
+}
+```
+
 
 ### alv
 
@@ -262,6 +297,24 @@ publisher = {{USENIX} Association},
  publisher = {ACM},
  address = {New York, NY, USA},
 } 
+```
+
+
+### ana
+
+```
+@article{Anand13,
+title = "An orchestrated survey of methodologies for automated software test case generation",
+journal = "Journal of Systems and Software",
+volume = "86",
+number = "8",
+pages = "1978 - 2001",
+year = "2013",
+issn = "0164-1212",
+doi = "https://doi.org/10.1016/j.jss.2013.02.061",
+url = "http://www.sciencedirect.com/science/article/pii/S0164121213000563",
+author = "Saswat Anand and Edmund K. Burke and Tsong Yueh Chen and John Clark and Myra B. Cohen and Wolfgang Grieskamp and Mark Harman and Mary Jean Harrold and Phil McMinn and Antonia Bertolino and J. {Jenny Li} and Hong Zhu",
+}
 ```
 
 
@@ -394,6 +447,27 @@ pages = {776–787},
 numpages = {12}
 }
 ```
+
+
+```
+@article{Bailis13,
+author = {Bailis, Peter and Davidson, Aaron and Fekete, Alan and Ghodsi, Ali and Hellerstein, Joseph M. and Stoica, Ion},
+title = {Highly Available Transactions: Virtues and Limitations},
+year = {2013},
+issue_date = {November 2013},
+publisher = {VLDB Endowment},
+volume = {7},
+number = {3},
+issn = {2150-8097},
+url = {https://doi.org/10.14778/2732232.2732237},
+doi = {10.14778/2732232.2732237},
+journal = {Proc. VLDB Endow.},
+month = nov,
+pages = {181-192},
+numpages = {12}
+}
+```
+
 
 ```
 @article{Bailis14-vldbj,
@@ -849,6 +923,18 @@ edition = {2nd}
 }
 ```
 
+### cao
+
+```
+@article{Cao20,
+author = {Chun Cao and Xiaoxing Ma},
+title = {面向人机物融合应用的场景计算机},
+year = {2020},
+volume = {16},
+number = {4},
+journal = {中国计算机学会通讯},
+}
+```
 
 ### cer
 
@@ -1159,6 +1245,28 @@ numpages = {18},
 keywords = {blockchain, sharding, distributed transactions},
 location = {Amsterdam, Netherlands},
 series = {SIGMOD'19}
+}
+```
+
+
+### dav
+
+```
+@article{Davis20,
+    author = {Davis, A. Jesse Jiryu and Hirschhorn, Max and Schvimer, Judah},
+    title = {Extreme Modelling in Practice},
+    journal = {Proc. VLDB Endow.},
+    year = {2020},
+    issue_date = {May 2020},
+    publisher = {VLDB Endowment},
+    volume = {13},
+    number = {9},
+    pages = {1346-1358},
+    issn = {2150-8097},
+    url = {https://doi.org/10.14778/3397230.3397233},
+    doi = {10.14778/3397230.3397233},
+    month = {May},
+    numpages = {13}
 }
 ```
 
@@ -1831,6 +1939,30 @@ publisher = {{USENIX} Association},
 
 ## H
 
+### hal
+
+```
+@article{Haldar07,
+author = {Haldar, Sibsankar and Vidyasankar, K.},
+title = {On Specification of Read/Write Shared Variables},
+year = {2007},
+issue_date = {December 2007},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {54},
+number = {6},
+issn = {0004-5411},
+url = {https://doi.org/10.1145/1314690.1314695},
+doi = {10.1145/1314690.1314695},
+journal = {J. ACM},
+month = dec,
+pages = {31–es},
+numpages = {19},
+keywords = {axiom, partial order, multiprocessor, nonatomic operation execution, framework, linear extension, linearization, defining condition, defining relation, system execution, illegality, causality, consistency, shared variable, Atomicity}
+}
+```
+
+
 ### haw
 
 ```
@@ -1952,6 +2084,18 @@ url = {http://dx.doi.org/10.1007/978-3-642-25873-2_22 },
 
 
 ### how
+
+```
+@inproceedings{Howard03,
+       booktitle = {UK Software Testing Research II (03/09/03)},
+       title = {Model-Based Trace-Checking},
+        author = {Yvonne Howard and Stefan Gruner and Andrew M Gravell and Carla Ferreira and Juan-Carlos Augusto},
+        year = {2003},
+        note = {Event Dates: 4/9/2003},
+        url = {https://eprints.soton.ac.uk/259101/},
+}
+```
+
 
 ```
 @InProceedings{Howard17,
@@ -2946,6 +3090,15 @@ series = {HASP ’13}
 
 ### mei
 
+@book{Mei16,
+ author = {Hong Mei and Jian Lu},
+ title = {Internetware - A New Software Paradigm for Internet Computing},
+ year = {2016},
+ isbn = {978-981-10-2546-4},
+ publisher = {Springer Singapore},
+ address = {Singapore},
+}
+
 ```
 @inproceedings{Meiklejohn17,
  author = {Christopher S. Meiklejohn},
@@ -3143,6 +3296,52 @@ publisher="Springer International Publishing",
 address="Cham",
 pages="459--477",
 isbn="978-3-030-25543-5"
+}
+```
+
+### nee
+
+```
+@article{Neema19,
+author = {Neema, Sandeep and Parikh, Rinku and Jagannathan, Suresh},
+title = {Building Resource Adaptive Software Systems},
+year = {2019},
+issue_date = {March 2019},
+publisher = {IEEE Computer Society Press},
+address = {Washington, DC, USA},
+volume = {36},
+number = {2},
+issn = {0740-7459},
+url = {https://doi.org/10.1109/MS.2018.2886831},
+doi = {10.1109/MS.2018.2886831},
+journal = {IEEE Softw.},
+month = mar,
+pages = {103–109},
+numpages = {7}
+}
+```
+
+
+### new
+
+```
+@article{Newcombe15,
+author = {Newcombe, Chris and Rath, Tim and Zhang, Fan and Munteanu, Bogdan and Brooker, Marc and Deardeuff, Michael},
+title = {How Amazon Web Services Uses Formal Methods},
+year = {2015},
+issue_date = {April 2015},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {58},
+number = {4},
+issn = {0001-0782},
+url = {https://doi.org/10.1145/2699417},
+doi = {10.1145/2699417},
+abstract = {Engineers use TLA+ to prevent serious but subtle bugs from reaching production.},
+journal = {Commun. ACM},
+month = mar,
+pages = {66–73},
+numpages = {8}
 }
 ```
 
@@ -3612,6 +3811,20 @@ publisher = {{USENIX} Association},
 }
 ```
 
+
+```
+@inproceedings {Tang20,
+author = {Chunqiang Tang and Kenny Yu and Kaushik Veeraraghavan and Jonathan Kaldor and Scott Michelson and Thawan Kooburat and Aravind Anbudurai and Matthew Clark and Kabir Gogia and Long Cheng and Ben Christensen and Alex Gartrell and Maxim Khutornenko and Sachin Kulkarni and Marcin Pawlowski and Tuomas Pelkonen and Andre Rodrigues and Rounak Tibrewal and Vaishnavi Venkatesan and Peter Zhang},
+title = {Twine: A Unified Cluster Management System for Shared Infrastructure},
+booktitle = {14th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 20)},
+year = {2020},
+isbn = {978-1-939133-19-9},
+pages = {787--803},
+url = {https://www.usenix.org/conference/osdi20/presentation/tang},
+publisher = {{USENIX} Association},
+month = nov,
+}
+```
 
 
 ### ter
