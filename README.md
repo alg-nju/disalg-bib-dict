@@ -4,7 +4,7 @@ A dictionary of bibs, mainly on distributed algorithm design and implementation.
 
 
 
-## A 
+## A
 
 ### aba
 
@@ -1856,6 +1856,27 @@ publisher = {ACM},
 }
 ```
 
+### gom
+
+```
+@article{Gomes17,
+author = {Gomes, Victor B. F. and Kleppmann, Martin and Mulligan, Dominic P. and Beresford, Alastair R.},
+title = {Verifying Strong Eventual Consistency in Distributed Systems},
+year = {2017},
+issue_date = {October 2017},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {1},
+number = {OOPSLA},
+url = {https://doi.org/10.1145/3133933},
+doi = {10.1145/3133933},
+journal = {Proc. ACM Program. Lang.},
+month = oct,
+articleno = {109},
+numpages = {28},
+keywords = {replication, CRDTs, distributed systems, verification, convergence, strong eventual consistency, automated theorem proving}
+}
+```
 
 
 ### got
@@ -2998,6 +3019,27 @@ author = "Nancy Lynch and Frits Vaandrager",
 ```
 
 
+### mai
+
+```
+@article{Maiyya19,
+author = {Maiyya, Sujaya and Nawab, Faisal and Agrawal, Divyakant and Abbadi, Amr El},
+title = {Unifying Consensus and Atomic Commitment for Effective Cloud Data Management},
+year = {2019},
+issue_date = {January 2019},
+publisher = {VLDB Endowment},
+volume = {12},
+number = {5},
+issn = {2150-8097},
+url = {https://doi.org/10.14778/3303753.3303765},
+doi = {10.14778/3303753.3303765},
+journal = {Proc. VLDB Endow.},
+month = jan,
+pages = {611–623},
+numpages = {13}
+}
+```
+
 ### mal
 
 ```
@@ -3024,6 +3066,17 @@ author = "Nancy Lynch and Frits Vaandrager",
 } 
 ```
 
+
+```
+@book{Malkhi19,
+editor = {Malkhi, Dahlia},
+title = {Concurrency: The Works of Leslie Lamport},
+year = {2019},
+isbn = {9781450372701},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+}
+```
 
 
 ### mac
@@ -3348,6 +3401,27 @@ numpages = {8}
 
 ## O
 
+### oki
+
+```
+@inproceedings{Oki88,
+author = {Oki, Brian M. and Liskov, Barbara H.},
+title = {Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems},
+year = {1988},
+isbn = {0897912772},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/62546.62549},
+doi = {10.1145/62546.62549},
+booktitle = {Proceedings of the Seventh Annual ACM Symposium on Principles of Distributed Computing},
+pages = {8–17},
+numpages = {10},
+location = {Toronto, Ontario, Canada},
+series = {PODC '88}
+}
+```
+
+
 ### ong
 
 ```
@@ -3499,6 +3573,20 @@ url="https://doi.org/10.1007/s004460050027"
   year={2004}
 }
 ```
+
+```
+@article{Renesse15,  
+  author={R. {van Renesse} and N. {Schiper} and F. B. {Schneider}},  
+  journal={IEEE Transactions on Dependable and Secure Computing},
+  title={Vive La Différence: Paxos vs. Viewstamped Replication vs. Zab},
+  year={2015},
+  volume={12},
+  number={4},
+  pages={472-484},
+  doi={10.1109/TDSC.2014.2355848}
+}
+```
+
 
 ### rey
 
