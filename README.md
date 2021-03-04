@@ -1296,6 +1296,26 @@ series = {SIGMOD'19}
 ### dav
 
 ```
+@article{1Davidson85,
+author = {Davidson, Susan B. and Garcia-Molina, Hector and Skeen, Dale},
+title = {Consistency in a Partitioned Network: A Survey},
+year = {1985},
+issue_date = {Sept. 1985},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {17},
+number = {3},
+issn = {0360-0300},
+url = {https://doi.org/10.1145/5505.5508},
+doi = {10.1145/5505.5508},
+journal = {ACM Comput. Surv.},
+month = sep,
+pages = {341–370},
+numpages = {30}
+}
+```
+
+```
 @article{Davis20,
     author = {Davis, A. Jesse Jiryu and Hirschhorn, Max and Schvimer, Judah},
     title = {Extreme Modelling in Practice},
