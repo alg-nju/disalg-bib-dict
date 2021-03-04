@@ -468,6 +468,26 @@ numpages = {12}
 }
 ```
 
+```
+@article{Bailis14-cacm,
+author = {Bailis, Peter and Kingsbury, Kyle},
+title = {The Network is Reliable},
+year = {2014},
+issue_date = {September 2014},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {57},
+number = {9},
+issn = {0001-0782},
+url = {https://doi.org/10.1145/2643130},
+doi = {10.1145/2643130},
+journal = {Commun. ACM},
+month = sep,
+pages = {48–55},
+numpages = {8}
+}
+```
+
 
 ```
 @article{Bailis14-vldbj,
@@ -935,6 +955,30 @@ number = {4},
 journal = {中国计算机学会通讯},
 }
 ```
+
+### cas
+
+```
+@article{Castro02,
+author = {Castro, Miguel and Liskov, Barbara},
+title = {Practical Byzantine Fault Tolerance and Proactive Recovery},
+year = {2002},
+issue_date = {November 2002},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {20},
+number = {4},
+issn = {0734-2071},
+url = {https://doi.org/10.1145/571637.571640},
+doi = {10.1145/571637.571640},
+journal = {ACM Trans. Comput. Syst.},
+month = nov,
+pages = {398-461},
+numpages = {64},
+keywords = {proactive recovery, Byzantine fault tolerance, state transfer, state machine replication, asynchronous systems}
+}
+```
+
 
 ### cer
 
@@ -1773,6 +1817,26 @@ address = {New York, NY, USA},
 ### gil
 
 ```
+@inproceedings{Gill11,
+author = {Gill, Phillipa and Jain, Navendu and Nagappan, Nachiappan},
+title = {Understanding Network Failures in Data Centers: Measurement, Analysis, and Implications},
+year = {2011},
+isbn = {9781450307970},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/2018436.2018477},
+doi = {10.1145/2018436.2018477},
+booktitle = {Proceedings of the ACM SIGCOMM 2011 Conference},
+pages = {350–361},
+numpages = {12},
+keywords = {network reliability, data centers},
+location = {Toronto, Ontario, Canada},
+series = {SIGCOMM '11}
+}
+```
+
+
+```
 @article{Gilbert12,
 author = {Seth Gilbert and Nancy A. Lynch},
 title = {Perspectives on the CAP Theorem},
@@ -2248,6 +2312,19 @@ publisher = {USENIX},
 }
 ```
 
+
+### hut
+
+```
+@book{Huth04,
+author = {Huth, Michael and Ryan, Mark},
+title = {Logic in Computer Science: Modelling and Reasoning about Systems},
+year = {2004},
+isbn = {052154310X},
+publisher = {Cambridge University Press},
+address = {USA}
+}
+```
 
 
 ## J
@@ -2959,7 +3036,16 @@ author = "N. Lynch and F. Vaandrager",
 }
 ```
 
-
+```
+@book{Lynch96-textbook,
+author = {Lynch, Nancy A.},
+title = {Distributed Algorithms},
+year = {1996},
+isbn = {9780080504704},
+publisher = {Morgan Kaufmann Publishers Inc.},
+address = {San Francisco, CA, USA},
+}
+```
 
 ```
 @article{Lynch96,
@@ -3858,6 +3944,36 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
 ### tan
 
 ```
+@inproceedings {Tan19,
+author = {Cheng Tan and Ze Jin and Chuanxiong Guo and Tianrong Zhang 
+    and Haitao Wu and Karl Deng and Dongming Bi and Dong Xiang},
+title = {NetBouncer: Active Device and Link Failure Localization 
+    in Data Center Networks},
+booktitle = {16th {USENIX} Symposium on Networked Systems 
+    Design and Implementation ({NSDI} 19)},
+year = {2019},
+isbn = {978-1-931971-49-2},
+address = {Boston, MA},
+pages = {599--614},
+url = {https://www.usenix.org/conference/nsdi19/presentation/tan},
+publisher = {{USENIX} Association},
+}
+```
+
+
+```
+@book{Tanenbaum06,
+author = {Tanenbaum, Andrew S. and Steen, Maarten van},
+title = {Distributed Systems: Principles and Paradigms (2nd Edition)},
+year = {2006},
+isbn = {0132392275},
+publisher = {Prentice-Hall, Inc.},
+address = {USA}
+}
+```
+
+
+```
 @inproceedings{Tang15,
  author = {Tang, Haowen and Liu, Fangming and Shen, Guobin and
      Jin, Yuchen and Guo, Chuanxiong},
@@ -3881,23 +3997,6 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
 
 
 
-
-```
-@inproceedings {Tan19,
-author = {Cheng Tan and Ze Jin and Chuanxiong Guo and Tianrong Zhang 
-    and Haitao Wu and Karl Deng and Dongming Bi and Dong Xiang},
-title = {NetBouncer: Active Device and Link Failure Localization 
-    in Data Center Networks},
-booktitle = {16th {USENIX} Symposium on Networked Systems 
-    Design and Implementation ({NSDI} 19)},
-year = {2019},
-isbn = {978-1-931971-49-2},
-address = {Boston, MA},
-pages = {599--614},
-url = {https://www.usenix.org/conference/nsdi19/presentation/tan},
-publisher = {{USENIX} Association},
-}
-```
 
 
 ```
