@@ -3980,6 +3980,19 @@ publisher = {{USENIX} Association},
 }
 ```
 
+```
+@inproceedings {Tan20,
+author = {Cheng Tan and Changgeng Zhao and Shuai Mu and Michael Walfish},
+title = {Cobra: Making Transactional Key-Value Stores Verifiably Serializable},
+booktitle = {14th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 20)},
+year = {2020},
+isbn = {978-1-939133-19-9},
+pages = {63--80},
+url = {https://www.usenix.org/conference/osdi20/presentation/tan},
+publisher = {{USENIX} Association},
+month = nov,
+}
+```
 
 ```
 @book{Tanenbaum06,
