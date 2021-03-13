@@ -450,7 +450,7 @@ numpages = {12}
 
 
 ```
-@article{Bailis13,
+@article{Bailis13-pvldb,
 author = {Bailis, Peter and Davidson, Aaron and Fekete, Alan and Ghodsi, Ali and Hellerstein, Joseph M. and Stoica, Ion},
 title = {Highly Available Transactions: Virtues and Limitations},
 year = {2013},
@@ -465,6 +465,26 @@ journal = {Proc. VLDB Endow.},
 month = nov,
 pages = {181-192},
 numpages = {12}
+}
+```
+
+```
+@article{Bailis13-cacm,
+author = {Bailis, Peter and Venkataraman, Shivaram and Franklin, Michael J. and Hellerstein, Joseph M. and Stoica, Ion},
+title = {Quantifying Eventual Consistency with PBS},
+year = {2014},
+issue_date = {August 2014},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {57},
+number = {8},
+issn = {0001-0782},
+url = {https://doi.org/10.1145/2632792},
+doi = {10.1145/2632792},
+journal = {Commun. ACM},
+month = aug,
+pages = {93–102},
+numpages = {10}
 }
 ```
 
