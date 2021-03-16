@@ -2764,6 +2764,21 @@ numpages = {11}
 }
 ```  
 
+```
+@inproceedings{Lamport11,
+author = {Lamport, Leslie},
+title = {Byzantizing Paxos by Refinement},
+year = {2011},
+isbn = {9783642240997},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg},
+booktitle = {Proceedings of the 25th International Conference on Distributed Computing},
+pages = {211-224},
+numpages = {14},
+location = {Rome, Italy},
+series = {DISC'11}
+}
+```
 
 ```
 @inproceedings{Lampson01,
@@ -4442,6 +4457,25 @@ pages = {213-228},
  keywords = {Conit, consistency model, continuous consistency, 
      network services, relaxed consistency, replication},
 } 
+```
+
+
+### yua
+
+```
+@inproceedings{Yuan14,
+author = {Yuan, Ding and Luo, Yu and Zhuang, Xin and Rodrigues, Guilherme Renna and Zhao, Xu and Zhang, Yongle and Jain, Pranay U. and Stumm, Michael},
+title = {Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems},
+year = {2014},
+isbn = {9781931971164},
+publisher = {USENIX Association},
+address = {USA},
+booktitle = {Proceedings of the 11th USENIX Conference on Operating Systems Design and Implementation},
+pages = {249–265},
+numpages = {17},
+location = {Broomfield, CO},
+series = {OSDI'14}
+}
 ```
 
 
