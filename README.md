@@ -2799,6 +2799,25 @@ series = {DISC'11}
 ```
 
 
+### lap
+
+```
+@inproceedings{Laprie95,
+author = {Laprie, Jean-Claude},
+title = {Dependable Computing: Concepts, Limits, Challenges},
+year = {1995},
+isbn = {0818671467},
+publisher = {IEEE Computer Society},
+address = {USA},
+booktitle = {Proceedings of the Twenty-Fifth International Conference on Fault-Tolerant Computing},
+pages = {42–54},
+numpages = {13},
+location = {Pasadena, California},
+series = {FTCS'95}
+}
+```
+
+
 ### lee
 
 ```
