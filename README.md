@@ -3425,34 +3425,30 @@ address = {New York, NY, USA},
 ```
 
 
-
 ### mus
 
 ```
 @inproceedings{Musuvathi02,
-  author    = {Madanlal Musuvathi and
-               David Y. W. Park and
-               Andy Chou and
-               Dawson R. Engler and
-               David L. Dill},
-  title     = {{CMC:} {A} Pragmatic Approach to Model Checking Real Code},
-  booktitle = {5th Symposium on Operating System Design and Implementation {(OSDI}
-               2002), Boston, Massachusetts, USA, December 9-11, 2002},
-  year      = {2002},
-  url       = {http://www.usenix.org/events/osdi02/tech/musuvathi.html},
-  timestamp = {Wed, 04 Jul 2018 13:06:35 +0200},
- }
+author = {Musuvathi, Madanlal and Park, David Y. W. and Chou, Andy and Engler, Dawson R. and Dill, David L.},
+title = {CMC: A Pragmatic Approach to Model Checking Real Code},
+year = {2002},
+isbn = {9781450301114},
+publisher = {USENIX Association},
+address = {USA},
+booktitle = {Proceedings of the 5th Symposium on Operating Systems Design and Implementation (Copyright Restrictions Prevent ACM from Being Able to Make the PDFs for This Conference Available for Downloading)},
+pages = {75-88},
+numpages = {14},
+location = {Boston, Massachusetts},
+series = {OSDI '02}
+}
 ```
-
-
-
-
 
 
 ## N
 
 ### nag
 
+```
 @InProceedings{Nagar20,
 author="Nagar, Kartik
 and Mukherjee, Prasita
@@ -3467,6 +3463,7 @@ address="Cham",
 pages="251--274",
 isbn="978-3-030-53288-8"
 }
+```
 
 
 ### nao
@@ -4412,6 +4409,21 @@ pages={401-412},
   year      = {2006},
   crossref  = {DBLP:conf/osdi/2006},
   url       = {http://www.usenix.org/events/osdi06/tech/yang\_junfeng.html},
+}
+```
+
+```
+@inproceedings{Yang06,
+author = {Yang, Junfeng and Sar, Can and Engler, Dawson},
+title = {EXPLODE: A Lightweight, General System for Finding Serious Storage System Errors},
+year = {2006},
+publisher = {USENIX Association},
+address = {USA},
+booktitle = {Proceedings of the 7th USENIX Symposium on Operating Systems Design and Implementation - Volume 7},
+pages = {10},
+numpages = {1},
+location = {Seattle, WA},
+series = {OSDI '06}
 }
 ```
 
