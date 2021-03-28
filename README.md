@@ -645,6 +645,25 @@ edition = {3rd}
 ### ber
 
 ```
+@InProceedings{Berezin97,
+author="Berezin, Sergey
+and Campos, S{\'e}rgio
+and Clarke, Edmund M.",
+editor="de Roever, Willem-Paul
+and Langmaack, Hans
+and Pnueli, Amir",
+title="Compositional Reasoning in Model Checking",
+booktitle="Compositionality: The Significant Difference",
+year="1998",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="81--102",
+isbn="978-3-540-49213-9"
+}
+```
+
+
+```
 @phdthesis{Bermbach14,
     title={Benchmarking Eventually Consistent Distributed Storage Systems},
     author={Bermbach, David},
@@ -1182,6 +1201,7 @@ keywords = {partitionable group membership, Group communication systems, specifi
 
 ### cir
 
+```
 @InProceedings{Cirisci20,
 author="{\c{C}}irisci, Berk
 and Enea, Constantin
@@ -1197,6 +1217,22 @@ address="Cham",
 pages="350--375",
 isbn="978-3-030-53288-8"
 }
+```
+
+
+### cla
+
+```
+@INPROCEEDINGS{Clarke89,
+  author={E. M. {Clarke} and D. E. {Long} and K. L. {McMillan}},
+  booktitle={[1989] Proceedings. Fourth Annual Symposium on Logic in Computer Science}, 
+  title={Compositional model checking}, 
+  year={1989},
+  volume={},
+  number={},
+  pages={353-362},
+  doi={10.1109/LICS.1989.39190}}
+```
 
 
 ### coo
