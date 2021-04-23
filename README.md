@@ -2049,6 +2049,21 @@ keywords = {replication, CRDTs, distributed systems, verification, convergence, 
 ### gun
 
 ```
+@inproceedings{Gunawi11,
+author = {Gunawi, Haryadi S. and Do, Thanh and Joshi, Pallavi and Alvaro, Peter and Hellerstein, Joseph M. and Arpaci-Dusseau, Andrea C. and Arpaci-Dusseau, Remzi H. and Sen, Koushik and Borthakur, Dhruba},
+title = {FATE and DESTINI: A Framework for Cloud Recovery Testing},
+year = {2011},
+publisher = {USENIX Association},
+address = {USA},
+booktitle = {Proceedings of the 8th USENIX Conference on Networked Systems Design and Implementation},
+pages = {238–252},
+numpages = {15},
+location = {Boston, MA},
+series = {NSDI'11}
+}
+```
+
+```
 @inproceedings {Gunawi18,
 author = {Haryadi S. Gunawi and Riza O. Suminto and Russell Sears and 
     Casey Golliher and Swaminathan Sundararaman and Xing Lin and 
