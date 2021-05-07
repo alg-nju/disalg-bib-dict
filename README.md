@@ -3011,6 +3011,21 @@ series = {FTCS'95}
 ### liu
 
 ```
+@inproceedings{Liu07,
+author = {Liu, Xuezheng and Lin, Wei and Pan, Aimin and Zhang, Zheng},
+title = {WiDS Checker: Combating Bugs in Distributed Systems},
+year = {2007},
+publisher = {USENIX Association},
+address = {USA},
+booktitle = {Proceedings of the 4th USENIX Conference on Networked Systems Design and Implementation},
+pages = {19},
+numpages = {1},
+location = {Cambridge, MA},
+series = {NSDI'07}
+}
+```
+
+```
 @inproceedings{Liu08,
 author = {Liu, Xuezheng and Guo, Zhenyu and Wang, Xi and Chen, Feibo and Lian, Xiaochen and Tang, Jian and Wu, Ming and Kaashoek, M. Frans and Zhang, Zheng},
 title = {D<sup>3</sup>S: Debugging Deployed Distributed Systems},
