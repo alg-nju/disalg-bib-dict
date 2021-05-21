@@ -3757,6 +3757,25 @@ url="https://doi.org/10.1007/s004460050027"
 ```
 
 
+### pil
+
+```
+@inproceedings{Pillai14,
+author = {Pillai, Thanumalayan Sankaranarayana and Chidambaram, Vijay and Alagappan, Ramnatthan and Al-Kiswany, Samer and Arpaci-Dusseau, Andrea C. and Arpaci-Dusseau, Remzi H.},
+title = {All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications},
+year = {2014},
+isbn = {9781931971164},
+publisher = {USENIX Association},
+address = {USA},
+booktitle = {Proceedings of the 11th USENIX Conference on Operating Systems Design and Implementation},
+pages = {433–448},
+numpages = {16},
+location = {Broomfield, CO},
+series = {OSDI'14}
+}
+```
+
+
 ## R
 
 ### ree
