@@ -180,7 +180,7 @@ publisher = {{USENIX} Association},
 @inproceedings {Alfatafta20,
 author = {Mohammed Alfatafta and Basil Alkhatib and Ahmed Alquraan and Samer Al-Kiswany},
 title = {Toward a Generic Fault Tolerance Technique for Partial Network Partitioning},
-booktitle = {14th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 20)},
+booktitle = {14th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI}'20)},
 year = {2020},
 isbn = {978-1-939133-19-9},
 pages = {351--368},
@@ -794,6 +794,22 @@ url="https://doi.org/10.1007/PL00008933"
 ```
 
 
+### bou
+
+```
+@inproceedings {Boucher20,
+author = {Sol Boucher and Anuj Kalia and David G. Andersen and Michael Kaminsky},
+title = {Lightweight Preemptible Functions},
+booktitle = {2020 {USENIX} Annual Technical Conference ({USENIX} {ATC} 20)},
+year = {2020},
+isbn = {978-1-939133-14-4},
+pages = {465--477},
+url = {https://www.usenix.org/conference/atc20/presentation/boucher},
+publisher = {{USENIX} Association},
+month = jul,
+}
+```
+
 ### bra
 
 ```
@@ -1370,6 +1386,29 @@ pages = {341–370},
 numpages = {30}
 }
 ```
+
+
+@inproceedings{Davis20,
+  author    = {Jennifer A. Davis and
+               Laura R. Humphrey and
+               Derek B. Kingston},
+  editor    = {Isil Dillig and
+               Serdar Tasiran},
+  title     = {When Human Intuition Fails: Using Formal Methods to Find an Error
+               in the "Proof" of a Multi-agent Protocol},
+  booktitle = {Computer Aided Verification - 31st International Conference, {CAV}
+               2019, New York City, NY, USA, July 15-18, 2019, Proceedings, Part
+               {I}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {11561},
+  pages     = {366--375},
+  publisher = {Springer},
+  year      = {2019},
+  url       = {https://doi.org/10.1007/978-3-030-25540-4\_20},
+  doi       = {10.1007/978-3-030-25540-4\_20},
+  timestamp = {Fri, 31 Jan 2020 21:32:18 +0100},
+}
+
 
 ```
 @article{Davis20,
@@ -3367,6 +3406,17 @@ series = {HASP ’13}
 ```
 
 
+###
+
+```
+@techreport{Medeiros12,
+title={ZooKeeper’s atomic broadcast protocol: Theory and practice},
+author={Andre Medeiros},
+year={2012},
+}
+```
+
+
 ### mei
 
 @book{Mei16,
@@ -3715,6 +3765,24 @@ keywords = {hitting families, distributed systems, random testing, partial order
 
 
 ## P
+
+### pai
+
+```
+@inproceedings{Pai99,
+author = {Pai, Vivek S. and Druschel, Peter and Zwaenepoel, Willy},
+title = {Flash: An Efficient and Portable Web Server},
+year = {1999},
+publisher = {USENIX Association},
+address = {USA},
+booktitle = {Proceedings of the Annual Conference on USENIX Annual Technical Conference},
+pages = {15},
+numpages = {1},
+location = {Monterey, California},
+series = {ATC'99}
+}
+```
+
 
 ### par
 
@@ -4298,6 +4366,19 @@ keywords = {MinBFT, Hybrid protocols, Fault-tolerance, Coq, Monad, Byzantine fau
 
 
 ## W
+
+### way
+
+```
+@book{Wayne18,
+    author = {Hillel Wayne},
+    title = {Practical TLA+: Planning Driven Development},
+    year = {2018},
+    isbn = {978-1-4842-3829-5},
+    publisher = {Apress},
+}
+```
+
 
 ### wang
 
