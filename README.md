@@ -129,6 +129,25 @@ publisher = {IEEE Computer Society},
 }
 ```
 
+```
+@inproceedings{Aguilera19,
+author = {Aguilera, Marcos K. and Ben-David, Naama and Guerraoui, Rachid and Marathe, Virendra and Zablotchi, Igor},
+title = {The Impact of RDMA on Agreement},
+year = {2019},
+isbn = {9781450362177},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3293611.3331601},
+doi = {10.1145/3293611.3331601},
+booktitle = {Proceedings of the 2019 ACM Symposium on Principles of Distributed Computing},
+pages = {409-418},
+numpages = {10},
+keywords = {consensus, fault tolerance, byzantine agreement, rdma},
+location = {Toronto ON, Canada},
+series = {PODC '19}
+}
+```
+
 
 ### ala
 
@@ -2084,6 +2103,29 @@ keywords = {replication, CRDTs, distributed systems, verification, convergence, 
 ```
 
 
+### gra
+
+```
+@article{Gray06,
+author = {Gray, Jim and Lamport, Leslie},
+title = {Consensus on Transaction Commit},
+year = {2006},
+issue_date = {March 2006},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {31},
+number = {1},
+issn = {0362-5915},
+url = {https://doi.org/10.1145/1132863.1132867},
+doi = {10.1145/1132863.1132867},
+journal = {ACM Trans. Database Syst.},
+month = mar,
+pages = {133–160},
+numpages = {28},
+keywords = {Consensus, two-phase commit, Paxos}
+}
+```
+
 
 ### gun
 
@@ -2648,6 +2690,16 @@ publisher = {IEEE},
 } 
 ```
 
+
+```
+@book{Knuth97c,
+  title={Stable marriage and its relation to other combinatorial problems: An introduction to the mathematical analysis of algorithms},
+  author={Knuth, Donald Ervin},
+  volume={10},
+  year={1997},
+  publisher={American Mathematical Soc.}
+}
+```
 
 
 ```
