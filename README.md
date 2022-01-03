@@ -816,6 +816,25 @@ url="https://doi.org/10.1007/PL00008933"
 ### bou
 
 ```
+@inproceedings{Bouajjani17,
+    author = {Bouajjani, Ahmed and Enea, Constantin and Guerraoui, Rachid and Hamza, Jad},
+    title = {On Verifying Causal Consistency},
+    year = {2017},
+    isbn = {9781450346603},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3009837.3009888},
+    doi = {10.1145/3009837.3009888},
+    booktitle = {Proceedings of the 44th ACM SIGPLAN Symposium on Principles of Programming Languages},
+    pages = {626–638},
+    numpages = {13},
+    keywords = {causal consistency, model checking, distributed systems, static program analysis},
+    location = {Paris, France},
+    series = {POPL 2017}
+}
+```
+
+```
 @inproceedings {Boucher20,
 author = {Sol Boucher and Anuj Kalia and David G. Andersen and Michael Kaminsky},
 title = {Lightweight Preemptible Functions},
@@ -1018,6 +1037,26 @@ edition = {2nd}
 ```
 
 ### cao
+
+```
+@article{Cao18,
+    author = {Cao, Wei and Liu, Zhenjun and Wang, Peng and Chen, Sen and Zhu, Caifeng and Zheng, Song and Wang, Yuhui and Ma, Guoqing},
+    title = {PolarFS: An Ultra-Low Latency and Failure Resilient Distributed File System for Shared Storage Cloud Database},
+    year = {2018},
+    issue_date = {August 2018},
+    publisher = {VLDB Endowment},
+    volume = {11},
+    number = {12},
+    issn = {2150-8097},
+    url = {https://doi.org/10.14778/3229863.3229872},
+    doi = {10.14778/3229863.3229872},
+    journal = {Proc. VLDB Endow.},
+    month = {aug},
+    pages = {1849--1862},
+    numpages = {14}
+}
+```
+
 
 ```
 @article{Cao20,
@@ -1266,7 +1305,8 @@ isbn="978-3-030-53288-8"
   volume={},
   number={},
   pages={353-362},
-  doi={10.1109/LICS.1989.39190}}
+  doi={10.1109/LICS.1989.39190}
+  }
 ```
 
 
@@ -3718,7 +3758,7 @@ doi = {10.1145/2699417},
 abstract = {Engineers use TLA+ to prevent serious but subtle bugs from reaching production.},
 journal = {Commun. ACM},
 month = mar,
-pages = {66–73},
+pages = {66--73},
 numpages = {8}
 }
 ```
