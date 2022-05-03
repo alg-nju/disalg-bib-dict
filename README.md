@@ -1446,8 +1446,8 @@ numpages = {30}
 }
 ```
 
-
-@inproceedings{Davis20,
+```
+@inproceedings{Davis20cav,
   author    = {Jennifer A. Davis and
                Laura R. Humphrey and
                Derek B. Kingston},
@@ -1467,10 +1467,10 @@ numpages = {30}
   doi       = {10.1007/978-3-030-25540-4\_20},
   timestamp = {Fri, 31 Jan 2020 21:32:18 +0100},
 }
-
+```
 
 ```
-@article{Davis20,
+@article{Davis20vldb,
     author = {Davis, A. Jesse Jiryu and Hirschhorn, Max and Schvimer, Judah},
     title = {Extreme Modelling in Practice},
     journal = {Proc. VLDB Endow.},
@@ -1892,6 +1892,25 @@ eprint = {https://doi.org/10.1137/0134037}
 ```
 
 
+```
+@inproceedings{Garlan10,
+author = {Garlan, David},
+title = {Software Engineering in an Uncertain World},
+year = {2010},
+isbn = {9781450304276},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/1882362.1882389},
+doi = {10.1145/1882362.1882389},
+booktitle = {Proceedings of the FSE/SDP Workshop on Future of Software Engineering Research},
+pages = {125-128},
+numpages = {4},
+keywords = {software design, software engineering, uncertainty, software architecture},
+location = {Santa Fe, New Mexico, USA},
+series = {FoSER '10}
+}
+```
+
 
 ### gel
 
@@ -2177,7 +2196,7 @@ year = {2011},
 publisher = {USENIX Association},
 address = {USA},
 booktitle = {Proceedings of the 8th USENIX Conference on Networked Systems Design and Implementation},
-pages = {238–252},
+pages = {238-252},
 numpages = {15},
 location = {Boston, MA},
 series = {NSDI'11}
@@ -2256,6 +2275,23 @@ month = dec,
 pages = {31–es},
 numpages = {19},
 keywords = {axiom, partial order, multiprocessor, nonatomic operation execution, framework, linear extension, linearization, defining condition, defining relation, system execution, illegality, causality, consistency, shared variable, Atomicity}
+}
+```
+
+
+### han
+
+```
+@inproceedings {Hance21,
+author = {Travis Hance and Marijn Heule and Ruben Martins and Bryan Parno},
+title = {Finding Invariants of Distributed Systems: It{\textquoteright}s a Small (Enough) World After All},
+booktitle = {18th USENIX Symposium on Networked Systems Design and Implementation (NSDI 21)},
+year = {2021},
+isbn = {978-1-939133-21-2},
+pages = {115--131},
+url = {https://www.usenix.org/conference/nsdi21/presentation/hance},
+publisher = {USENIX Association},
+month = apr,
 }
 ```
 
@@ -4253,6 +4289,20 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
 }
 ```
 
+### str
+
+```
+@ARTICLE{Stroustrup12,  
+author={Stroustrup, Bjarne},  
+journal={Computer},   
+title={Software Development for Infrastructure},   
+year={2012},  
+volume={45},  
+number={1},  
+pages={47-58}, 
+doi={10.1109/MC.2011.353}
+}
+```
 
 
 ## T
@@ -4760,7 +4810,7 @@ isbn = {9781931971164},
 publisher = {USENIX Association},
 address = {USA},
 booktitle = {Proceedings of the 11th USENIX Conference on Operating Systems Design and Implementation},
-pages = {249–265},
+pages = {249-265},
 numpages = {17},
 location = {Broomfield, CO},
 series = {OSDI'14}
