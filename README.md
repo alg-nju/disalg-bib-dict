@@ -4547,6 +4547,18 @@ keywords = {MinBFT, Hybrid protocols, Fault-tolerance, Coq, Monad, Byzantine fau
 ### wei
 
 ```
+@book{Weikum01,
+author = {Weikum, Gerhard and Vossen, Gottfried},
+title = {Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery},
+year = {2001},
+isbn = {1558605088},
+publisher = {Morgan Kaufmann Publishers Inc.},
+address = {San Francisco, CA, USA}
+}
+```
+
+
+```
 @article{Wei16,
  author = {Wei, Hengfeng and De Biasi, Marzio and Huang, Yu and 
      Cao, Jiannong and Lu, Jian},
