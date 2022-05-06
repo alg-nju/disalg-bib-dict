@@ -2358,6 +2358,26 @@ url={http://resources.sei.cmu.edu/library/asset-view.cfm?AssetID=11747} }
 
 ```
 
+```
+@article{Hellerstein07,
+author = {Hellerstein, Joseph M. and Stonebraker, Michael and Hamilton, James},
+title = {Architecture of a Database System},
+year = {2007},
+issue_date = {February 2007},
+publisher = {Now Publishers Inc.},
+address = {Hanover, MA, USA},
+volume = {1},
+number = {2},
+issn = {1931-7883},
+url = {https://doi.org/10.1561/1900000002},
+doi = {10.1561/1900000002},
+journal = {Found. Trends Databases},
+month = {feb},
+pages = {141-259},
+numpages = {119}
+}
+```
+
 
 
 ### her
