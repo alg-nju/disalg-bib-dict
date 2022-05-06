@@ -3238,8 +3238,7 @@ series = {NSDI'08}
 
 ### llo
 
-
-
+```
 @inproceedings{LLoyd11,
     author = {Lloyd, Wyatt and Freedman, Michael J. and Kaminsky, Michael and Andersen, David G.},
     title = {Don't Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS},
@@ -3256,6 +3255,7 @@ series = {NSDI'08}
     location = {Cascais, Portugal},
     series = {SOSP'11}
 }
+```
 
 
 ```
