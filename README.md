@@ -2832,6 +2832,26 @@ publisher = {IEEE},
 }
 ```
 
+### kra
+
+```
+@inproceedings{Kraska13,
+author = {Kraska, Tim and Pang, Gene and Franklin, Michael J. and Madden, Samuel and Fekete, Alan},
+title = {MDCC: Multi-Data Center Consistency},
+year = {2013},
+isbn = {9781450319942},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/2465351.2465363},
+doi = {10.1145/2465351.2465363},
+booktitle = {Proceedings of the 8th ACM European Conference on Computer Systems},
+pages = {113-126},
+numpages = {14},
+location = {Prague, Czech Republic},
+series = {EuroSys '13}
+}
+```
+
 
 ### kri
 
@@ -3863,6 +3883,26 @@ series = {PODC '88}
 } 
 ```
 
+### ouy
+
+```
+@article{Ouyang21,
+author = {Ouyang, Lingzhi and Huang, Yu and Wei, Hengfeng and Lu, Jian},
+title = {Achieving Probabilistic Atomicity With Well-Bounded Staleness and Low Read Latency in Distributed Datastores},
+year = {2021},
+issue_date = {April 2021},
+publisher = {IEEE Press},
+volume = {32},
+number = {4},
+issn = {1045-9219},
+url = {https://doi.org/10.1109/TPDS.2020.3034328},
+doi = {10.1109/TPDS.2020.3034328},
+journal = {IEEE Trans. Parallel Distrib. Syst.},
+month = {apr},
+pages = {815-829},
+numpages = {15}
+}
+```
 
 ### ozk
 
@@ -4443,6 +4483,27 @@ month = nov,
 
 ## V
 
+### ver
+
+```
+@inproceedings{Verbitski17,
+author = {Verbitski, Alexandre and Gupta, Anurag and Saha, Debanjan and Brahmadesam, Murali and Gupta, Kamal and Mittal, Raman and Krishnamurthy, Sailesh and Maurice, Sandor and Kharatishvili, Tengiz and Bao, Xiaofeng},
+title = {Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases},
+year = {2017},
+isbn = {9781450341974},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3035918.3056101},
+doi = {10.1145/3035918.3056101},
+booktitle = {Proceedings of the 2017 ACM International Conference on Management of Data},
+pages = {1041-1052},
+numpages = {12},
+keywords = {log processing, replication, quorum models, recovery, oltp, performance, databases, distributed systems},
+location = {Chicago, Illinois, USA},
+series = {SIGMOD '17}
+}
+```
+
 ### vio
 
 
@@ -4984,3 +5045,19 @@ publisher = {{USENIX} Association},
 } 
 ```
 
+### zho
+
+```
+@inproceedings{Zhou21,
+author = {Zhou, Jingyu and Xu, Meng and Shraer, Alexander and Namasivayam, Bala and Miller, Alex and Tschannen, Evan and Atherton, Steve and Beamon, Andrew J. and Sears, Rusty and Leach, John and Rosenthal, Dave and Dong, Xin and Wilson, Will and Collins, Ben and Scherer, David and Grieser, Alec and Liu, Young and Moore, Alvin and Muppana, Bhaskar and Su, Xiaoge and Yadav, Vishesh},
+title = {FoundationDB: A Distributed Unbundled Transactional Key Value Store},
+year = {2021},
+isbn = {9781450383431},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3448016.3457559},
+booktitle = {Proceedings of the 2021 International Conference on Management of Data},
+pages = {2653-2666},
+numpages = {14}
+}
+```
