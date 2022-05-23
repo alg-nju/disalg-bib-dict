@@ -209,6 +209,24 @@ month = nov,
 }
 ```
 
+### alp
+
+```
+@article{Alpern85,
+title = {Defining liveness},
+journal = {Information Processing Letters},
+volume = {21},
+number = {4},
+pages = {181-185},
+year = {1985},
+issn = {0020-0190},
+doi = {https://doi.org/10.1016/0020-0190(85)90056-0},
+url = {https://www.sciencedirect.com/science/article/pii/0020019085900560},
+author = {Bowen Alpern and Fred B. Schneider},
+keywords = {Liveness, absolute liveness, uniform liveness, safety, property, topology, concurrency, semantics},
+}
+```
+
 
 ### alq
 
@@ -2255,6 +2273,27 @@ publisher = {{USENIX} Association},
 
 ## H
 
+### had
+
+```
+@inproceedings{Hadjistasi16,
+author = {Hadjistasi, Theophanis and Nicolaou, Nicolas and Schwarzmann, Alexander A.},
+title = {Brief Announcement: Oh-RAM! One and a Half Round Read/Write Atomic Memory},
+year = {2016},
+isbn = {9781450339643},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/2933057.2933073},
+doi = {10.1145/2933057.2933073},
+booktitle = {Proceedings of the 2016 ACM Symposium on Principles of Distributed Computing},
+pages = {353-355},
+numpages = {3},
+keywords = {message-passing, read/write objects, latency, fault-tolerance, atomicity},
+location = {Chicago, Illinois, USA},
+series = {PODC '16}
+}
+```
+
 ### hal
 
 ```
@@ -3367,6 +3406,24 @@ series = {NSDI'08}
 
 
 ### lyn
+
+```
+@inproceedings{Lynch89,
+author = {Lynch, N.},
+title = {A Hundred Impossibility Proofs for Distributed Computing},
+year = {1989},
+isbn = {0897913264},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/72981.72982},
+doi = {10.1145/72981.72982},
+booktitle = {Proceedings of the Eighth Annual ACM Symposium on Principles of Distributed Computing},
+pages = {1-28},
+numpages = {28},
+location = {Edmonton, Alberta, Canada},
+series = {PODC '89}
+}
+```
 
 ```
 @article{Lynch95,
