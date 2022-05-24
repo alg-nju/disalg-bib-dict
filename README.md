@@ -464,6 +464,43 @@ publisher = {ACM},
 
 ## B
 
+### bab
+
+```
+@inbook{Babaoglu93,
+author = {Babao\u{g}lu, \"{O}zalp and Marzullo, Keith},
+title = {Consistent Global States of Distributed Systems: Fundamental Concepts and Mechanisms},
+year = {1993},
+isbn = {0201624273},
+publisher = {ACM Press/Addison-Wesley Publishing Co.},
+address = {USA},
+booktitle = {Distributed Systems (2nd Ed.)},
+pages = {55-96},
+numpages = {42}
+}
+```
+
+```
+@article{Babaoglu95,
+author = {Babao\u{g}lu, \"{O}zalp and Raynal, Michel},
+title = {Specification and Verification of Dynamic Properties in Distributed Computations},
+year = {1995},
+issue_date = {Aug. 1, 1995},
+publisher = {Academic Press, Inc.},
+address = {USA},
+volume = {28},
+number = {2},
+issn = {0743-7315},
+url = {https://doi.org/10.1006/jpdc.1995.1098},
+doi = {10.1006/jpdc.1995.1098},
+journal = {J. Parallel Distrib. Comput.},
+month = {aug},
+pages = {173-185},
+numpages = {13}
+}
+```
+
+
 ### bai
 
 ```
@@ -1138,6 +1175,27 @@ keywords = {transaction chopping, Distributed computing models, robustness, snap
 ### cha
 
 ```
+@article{Chandy85,
+author = {Chandy, K. Mani and Lamport, Leslie},
+title = {Distributed Snapshots: Determining Global States of Distributed Systems},
+year = {1985},
+issue_date = {Feb. 1985},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {3},
+number = {1},
+issn = {0734-2071},
+url = {https://doi.org/10.1145/214451.214456},
+doi = {10.1145/214451.214456},
+journal = {ACM Trans. Comput. Syst.},
+month = {feb},
+pages = {63–75},
+numpages = {13}
+}
+```
+
+
+```
 @article{Chandy86,
 author = {Chandy, K. M. and Misra, Jayadev},
 title = {How Processes Learn},
@@ -1236,6 +1294,25 @@ publisher = {ACM},
 }
 ```
 
+@article{Charron95,
+author = {Charron-Bost, Bernadette and Delporte-Gallet, Carole and Fauconnier, Hugues},
+title = {Local and Temporal Predicates in Distributed Systems},
+year = {1995},
+issue_date = {Jan. 1995},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {17},
+number = {1},
+issn = {0164-0925},
+url = {https://doi.org/10.1145/200994.201005},
+doi = {10.1145/200994.201005},
+journal = {ACM Trans. Program. Lang. Syst.},
+month = {jan},
+pages = {157-179},
+numpages = {23},
+keywords = {distributed computation, predicate transformer, local predicate, temporal predicate, predicate, knowledge predicate, observation}
+}
+
 ```
 @book{Charron10,
 editor = {Charron-Bost, Bernadette and Pedone, Fernando and Schiper, Andr\'{e}},
@@ -1329,6 +1406,25 @@ isbn="978-3-030-53288-8"
 
 
 ### coo
+
+```
+@inproceedings{Cooper91,
+author = {Cooper, Robert and Marzullo, Keith},
+title = {Consistent Detection of Global Predicates},
+year = {1991},
+isbn = {0897914570},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/122759.122774},
+doi = {10.1145/122759.122774},
+booktitle = {Proceedings of the 1991 ACM/ONR Workshop on Parallel and Distributed Debugging},
+pages = {167-174},
+numpages = {8},
+location = {Santa Cruz, California, USA},
+series = {PADD '91}
+}
+```
+
 
 ```
 @article{Cooper08,
