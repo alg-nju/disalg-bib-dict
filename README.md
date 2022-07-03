@@ -231,7 +231,7 @@ keywords = {Liveness, absolute liveness, uniform liveness, safety, property, top
 ### alq
 
 ```
-@inproceedings{10.5555/3291168.3291173,
+@inproceedings{Alquraan18,
 author = {Alquraan, Ahmed and Takruri, Hatem and Alfatafta, Mohammed and Al-Kiswany, Samer},
 title = {An Analysis of Network-Partitioning Failures in Cloud Systems},
 year = {2018},
