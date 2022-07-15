@@ -1151,6 +1151,16 @@ keywords = {proactive recovery, Byzantine fault tolerance, state transfer, state
 ### cer
 
 ```
+@inproceedings{Cerone15,
+  title={A framework for transactional consistency models with atomic visibility},
+  author={Cerone, Andrea and Bernardi, Giovanni and Gotsman, Alexey},
+  booktitle={26th International Conference on Concurrency Theory (CONCUR 2015)},
+  year={2015},
+  organization={Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik}
+}
+```
+
+```
 @article{Cerone18,
 author = {Cerone, Andrea and Gotsman, Alexey},
 title = {Analysing Snapshot Isolation},
@@ -4483,7 +4493,26 @@ keywords = {multiwriter registers, mutual exclusion, quorum systems,
 } 
 ```
 
+### sov
 
+```
+@inproceedings{Sovran11,
+author = {Sovran, Yair and Power, Russell and Aguilera, Marcos K. and Li, Jinyang},
+title = {Transactional Storage for Geo-Replicated Systems},
+year = {2011},
+isbn = {9781450309776},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/2043556.2043592},
+doi = {10.1145/2043556.2043592},
+booktitle = {Proceedings of the Twenty-Third ACM Symposium on Operating Systems Principles},
+pages = {385–400},
+numpages = {16},
+keywords = {asynchronous replication, key-value store, transactions, parallel snapshot isolation, geo-distributed systems, distributed storage},
+location = {Cascais, Portugal},
+series = {SOSP '11}
+}
+```
 
 
 
