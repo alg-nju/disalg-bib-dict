@@ -2524,6 +2524,25 @@ numpages = {119}
 ```
 
 
+```
+@inproceedings{Helt21,
+author = {Helt, Jeffrey and Burke, Matthew and Levy, Amit and Lloyd, Wyatt},
+title = {Regular Sequential Serializability and Regular Sequential Consistency},
+year = {2021},
+isbn = {9781450387095},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3477132.3483566},
+doi = {10.1145/3477132.3483566},
+booktitle = {Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles},
+pages = {163-179},
+numpages = {17},
+keywords = {databases, consistency, distributed systems},
+location = {Virtual Event, Germany},
+series = {SOSP'21}
+}
+```
+
 
 ### her
 
