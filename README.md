@@ -3633,6 +3633,27 @@ author = "Nancy Lynch and Frits Vaandrager",
 } 
 ```
 
+### mah
+
+```
+@article{Mahmoud13},
+author = {Mahmoud, Hatem and Nawab, Faisal and Pucher, Alexander and Agrawal, Divyakant and El Abbadi, Amr},
+title = {Low-Latency Multi-Datacenter Databases Using Replicated Commit},
+year = {2013},
+issue_date = {July 2013},
+publisher = {VLDB Endowment},
+volume = {6},
+number = {9},
+issn = {2150-8097},
+url = {https://doi.org/10.14778/2536360.2536366},
+doi = {10.14778/2536360.2536366},
+journal = {Proc. VLDB Endow.},
+month = {jul},
+pages = {661–672},
+numpages = {12}
+}
+```
+
 
 ### mai
 
@@ -3866,6 +3887,26 @@ address = {New York, NY, USA},
 }
 ```
 
+### mon
+
+```
+@inproceedings{Moniz17,
+author = {Moniz, Henrique and Leit\~{a}o, Jo\~{a}o and Dias, Ricardo J. and Gehrke, Johannes and Pregui\c{c}a, Nuno and Rodrigues, Rodrigo},
+title = {Blotter: Low Latency Transactions for Geo-Replicated Storage},
+year = {2017},
+isbn = {9781450349130},
+publisher = {International World Wide Web Conferences Steering Committee},
+address = {Republic and Canton of Geneva, CHE},
+url = {https://doi.org/10.1145/3038912.3052603},
+doi = {10.1145/3038912.3052603},
+booktitle = {Proceedings of the 26th International Conference on World Wide Web},
+pages = {263-272},
+numpages = {10},
+keywords = {distributed transactions, geo-replicated storage, concurrency control, distributed database systems, paxos},
+location = {Perth, Australia},
+series = {WWW'17}
+}
+```
 
 
 ### mor
