@@ -1414,6 +1414,15 @@ isbn="978-3-030-53288-8"
   }
 ```
 
+```
+@book{Clarke18,
+    author = { Edmund M. Clarke and Thomas A. Henzinger and Helmut Veith and Roderick Bloem},
+    title = {Handbook of Model Checking},
+    year = {2018},
+    isbn = {978-3-319-10575-8},
+    publisher = {Springer Cham},
+}
+```
 
 ### coo
 
@@ -1980,19 +1989,19 @@ address = {New York, NY, USA},
 
 ```
 @Article{Gafni03,
-author="Gafni, Eli
-and Lamport, Leslie",
-title="Disk Paxos",
-journal="Distributed Computing",
-year="2003",
-month="Feb",
-day="01",
-volume="16",
-number="1",
-pages="1--20",
-issn="1432-0452",
-doi="10.1007/s00446-002-0070-8",
-url="https://doi.org/10.1007/s00446-002-0070-8"
+    author="Gafni, Eli
+    and Lamport, Leslie",
+    title="Disk Paxos",
+    journal="Distributed Computing",
+    year="2003",
+    month="Feb",
+    day="01",
+    volume="16",
+    number="1",
+    pages="1--20",
+    issn="1432-0452",
+    doi="10.1007/s00446-002-0070-8",
+    url="https://doi.org/10.1007/s00446-002-0070-8"
 }
 ```
 
@@ -2306,6 +2315,23 @@ month = mar,
 pages = {133–160},
 numpages = {28},
 keywords = {Consensus, two-phase commit, Paxos}
+}
+```
+
+### gue
+
+```
+@inproceedings{Guerraoui11,
+author = {Guerraoui, Rachid and Yabandeh, Maysam},
+title = {Model Checking a Networked System without the Network},
+year = {2011},
+publisher = {USENIX Association},
+address = {USA},
+booktitle = {Proceedings of the 8th USENIX Conference on Networked Systems Design and Implementation},
+pages = {225-238},
+numpages = {14},
+location = {Boston, MA},
+series = {NSDI'11}
 }
 ```
 
@@ -3243,7 +3269,7 @@ series = {FTCS'95}
 ### lee
 
 ```
-@inproceedings{Leesatapornwongsa14,
+@inproceedings{Lees14,
  author = {Leesatapornwongsa, Tanakorn and Hao, Mingzhe and Joshi, Pallavi and Lukman, Jeffrey F. and Gunawi, Haryadi S.},
  title = {SAMC: Semantic-aware Model Checking for Fast Discovery of Deep Bugs in Cloud Systems},
  booktitle = {Proceedings of the 11th USENIX Conference on Operating Systems Design and Implementation},
@@ -3438,6 +3464,43 @@ series = {NSDI'08}
 } 
 ```
 
+```
+@inproceedings{Liu17asplos,
+author = {Liu, Haopeng and Li, Guangpu and Lukman, Jeffrey F. and Li, Jiaxin and Lu, Shan and Gunawi, Haryadi S. and Tian, Chen},
+title = {DCatch: Automatically Detecting Distributed Concurrency Bugs in Cloud Systems},
+year = {2017},
+isbn = {9781450344654},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3037697.3037735},
+doi = {10.1145/3037697.3037735},
+booktitle = {Proceedings of the Twenty-Second International Conference on Architectural Support for Programming Languages and Operating Systems},
+pages = {677-691},
+numpages = {15},
+keywords = {concurrency bugs, distributed systems, cloud computing, bug detection},
+location = {Xi'an, China},
+series = {ASPLOS'17}
+}
+```
+
+```
+@inproceedings{Liu18,
+author = {Liu, Haopeng and Wang, Xu and Li, Guangpu and Lu, Shan and Ye, Feng and Tian, Chen},
+title = {FCatch: Automatically Detecting Time-of-Fault Bugs in Cloud Systems},
+year = {2018},
+isbn = {9781450349116},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3173162.3177161},
+doi = {10.1145/3173162.3177161},
+booktitle = {Proceedings of the Twenty-Third International Conference on Architectural Support for Programming Languages and Operating Systems},
+pages = {419-431},
+numpages = {13},
+keywords = {timing bugs, bug detection, fault tolerance, distributed systems, cloud computing},
+location = {Williamsburg, VA, USA},
+series = {ASPLOS'18}
+}
+```
 
 
 ### llo
@@ -4090,19 +4153,19 @@ series = {PODC '88}
 
 ```
 @inproceedings{Ongaro14,
- author = {Ongaro, Diego and Ousterhout, John},
- title = {In Search of an Understandable Consensus Algorithm},
- booktitle = {Proceedings of the 2014 USENIX Conference on USENIX Annual Technical Conference},
- series = {USENIX ATC'14},
- year = {2014},
- isbn = {978-1-931971-10-2},
- location = {Philadelphia, PA},
- pages = {305--320},
- numpages = {16},
- url = {http://dl.acm.org/citation.cfm?id=2643634.2643666},
- acmid = {2643666},
- publisher = {USENIX Association},
- address = {Berkeley, CA, USA},
+    author = {Ongaro, Diego and Ousterhout, John},
+    title = {In Search of an Understandable Consensus Algorithm},
+    booktitle = {Proceedings of the 2014 USENIX Conference on USENIX Annual Technical Conference},
+    series = {USENIX ATC'14},
+    year = {2014},
+    isbn = {978-1-931971-10-2},
+    location = {Philadelphia, PA},
+    pages = {305--320},
+    numpages = {16},
+    url = {http://dl.acm.org/citation.cfm?id=2643634.2643666},
+    acmid = {2643666},
+    publisher = {USENIX Association},
+    address = {Berkeley, CA, USA},
 } 
 ```
 
@@ -5225,6 +5288,24 @@ isbn="978-3-030-25543-5"
  }
 ```
 
+
+```
+@inproceedings{Zhang15,
+author = {Zhang, Irene and Sharma, Naveen Kr. and Szekeres, Adriana and Krishnamurthy, Arvind and Ports, Dan R. K.},
+title = {Building Consistent Transactions with Inconsistent Replication},
+year = {2015},
+isbn = {9781450338349},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/2815400.2815404},
+doi = {10.1145/2815400.2815404},
+booktitle = {Proceedings of the 25th Symposium on Operating Systems Principles},
+pages = {263-278},
+numpages = {16},
+location = {Monterey, California},
+series = {SOSP'15}
+}
+```
 
 
 ```
