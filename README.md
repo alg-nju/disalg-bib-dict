@@ -504,6 +504,16 @@ numpages = {13}
 ### bai
 
 ```
+@book{Baier08,
+author = {Baier, Christel and Katoen, Joost-Pieter},
+title = {Principles of Model Checking (Representation and Mind Series)},
+year = {2008},
+isbn = {026202649X},
+publisher = {The MIT Press},
+}
+```
+
+```
 @article{Bailis12,
 author = {Bailis, Peter and Venkataraman, Shivaram and Franklin, Michael J. and Hellerstein, Joseph M. and Stoica, Ion},
 title = {Probabilistically Bounded Staleness for Practical Partial Quorums},
