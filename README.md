@@ -3960,6 +3960,24 @@ address = {New York, NY, USA},
 }
 ```
 
+### mit
+
+```
+@article{Mittal05,
+  author    = {Neeraj Mittal and
+               Vijay K. Garg},
+  title     = {Techniques and applications of computation slicing},
+  journal   = {Distributed Comput.},
+  volume    = {17},
+  number    = {3},
+  pages     = {251--277},
+  year      = {2005},
+  url       = {https://doi.org/10.1007/s00446-004-0117-0},
+  doi       = {10.1007/s00446-004-0117-0},
+  timestamp = {Fri, 13 Mar 2020 14:37:40 +0100},
+}
+```
+
 ### mon
 
 ```
@@ -4797,6 +4815,28 @@ month = nov,
 
 
 ## V
+
+### val
+
+```
+@InProceedings{Valapil17,
+author="Tekken Valapil, Vidhya
+and Yingchareonthawornchai, Sorrachai
+and Kulkarni, Sandeep
+and Torng, Eric
+and Demirbas, Murat",
+editor="Lahiri, Shuvendu
+and Reger, Giles",
+title="Monitoring Partially Synchronous Distributed Systems Using SMT Solvers",
+booktitle="Runtime Verification",
+year="2017",
+publisher="Springer International Publishing",
+address="Cham",
+pages="277--293",
+isbn="978-3-319-67531-2"
+}
+```
+
 
 ### ver
 
