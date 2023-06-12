@@ -858,6 +858,25 @@ month = jul,
 ### bor
 
 ```
+@inproceedings{Bornholt21,
+author = {Bornholt, James and Joshi, Rajeev and Astrauskas, Vytautas and Cully, Brendan and Kragl, Bernhard and Markle, Seth and Sauri, Kyle and Schleit, Drew and Slatton, Grant and Tasiran, Serdar and Van Geffen, Jacob and Warfield, Andrew},
+title = {Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3},
+year = {2021},
+isbn = {9781450387095},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3477132.3483540},
+doi = {10.1145/3477132.3483540},
+booktitle = {Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles},
+pages = {836-850},
+numpages = {15},
+keywords = {cloud storage, lightweight formal methods},
+location = {Virtual Event, Germany},
+series = {SOSP'21}
+}
+```
+
+```
 @Article{Borowsky01,
 author="Borowsky, E.
 and Gafni, E.
@@ -3706,6 +3725,30 @@ author = "Nancy Lynch and Frits Vaandrager",
 } 
 ```
 
+
+### mac
+
+
+
+~~~
+@inproceedings{Mace15,
+ author = {Mace, Jonathan and Roelke, Ryan and Fonseca, Rodrigo},
+ title = {Pivot Tracing: Dynamic Causal Monitoring for Distributed Systems},
+ booktitle = {Proceedings of the 25th Symposium on Operating Systems Principles},
+ series = {SOSP'15},
+ year = {2015},
+ isbn = {978-1-4503-3834-9},
+ location = {Monterey, California},
+ pages = {378--393},
+ numpages = {16},
+ url = {http://doi.acm.org/10.1145/2815400.2815415},
+ doi = {10.1145/2815400.2815415},
+ acmid = {2815415},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+~~~
+
 ### mah
 
 ```
@@ -3788,30 +3831,25 @@ address = {New York, NY, USA},
 ```
 
 
-### mac
 
+### mar
 
-
-~~~
-@inproceedings{Mace15,
- author = {Mace, Jonathan and Roelke, Ryan and Fonseca, Rodrigo},
- title = {Pivot Tracing: Dynamic Causal Monitoring for Distributed Systems},
- booktitle = {Proceedings of the 25th Symposium on Operating Systems Principles},
- series = {SOSP'15},
- year = {2015},
- isbn = {978-1-4503-3834-9},
- location = {Monterey, California},
- pages = {378--393},
- numpages = {16},
- url = {http://doi.acm.org/10.1145/2815400.2815415},
- doi = {10.1145/2815400.2815415},
- acmid = {2815415},
- publisher = {ACM},
- address = {New York, NY, USA},
-} 
-~~~
-
-
+```
+@inproceedings{Maric17,
+  author    = {Mari{\'{c}}, Ognjen
+               and Sprenger, Christoph
+               and Basin, David},
+  editor    = {Majumdar, Rupak
+               and Kun{\v{c}}ak, Viktor},
+  title     = {Cutoff Bounds for Consensus Algorithms},
+  booktitle = {Computer Aided Verification},
+  year      = {2017},
+  publisher = {Springer International Publishing},
+  address   = {Cham},
+  pages     = {217--237},
+  isbn      = {978-3-319-63390-9}
+}
+```
 
 
 
@@ -4145,7 +4183,6 @@ number = {4},
 issn = {0001-0782},
 url = {https://doi.org/10.1145/2699417},
 doi = {10.1145/2699417},
-abstract = {Engineers use TLA+ to prevent serious but subtle bugs from reaching production.},
 journal = {Commun. ACM},
 month = mar,
 pages = {66--73},
@@ -5151,23 +5188,6 @@ pages={401-412},
 ```
 
 
-
-```
-@inproceedings{Yang06,
-  author    = {Junfeng Yang and
-               Can Sar and
-               Dawson R. Engler},
-  title     = {{EXPLODE:} {A} Lightweight, General System for 
-      Finding Serious Storage System Errors},
-  booktitle = {7th Symposium on Operating Systems Design and 
-      Implementation {(OSDI}'06), November 6-8, Seattle, WA, {USA}},
-  pages     = {131--146},
-  year      = {2006},
-  crossref  = {DBLP:conf/osdi/2006},
-  url       = {http://www.usenix.org/events/osdi06/tech/yang\_junfeng.html},
-}
-```
-
 ```
 @inproceedings{Yang06,
 author = {Yang, Junfeng and Sar, Can and Engler, Dawson},
@@ -5192,6 +5212,49 @@ year = {2009},
 month = {April},
 publisher = {USENIX},
 pages = {213-228},
+}
+```
+
+```
+@inproceedings{Yao21,
+  author       = {Jianan Yao and
+                  Runzhou Tao and
+                  Ronghui Gu and
+                  Jason Nieh and
+                  Suman Jana and
+                  Gabriel Ryan},
+  editor       = {Angela Demke Brown and
+                  Jay R. Lorch},
+  title        = {DistAI: Data-Driven Automated Invariant Learning for Distributed Protocols},
+  booktitle    = {15th {USENIX} Symposium on Operating Systems Design and Implementation,
+                  {OSDI} 2021, July 14-16, 2021},
+  pages        = {405--421},
+  publisher    = {{USENIX} Association},
+  year         = {2021},
+  url          = {https://www.usenix.org/conference/osdi21/presentation/yao},
+  timestamp    = {Thu, 12 Aug 2021 18:19:16 +0200},
+}
+```
+
+
+### yoo
+
+```
+@inproceedings{10.1145/3458336.3465299,
+    author = {Yoo, Andrew and Wang, Yuanli and Sinha, Ritesh and Mu, Shuai and Xu, Tianyin},
+    title = {Fail-Slow Fault Tolerance Needs Programming Support},
+    year = {2021},
+    isbn = {9781450384384},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3458336.3465299},
+    doi = {10.1145/3458336.3465299},
+    booktitle = {Proceedings of the Workshop on Hot Topics in Operating Systems},
+    pages = {228-235},
+    numpages = {8},
+    keywords = {fault tolerance, consensus, distributed systems, fail slow},
+    location = {Ann Arbor, Michigan},
+    series = {HotOS'21}
 }
 ```
 
