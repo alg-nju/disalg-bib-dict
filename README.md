@@ -4561,6 +4561,26 @@ keywords = {Sperner's lemma, wait-free, consensus, distributed computing}
 } 
 ```
 
+```
+@inproceedings{Schultz22,
+  author       = {William Schultz and
+                  Ian Dardik and
+                  Stavros Tripakis},
+  editor       = {Alberto Griggio and
+                  Neha Rungta},
+  title        = {Plain and Simple Inductive Invariant Inference for Distributed Protocols
+                  in TLA\({}^{\mbox{+}}\)},
+  booktitle    = {22nd Formal Methods in Computer-Aided Design, {FMCAD} 2022, Trento,
+                  Italy, October 17-21, 2022},
+  pages        = {273--283},
+  publisher    = {{IEEE}},
+  year         = {2022},
+  url          = {https://doi.org/10.34727/2022/isbn.978-3-85448-053-2\_34},
+  doi          = {10.34727/2022/isbn.978-3-85448-053-2\_34},
+  timestamp    = {Mon, 13 Feb 2023 21:53:10 +0100},
+}
+```
+
 
 ### sco
 
@@ -5214,6 +5234,8 @@ publisher = {USENIX},
 pages = {213-228},
 }
 ```
+
+### yao
 
 ```
 @inproceedings{Yao21,
