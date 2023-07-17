@@ -2816,6 +2816,18 @@ address = {USA}
 
 ## J
 
+### jac
+
+```
+@book{Jackson12,
+author = {Jackson, Daniel},
+title = {Software Abstractions: Logic, Language, and Analysis},
+year = {2012},
+isbn = {0262017156},
+publisher = {The MIT Press},
+}
+```
+
 ### jag
 
 ```
@@ -2977,6 +2989,22 @@ publisher = {IEEE},
 }
 ```
 
+### kil
+
+```
+@inproceedings{Killian07,
+author = {Killian, Charles and Anderson, James W. and Jhala, Ranjit and Vahdat, Amin},
+title = {Life, Death, and the Critical Transition: Finding Liveness Bugs in Systems Code},
+year = {2007},
+publisher = {USENIX Association},
+address = {USA},
+booktitle = {Proceedings of the 4th USENIX Conference on Networked Systems Design \& Implementation},
+pages = {18},
+numpages = {1},
+location = {Cambridge, MA},
+series = {NSDI'07}
+}
+```
 
 
 ### knu
@@ -4756,6 +4784,28 @@ doi={10.1109/MC.2011.353}
 
 
 ## T
+
+### tam
+
+```
+@inproceedings{Tamayo12,
+author = {Tamayo, Juan M. and Aiken, Alex and Bronson, Nathan and Sagiv, Mooly},
+title = {Understanding the Behavior of Database Operations under Program Control},
+year = {2012},
+isbn = {9781450315616},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/2384616.2384688},
+doi = {10.1145/2384616.2384688},
+booktitle = {Proceedings of the ACM International Conference on Object Oriented Programming Systems Languages and Applications},
+pages = {983-996},
+numpages = {14},
+keywords = {three-tier applications, program understanding},
+location = {Tucson, Arizona, USA},
+series = {OOPSLA'12}
+}
+```
+
 
 ### tan
 
