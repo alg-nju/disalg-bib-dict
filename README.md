@@ -1987,6 +1987,26 @@ address = {New York, NY, USA},
 }
 ```
 
+### fla
+
+```
+@inproceedings{Flanagan09,
+author = {Flanagan, Cormac and Freund, Stephen N.},
+title = {FastTrack: Efficient and Precise Dynamic Race Detection},
+year = {2009},
+isbn = {9781605583921},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/1542476.1542490},
+doi = {10.1145/1542476.1542490},
+booktitle = {Proceedings of the 30th ACM SIGPLAN Conference on Programming Language Design and Implementation},
+pages = {121-133},
+numpages = {13},
+keywords = {race conditions, concurrency, dynamic analysis},
+location = {Dublin, Ireland},
+series = {PLDI'09}
+}
+```
 
 ### fre
 
@@ -4412,6 +4432,27 @@ series = {OSDI'14}
 
 
 ## R
+
+### ray
+
+```
+@inproceedings{Raychev13,
+author = {Raychev, Veselin and Vechev, Martin and Sridharan, Manu},
+title = {Effective Race Detection for Event-Driven Programs},
+year = {2013},
+isbn = {9781450323741},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/2509136.2509538},
+doi = {10.1145/2509136.2509538},
+booktitle = {Proceedings of the 2013 ACM SIGPLAN International Conference on Object Oriented Programming Systems Languages &amp; Applications},
+pages = {151-166},
+numpages = {16},
+keywords = {race detection, web, asynchrony, nondeterminism, concurrency},
+location = {Indianapolis, Indiana, USA},
+series = {OOPSLA'13}
+}
+```
 
 ### ree
 
