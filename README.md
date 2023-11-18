@@ -1120,6 +1120,27 @@ edition = {2nd}
 }
 ```
 
+### cai
+
+```
+@ARTICLE {Cai22,
+author = {H. Cai and X. Fu},
+journal = {IEEE Transactions on Software Engineering},
+title = {D$^2$2Abs: A Framework for Dynamic Dependence Analysis of Distributed Programs},
+year = {2022},
+volume = {48},
+number = {12},
+issn = {1939-3520},
+pages = {4733-4761},
+keywords = {performance analysis;software;heuristic algorithms;codes;task analysis;sockets;costs},
+doi = {10.1109/TSE.2021.3124795},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {dec}
+}
+
+```
+
 ### cao
 
 ```
@@ -1846,9 +1867,6 @@ isbn="978-3-319-96145-3"
 ~~~
 
 
-
-
-
 ```
 @article{Emmi19,
  author = {Emmi, Michael and Enea, Constantin},
@@ -1893,6 +1911,27 @@ isbn="978-3-319-96145-3"
     pages="240--254",
 }
 ```
+
+### est
+
+~~~
+@inproceedings{Esteves21,
+author = {Esteves, T\^{a}nia and Neves, Francisco and Oliveira, Rui and Paulo, Jo\~{a}o},
+title = {CAT: Content-Aware Tracing and Analysis for Distributed Systems},
+year = {2021},
+isbn = {9781450385343},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3464298.3493396},
+doi = {10.1145/3464298.3493396},
+booktitle = {Proceedings of the 22nd International Middleware Conference},
+pages = {223-235},
+numpages = {13},
+keywords = {content-aware analysis, distributed systems, tracing, black-box},
+location = {Qu\'{e}bec city, Canada},
+series = {Middleware'21}
+}
+~~~
 
 
 ## F
