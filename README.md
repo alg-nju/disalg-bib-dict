@@ -757,6 +757,29 @@ isbn="978-3-540-49213-9"
 ```
 
 
+### bes
+
+```
+@article{Beschastnikh16,
+author = {Beschastnikh, Ivan and Wang, Patty and Brun, Yuriy and Ernst, Michael D.},
+title = {Debugging Distributed Systems},
+year = {2016},
+issue_date = {August 2016},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {59},
+number = {8},
+issn = {0001-0782},
+url = {https://doi.org/10.1145/2909480},
+doi = {10.1145/2909480},
+abstract = {ShiViz is a new distributed system debugging visualization tool.},
+journal = {Commun. ACM},
+month = {jul},
+pages = {32-37},
+numpages = {6}
+}
+```
+
 
 ### bil
 
@@ -2356,6 +2379,26 @@ keywords = {replication, CRDTs, distributed systems, verification, convergence, 
 }
 ```
 
+### gon
+
+```
+@inproceedings{Gong23,
+author = {Gong, Sishuai and Peng, Dinglan and Alt\i{}nb\"{u}ken, Deniz and Fonseca, Pedro and Maniatis, Petros},
+title = {Snowcat: Efficient Kernel Concurrency Testing Using a Learned Coverage Predictor},
+year = {2023},
+isbn = {9798400702297},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3600006.3613148},
+doi = {10.1145/3600006.3613148},
+booktitle = {Proceedings of the 29th Symposium on Operating Systems Principles},
+pages = {35-51},
+numpages = {17},
+keywords = {operating systems security, kernel concurrency bugs, software testing and debugging, concurrency programming},
+location = {Koblenz, Germany},
+series = {SOSP'23}
+}
+```
 
 ### got
 
