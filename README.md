@@ -2792,6 +2792,26 @@ url = {http://dx.doi.org/10.1007/978-3-642-25873-2_22 },
 }
 ```
 
+### hsi
+
+```
+@inproceedings{Hsiao14,
+author = {Hsiao, Chun-Hung and Yu, Jie and Narayanasamy, Satish and Kong, Ziyun and Pereira, Cristiano L. and Pokam, Gilles A. and Chen, Peter M. and Flinn, Jason},
+title = {Race Detection for Event-Driven Mobile Applications},
+year = {2014},
+isbn = {9781450327848},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/2594291.2594330},
+doi = {10.1145/2594291.2594330},
+booktitle = {Proceedings of the 35th ACM SIGPLAN Conference on Programming Language Design and Implementation},
+pages = {326-336},
+numpages = {11},
+keywords = {event-driven, race detection, use-free race, mobile application, Android, causality model, concurrency},
+location = {Edinburgh, United Kingdom},
+series = {PLDI'14}
+}
+```
 
 
 ### hua
