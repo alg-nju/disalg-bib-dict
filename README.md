@@ -4210,6 +4210,26 @@ series = {WWW'17}
 } 
 ```
 
+```
+@article{Mora23,
+author = {Mora, Federico and Desai, Ankush and Polgreen, Elizabeth and Seshia, Sanjit A.},
+title = {Message Chains for Distributed System Verification},
+year = {2023},
+issue_date = {October 2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {7},
+number = {OOPSLA2},
+url = {https://doi.org/10.1145/3622876},
+doi = {10.1145/3622876},
+journal = {Proc. ACM Program. Lang.},
+month = {oct},
+articleno = {300},
+numpages = {27},
+keywords = {message passing, distributed systems, Formal verification}
+}
+```
+
 
 ### mus
 
@@ -4547,7 +4567,7 @@ publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 url = {https://doi.org/10.1145/2509136.2509538},
 doi = {10.1145/2509136.2509538},
-booktitle = {Proceedings of the 2013 ACM SIGPLAN International Conference on Object Oriented Programming Systems Languages &amp; Applications},
+booktitle = {Proceedings of the 2013 ACM SIGPLAN International Conference on Object Oriented Programming Systems Languages and Applications},
 pages = {151-166},
 numpages = {16},
 keywords = {race detection, web, asynchrony, nondeterminism, concurrency},
