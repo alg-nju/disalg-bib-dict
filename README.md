@@ -2536,6 +2536,27 @@ publisher = {{USENIX} Association},
 
 ## H
 
+### hac
+
+```
+@inproceedings{Hackett23,
+author = {Hackett, Finn and Hosseini, Shayan and Costa, Renato and Do, Matthew and Beschastnikh, Ivan},
+title = {Compiling Distributed System Models with PGo},
+year = {2023},
+isbn = {9781450399166},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3575693.3575695},
+doi = {10.1145/3575693.3575695},
+booktitle = {Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2},
+pages = {159–175},
+numpages = {17},
+keywords = {Compilers, Distributed systems, Formal methods, PlusCal, TLA+},
+location = {Vancouver, BC, Canada},
+series = {ASPLOS 2023}
+}
+```
+
 ### had
 
 ```
@@ -5490,7 +5511,7 @@ pages = {213-228},
 ### yoo
 
 ```
-@inproceedings{10.1145/3458336.3465299,
+@inproceedings{Yoo21,
     author = {Yoo, Andrew and Wang, Yuanli and Sinha, Ritesh and Mu, Shuai and Xu, Tianyin},
     title = {Fail-Slow Fault Tolerance Needs Programming Support},
     year = {2021},
